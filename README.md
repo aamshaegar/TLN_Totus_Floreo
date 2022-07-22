@@ -1,7 +1,7 @@
 # TLN_Totus_Floreo
 ## Repository per esame di Tecnologie del linguaggio Naturale
--
--
+
+
 ### Alcune cose da sapere:
 Questo repository raccoglie tutte le esercitazioni che ho fatto per l'esame di TLN. Alcune di queste vi torneranno, forse, familiari. In effetti ho preso spunto da progetti degli anni passati che mi sono stati dati, e con la stessa idea di favorire chi è in difficoltà mi trovo a fare lo stesso con voi. 
 
