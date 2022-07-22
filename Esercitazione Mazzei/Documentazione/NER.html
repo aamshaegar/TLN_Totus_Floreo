@@ -1,0 +1,1755 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="generator" content="pdoc 0.10.0" />
+<title>NER API documentation</title>
+<meta name="description" content="" />
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
+<link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
+<style>:root{--highlight-color:#fe9}.flex{display:flex !important}body{line-height:1.5em}#content{padding:20px}#sidebar{padding:30px;overflow:hidden}#sidebar > *:last-child{margin-bottom:2cm}.http-server-breadcrumbs{font-size:130%;margin:0 0 15px 0}#footer{font-size:.75em;padding:5px 30px;border-top:1px solid #ddd;text-align:right}#footer p{margin:0 0 0 1em;display:inline-block}#footer p:last-child{margin-right:30px}h1,h2,h3,h4,h5{font-weight:300}h1{font-size:2.5em;line-height:1.1em}h2{font-size:1.75em;margin:1em 0 .50em 0}h3{font-size:1.4em;margin:25px 0 10px 0}h4{margin:0;font-size:105%}h1:target,h2:target,h3:target,h4:target,h5:target,h6:target{background:var(--highlight-color);padding:.2em 0}a{color:#058;text-decoration:none;transition:color .3s ease-in-out}a:hover{color:#e82}.title code{font-weight:bold}h2[id^="header-"]{margin-top:2em}.ident{color:#900}pre code{background:#f8f8f8;font-size:.8em;line-height:1.4em}code{background:#f2f2f1;padding:1px 4px;overflow-wrap:break-word}h1 code{background:transparent}pre{background:#f8f8f8;border:0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin:1em 0;padding:1ex}#http-server-module-list{display:flex;flex-flow:column}#http-server-module-list div{display:flex}#http-server-module-list dt{min-width:10%}#http-server-module-list p{margin-top:0}.toc ul,#index{list-style-type:none;margin:0;padding:0}#index code{background:transparent}#index h3{border-bottom:1px solid #ddd}#index ul{padding:0}#index h4{margin-top:.6em;font-weight:bold}@media (min-width:200ex){#index .two-column{column-count:2}}@media (min-width:300ex){#index .two-column{column-count:3}}dl{margin-bottom:2em}dl dl:last-child{margin-bottom:4em}dd{margin:0 0 1em 3em}#header-classes + dl > dd{margin-bottom:3em}dd dd{margin-left:2em}dd p{margin:10px 0}.name{background:#eee;font-weight:bold;font-size:.85em;padding:5px 10px;display:inline-block;min-width:40%}.name:hover{background:#e0e0e0}dt:target .name{background:var(--highlight-color)}.name > span:first-child{white-space:nowrap}.name.class > span:nth-child(2){margin-left:.4em}.inherited{color:#999;border-left:5px solid #eee;padding-left:1em}.inheritance em{font-style:normal;font-weight:bold}.desc h2{font-weight:400;font-size:1.25em}.desc h3{font-size:1em}.desc dt code{background:inherit}.source summary,.git-link-div{color:#666;text-align:right;font-weight:400;font-size:.8em;text-transform:uppercase}.source summary > *{white-space:nowrap;cursor:pointer}.git-link{color:inherit;margin-left:1em}.source pre{max-height:500px;overflow:auto;margin:0}.source pre code{font-size:12px;overflow:visible}.hlist{list-style:none}.hlist li{display:inline}.hlist li:after{content:',\2002'}.hlist li:last-child:after{content:none}.hlist .hlist{display:inline;padding-left:1em}img{max-width:100%}td{padding:0 .5em}.admonition{padding:.1em .5em;margin-bottom:1em}.admonition-title{font-weight:bold}.admonition.note,.admonition.info,.admonition.important{background:#aef}.admonition.todo,.admonition.versionadded,.admonition.tip,.admonition.hint{background:#dfd}.admonition.warning,.admonition.versionchanged,.admonition.deprecated{background:#fd4}.admonition.error,.admonition.danger,.admonition.caution{background:lightpink}</style>
+<style media="screen and (min-width: 700px)">@media screen and (min-width:700px){#sidebar{width:30%;height:100vh;overflow:auto;position:sticky;top:0}#content{width:70%;max-width:100ch;padding:3em 4em;border-left:1px solid #ddd}pre code{font-size:1em}.item .name{font-size:1em}main{display:flex;flex-direction:row-reverse;justify-content:flex-end}.toc ul ul,#index ul{padding-left:1.5em}.toc > ul > li{margin-top:.5em}}</style>
+<style media="print">@media print{#sidebar h1{page-break-before:always}.source{display:none}}@media print{*{background:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a[href]:after{content:" (" attr(href) ")";font-size:90%}a[href][title]:after{content:none}abbr[title]:after{content:" (" attr(title) ")"}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100% !important}@page{margin:0.5cm}p,h2,h3{orphans:3;widows:3}h1,h2,h3,h4,h5,h6{page-break-after:avoid}}</style>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js" integrity="sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8=" crossorigin></script>
+<script>window.addEventListener('DOMContentLoaded', () => hljs.initHighlighting())</script>
+</head>
+<body>
+<main>
+<article id="content">
+<header>
+<h1 class="title">Module <code>NER</code></h1>
+</header>
+<section id="section-intro">
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">import numpy
+import math
+import re
+
+class NERtagger:
+    &#34;&#34;&#34;
+        A class used to perform Named Entity Reconition 
+
+        Public methods:
+            get_tagSet(): return the tagset readed during the learning process
+            get_sentence_number(): return the number of all sentences readed during the learing process
+            get_evaluating_metrics(): Return 2 values, a dictionary with all metrics used to evaluating the Tagger, sorting per entity, and the accuracy of the tagger
+        
+        On __init__ (datasetPath):
+            Performs the learning on a training dataset (datasetPath) organized in CoNLL style 
+            USAGE DATASET: ID, WORD, TAG
+    &#34;&#34;&#34;
+    
+    def __init__(self, dataset_path):
+        &#34;&#34;&#34;
+            Args:
+                [Optionally] dataset_path(str): the path of a training dataset uset to perform the learning 
+        &#34;&#34;&#34;
+        self.__labelled_dataset = []
+        self.__tag_set = []
+        self.__tag_entity = dict()
+        self.__tag_occurrences = dict()            
+        self.__tag_initial_occurrences = dict()     
+        self.__tag_final_occurrences = dict() 
+        self.__start_probability = dict()
+        self.__final_probability = dict()
+        self.__transitions = dict()
+        self.__emissions = dict()
+        self.__baseline_tag = dict()
+        self.__statistics = {}
+        self.__sentence_number = 0
+        self.__transition_smoothing = 0.00000000000000000001
+
+        self.__metrics = {&#34;ORG&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;PER&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;MISC&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;LOC&#34;: {&#34;COR&#34;:0,  &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}}
+        
+        self.__accuracy = { &#34;GENERAL&#34;: {&#34;ACCURACY&#34;:0},
+                            &#34;ORG&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;PER&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;MISC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;LOC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;O&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 , &#34;ACCURACY&#34;:0}}
+        self.__last_smoothing = &#34;&#34;
+        self.__learning(dataset_path)
+
+        
+    def get_tagSet(self):
+        &#34;&#34;&#34;
+            Return the tag set reading from the training set
+        &#34;&#34;&#34;
+        return self.__tag_set
+
+
+    def get_sentence_number(self):
+        &#34;&#34;&#34;
+            Return the number of the sentences of the training set
+        &#34;&#34;&#34;
+        return self.__sentence_number
+
+
+    def get_evaluating_metrics(self):
+        &#34;&#34;&#34;
+            Return 2 values: a dictionary with all metrics used to evaluating the Tagger sorting per entity and the accuracy of the tagger
+            For each entity, the dictionary specifies 7 metrics:
+                 COR: Number of correct entity tagged for all sentences in the test_set
+                 MIS: Number of entity that are missed by the tagger
+                 HYP: Number of entity hypothesized by the tagger
+                 PRECISION: Precision metric computing as: COR / (COR + HYP)
+                 RECALL: Recall metric computing as: COR / (COR + MIS)
+                 F1SCORE: F1-score is the harmonic mean of precision and recall
+            
+            USAGE: call this method after testing NER on a test set
+        &#34;&#34;&#34;
+        return self.__metrics, self.__accuracy
+
+
+    def viterbi(self, observations, smoothing):
+        &#34;&#34;&#34;
+            Viterbi algorithm for decoding.
+            
+            Args:
+                observations(list str): a list of a observations
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities. 
+                Accepted values: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+               
+            Exceptions:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                ValueError exception: for incorrect smoothing parameter
+                FileNotFound exception: in dataset not exists
+
+            Returns:
+                best_path(list str): a list of a tag used to tagging the observation passed on args
+        &#34;&#34;&#34;
+  
+        # for multiple execution on the same NERtagger istance
+        if self.__last_smoothing != smoothing:
+            self.__last_smoothing = smoothing
+            self.__emissions = dict()
+        try:
+            self.__all_emission_probability(observations, smoothing)
+        except ValueError as e:
+            print(e)
+            exit()
+          
+        #Initialize step
+        viterbi_matrix = numpy.zeros((len(self.__tag_set), len(observations)), dtype =float)
+        backpointer = numpy.zeros((len(self.__tag_set), len(observations)), dtype =int)
+        for s in range(len(self.__tag_set)):
+            viterbi_matrix[s, 0] = self.__start_probability[self.__tag_set[s]] * self.__emissions[observations[0]][s]
+
+        #iteration step
+        for o in range(1, len(observations)):
+            for s in range(len(self.__tag_set)):
+                prec = viterbi_matrix[:, o-1]  
+                trans = self.__transitions[self.__tag_set[s]] 
+                em = self.__emissions[observations[o]][s] 
+                product = [prec[i] * trans[i] * em for i in range(len(prec))]
+                maxIndex = numpy.argmax(product)
+                viterbi_matrix[s,o] = viterbi_matrix[maxIndex,o-1] * self.__transitions[self.__tag_set[s]][maxIndex] * em
+                backpointer[s, o] = maxIndex
+    
+        
+        # final step
+        # backtracking from last observation to the first in order
+        bestPath = [&#34;&#34; for el in observations]
+        finalState = [viterbi_matrix[i , len(observations)-1] * self.__final_probability[self.__tag_set[i]] for i in range(len(self.__tag_set))]
+        maxIndex = numpy.argmax(finalState)
+
+        for o in range(len(observations)-1, -1, -1):
+            bestPath[o] = self.__tag_set[maxIndex]
+            maxIndex = backpointer[maxIndex, o]
+
+        return bestPath
+        
+
+    def baseline(self, observations, smoothing_tag):
+        &#34;&#34;&#34;
+            Definition of a baseline to make a comparison with the viterbi algorithm
+            This baseline assigns the most frequent tag in the training dataset, for unknown word assigns smoothing_tag
+            
+            Args:
+                observations(list str): a list of a observations
+                smoothing_tag(str): a tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag.  
+                USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]               
+
+            Returns:
+                best_path(list str): a list of a tag used to tagging the observation passed on args
+        &#34;&#34;&#34;
+        
+        if not smoothing_tag in self.__tag_set:   
+            raise ValueError(&#34;Incorrect using of smoothing parameter!\n USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]&#34;)
+
+        best_path = []
+        if not len(self.__baseline_tag) == 0:
+            exclusive = [obs for obs in observations if not(obs in self.__baseline_tag)]
+            for i in range(len(observations)):
+                if observations[i] in exclusive:
+                    best_path.insert(i, smoothing_tag)
+                else:
+                    tag = numpy.argmax(self.__baseline_tag[observations[i]])
+                    best_path.insert(i, self.__tag_set[tag])
+            return best_path
+        
+        
+        occurrences = dict()
+        for sent in observations:
+            if not sent in occurrences:
+                occurrences[sent] = [0 for el in self.__tag_set]
+
+        # counts (word,tag) occurrences
+        for line in self.__labelled_dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                if word in observations:
+                    tag_index = self.__tag_set.index(tag)
+                    occurrences[word][tag_index] += 1 
+
+        # if observation[i] is unknown assigns B-MISC otherwise most frequent tag
+        for i in range(len(observations)):
+            tag_occurrences = occurrences[observations[i]]
+            check = [el for el in tag_occurrences if el == 0]
+            if len(tag_occurrences) == len(check):
+                best_path.insert(i, smoothing_tag)
+            else:
+                tag = numpy.argmax(occurrences[observations[i]])
+                best_path.insert(i, self.__tag_set[tag])
+        
+        return best_path
+
+
+    def testing_viterbi(self, test_set_path, smoothing, number_sentence = None):
+        &#34;&#34;&#34;
+            Testing HMM NER tagger with Viterbi&#39;s decoding algorithm on a testing dataset
+
+            Args:
+                test_set_path(str): path to a test dataset organize in CoNLL style
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities.
+                    USAGE: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+                [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+
+            Exceptions:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                ValueError exception: for incorrect smoothing parameter
+                FileNotFound exception: in dataset not exists
+        &#34;&#34;&#34;
+
+        try:
+            dataset = self.__open_and_check(test_set_path)
+        except Exception as e:
+            print(e)
+            exit()
+
+        self.__reinitialize()
+        sentences = []
+        sentence = []
+        for line in dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                sentence.append((word,tag))
+            else:
+                sentences.append(sentence)
+                sentence = []
+        
+        n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+        
+        for coupplesTagged in sentences[:number_sentence]:
+            sentenceSplitted = [el[0] for el in coupplesTagged]
+            best_path = self.viterbi(sentenceSplitted, smoothing)
+            correct_best_path = [couple[1] for couple in coupplesTagged]
+            self.__evaluation_measures(correct_best_path, best_path)
+
+        # accurarcy, precision and recall
+        self.__fill_metrics(n_sentences)
+        
+
+    def testing_baseline(self, test_set_path, smoothing_tag, number_sentence = None):
+        &#34;&#34;&#34;
+            Testing of a simple baseline on a testing dataset
+
+            Args:
+                test_set_path(str): path to a test dataset organize in CoNLL style
+                smoothing_tag(str): A tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag. USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...] 
+                [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+        &#34;&#34;&#34;
+
+        try:
+            dataset = self.__open_and_check(test_set_path)
+        except Exception as e:
+            print(e)
+            exit()
+            
+        self.__reinitialize()
+        sentences = []
+        sentence = []
+        for line in dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                sentence.append((word,tag))
+            else:
+                sentences.append(sentence)
+                sentence = []
+
+        n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+        
+        for line in self.__labelled_dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                tag_index = self.__tag_set.index(tag)
+                if word not in self.__baseline_tag:
+                    self.__baseline_tag[word] = [0 for el in self.__tag_set]
+                    self.__baseline_tag[word][tag_index] = 1
+                else:
+                    self.__baseline_tag[word][tag_index] += 1
+
+        for coupplesTagged in sentences[:number_sentence]:
+            sentence_splitted = [el[0] for el in coupplesTagged]
+
+            try: best_path = self.baseline(sentence_splitted, smoothing_tag)
+            except Exception as e:
+                print(e)
+                exit()
+                
+            correct_best_path = [couple[1] for couple in coupplesTagged]
+            self.__evaluation_measures(correct_best_path, best_path)
+        
+        self.__fill_metrics(n_sentences)
+
+
+
+    # Private methods
+    def __learning(self, dataset_path):
+        &#34;&#34;&#34;
+            Performs the learning on a training dataset organized in CoNLL style
+            This function counts the sentences number, retrieves the tagset and calculate all transition, initial and final probabilities
+
+            Args:
+                dataset_path(str): the path of a training dataset uset to perform the learning 
+            
+            Exception:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                FileNotFound exception: in dataset not exists
+        &#34;&#34;&#34;
+        
+        try:
+            self.__labelled_dataset = self.__open_and_check(dataset_path)
+        except Exception as e:
+            print(e)
+            exit()
+               
+        for i in range(len(self.__labelled_dataset)):        
+            
+            if self.__labelled_dataset[i].split() != []:
+                if i == len(self.__labelled_dataset)-1:
+                    id, _, tag = self.__labelled_dataset[i].split()
+                    if tag not in self.__tag_final_occurrences:
+                        self.__tag_final_occurrences[tag] = 1
+                    else:
+                        self.__tag_final_occurrences[tag] += 1
+
+                id, _, tag = self.__labelled_dataset[i].split()
+                if id == &#34;0&#34;:
+                    self.__sentence_number += 1
+                    if tag not in self.__tag_initial_occurrences:
+                        self.__tag_initial_occurrences[tag] = 1
+                    else:
+                        self.__tag_initial_occurrences[tag] += 1
+           
+                if tag not in self.__tag_set:
+                    self.__tag_set.append(tag)
+                if tag not in self.__tag_occurrences:
+                    self.__tag_occurrences[tag] = 1
+                else:
+                    self.__tag_occurrences[tag] += 1       
+            else:
+                id, _, tag = self.__labelled_dataset[i-1].split()
+                if tag not in self.__tag_final_occurrences:
+                    self.__tag_final_occurrences[tag] = 1
+                else:
+                    self.__tag_final_occurrences[tag] += 1
+        
+        self.__transition_probabilities_matrix()
+        self.__initial_probability()
+        self.__end_probability()
+
+
+    def __open_and_check(self, dataset_path):
+        &#34;&#34;&#34;
+            Open a file organize in CoNLL style
+            
+            Args:
+                dataset_path(str): path of a file
+
+            Exception:
+                throw FileNotFoundError if file not exists
+        &#34;&#34;&#34;
+        try:
+            dataset = open(dataset_path, &#34;r&#34;, encoding=&#39;utf8&#39;)
+        except FileNotFoundError:
+            print(&#34;Error! File not found...&#34;)
+            exit()
+
+        dataset_lines = dataset.readlines()
+        if dataset_lines == []:
+            raise ValueError(&#34;Error, void dataSet in input!&#34;)
+
+        if len(dataset_lines[0].split()) != 3:
+            raise ValueError(&#34;Error reading dataSet fields.\nDataSet must have 3 fields!\nAccepted dataSet has this form: ID, WORD, TAG&#34;)
+
+        dataset.close()
+        return dataset_lines
+
+
+    def __initial_probability(self):
+        &#34;&#34;&#34;
+            This function calculates all initial probability P(TAG|START) for all TAG in tagset as:
+            count(tag_initial_occurrences) / Count(sentence_number) 
+        &#34;&#34;&#34;
+        for tag in self.__tag_set:
+            if tag not in self.__start_probability:
+                if tag not in self.__tag_initial_occurrences:
+                    self.__start_probability[tag] = self.__transition_smoothing
+                else:
+                    self.__start_probability[tag] = self.__tag_initial_occurrences[tag] / self.__sentence_number
+
+
+    def __end_probability(self):
+        &#34;&#34;&#34;
+            This function calculates all final probability P(END|TAG) for all TAG in tagset as:
+            count(tag_final_occurrences) / count(tag_occurrences)
+        &#34;&#34;&#34;
+        for tag in self.__tag_set:
+            if tag not in self.__final_probability:
+                if tag not in self.__tag_final_occurrences:
+                    self.__final_probability[tag] = self.__transition_smoothing
+                else:
+                    self.__final_probability[tag] = self.__tag_final_occurrences[tag] / self.__tag_occurrences[tag]
+
+
+    def __transition_probabilities_matrix(self):
+        &#34;&#34;&#34;
+            This function calculates all transition probabilities P(TAG|TAGi) for all TAG and i in range(tagset)
+        &#34;&#34;&#34;
+        tagset = self.__tag_set
+        for tag in tagset:
+            if not tag in self.__transitions:
+                self.__transitions[tag] = [0 for el in tagset]
+
+        # counts for all sentence the tag1,tag2 occurrences
+        for i in range(len(self.__labelled_dataset)-1):
+            if(self.__labelled_dataset[i].split() != [] and self.__labelled_dataset[i+1].split() != []):
+                _, _, tag1 = self.__labelled_dataset[i].split()
+                _, _, tag2 = self.__labelled_dataset[i+1].split()
+                tag1_index = tagset.index(tag1)
+                self.__transitions[tag2][tag1_index] += 1
+                
+        # divides all occurrences tag1,tag2 by tag1 occurrences
+        for tag in self.__transitions:
+            for i in range(len(self.__transitions[tag])):
+                if(self.__transitions[tag][i] == 0):
+                    self.__transitions[tag][i] = self.__transition_smoothing
+                else:
+                    self.__transitions[tag][i] = self.__transitions[tag][i]/ self.__tag_occurrences[tagset[i]]    
+
+        # la somma delle P(TAGi | TAG2) per ogni i e fissato TAG2 è uguale a 1
+        
+
+    def __all_emission_probability(self, observations, smoothing):
+        &#34;&#34;&#34;
+            This function calculates all the emission probabilities P(observations_i|TAGj) for all tag
+            and for all observations in the training dataset
+
+            Args:
+                observations(list str): a list of a observations
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities
+                validation_path(str): the path of a validation set to perform the smoothing4 strategy
+        &#34;&#34;&#34;
+
+        if not smoothing in [&#34;smoothing1&#34;, &#34;smoothing2&#34;, &#34;smoothing3&#34;]:
+            check_path = re.search(&#34;.*.txt$&#34;, smoothing)
+            if not check_path:          
+                raise ValueError(&#34;Incorrect using of smoothing parameter!\n USAGE: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file .txt path&#34;)
+
+
+        tagset = self.__tag_set
+        if len(self.__emissions) == 0:
+            for line in self.__labelled_dataset:
+                if line.split() != []:
+                    _, word, tag = line.split()
+                    tag_index = tagset.index(tag)
+                    if word not in self.__emissions:
+                        self.__emissions[word] = [0 for el in tagset]
+                        self.__emissions[word][tag_index] = 1
+                    else:
+                        self.__emissions[word][tag_index] += 1
+        
+            for word in self.__emissions:
+                for i in range(len(self.__emissions[word])):
+                    self.__emissions[word][i] = self.__emissions[word][i] / self.__tag_occurrences[tagset[i]]
+
+        # list of unknown words
+        exclusive = [sent for sent in observations if not sent in self.__emissions]
+        if len(exclusive) == 0:
+            return
+        
+        #smoothing
+        check_path = re.search(&#34;.*.txt$&#34;, smoothing)
+        if check_path and self.__statistics == {}:
+            self.__statistics = self.__smoothing4(smoothing)
+
+        for sent in exclusive:    
+            self.__emissions.update({sent:[0 for el in tagset]})
+            for i in range(len(self.__emissions[sent])):
+                if smoothing == &#34;smoothing1&#34;:
+                    self.__emissions[sent][i] = 1 if tagset[i] == &#34;O&#34; else 0
+                elif smoothing == &#34;smoothing2&#34;:
+                    self.__emissions[sent][i] = 0.5 if tagset[i] in [&#34;O&#34;, &#34;B-MISC&#34;] else 0
+                elif smoothing == &#34;smoothing3&#34;:
+                    self.__emissions[sent][i] = 1 / len(tagset)
+                elif check_path:
+                    self.__emissions[sent][i] = self.__statistics[&#34;tagCount&#34;][i] / self.__statistics[&#34;length&#34;]
+
+
+    def __smoothing4(self, validation_path):
+        &#34;&#34;&#34;
+            This function performs a smoothing strategy for calculate the emission probabilities for the unknown words.
+            Assume the unknown words have a probability distribution similar to words only occurring once in the validation set.
+            Returns an unknown object(tagcount:int, length:int)
+        &#34;&#34;&#34;
+
+        try:
+            datasetLines = self.__open_and_check(validation_path)
+        except Exception as e:
+            print(e)
+            exit()
+            
+        occurrences = dict()
+        for line in datasetLines:
+            if line.split() != []:
+                _, word, tag = line.split()
+                if not word in occurrences:
+                    occurrences[word] = tag
+                else:
+                    occurrences[word] = &#34;No&#34;
+        
+        tagCount = [0 for el in self.__tag_set]
+        for word in occurrences:
+            if occurrences[word] != &#34;No&#34;:
+                tagCount[self.__tag_set.index(occurrences[word])] += 1
+        
+        return {&#34;tagCount&#34;:tagCount, &#34;length&#34;:sum(tagCount)}
+      
+
+    def __evaluation_measures(self, correct_best_path, best_path):
+        &#34;&#34;&#34;
+            Calculates accuracy, precision and recall evaluations metrics, from the test_set analysis
+
+            Args:
+                coorrect_best_path(list str): list of tag corresponding to the correct tags
+                best_path(list str): list of tag tagged by the NER
+        &#34;&#34;&#34;
+
+        # for general accuracy:
+        check = len([i for i in range(len(correct_best_path)) if correct_best_path[i] == best_path[i]])
+        self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] += (check / len(correct_best_path))
+        
+        # for accuracy of tag O
+        total_O = len([i for i in range(len(correct_best_path)) if correct_best_path[i] == &#34;O&#34;])
+        check = len([i for i in range(len(correct_best_path)) if (correct_best_path[i] == best_path[i]) and correct_best_path[i] == &#34;O&#34;])
+        self.__accuracy[&#34;O&#34;][&#34;COR&#34;] += check
+        self.__accuracy[&#34;O&#34;][&#34;TOT&#34;] += total_O
+
+        # for accuracy, precision and recall on entities:
+        # for each TAG it calculates the NER entities both on the original sentence and on the sentence analyzed by the tagger
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;ORG&#34;, &#34;B-ORG&#34;, &#34;I-ORG&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;PER&#34;, &#34;B-PER&#34;, &#34;I-PER&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;MISC&#34;, &#34;B-MISC&#34;, &#34;I-MISC&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;LOC&#34;, &#34;B-LOC&#34;, &#34;I-LOC&#34;)
+
+    
+    def __metrics_per_tag_entity(self, correct_best_path, best_path, tag_entity, tagB, tagI):
+        &#34;&#34;&#34;
+            For each (B-TAG, I-TAG) it calculates the NER entities 
+            both on the original sentence and on the sentence analyzed by the tagger
+    
+            Args:
+                coorrect_best_path(list str): list of tag corresponding to the correct tags
+                best_path(list str): list of tag tagged by the NER
+                tag_entity(str): normal form of a entity tag
+                tagB (str): a B-TAG
+                tagI (str): a I-TAG
+        &#34;&#34;&#34;
+
+
+        # computing accuracy per ENTITY:   
+        totals = len([i for i in range(len(correct_best_path)) if (correct_best_path[i] == tagB) or correct_best_path[i] == tagI])
+        self.__accuracy[tag_entity][&#34;TOT&#34;] += totals
+
+        for i in range(len(correct_best_path)):
+            if((correct_best_path[i] == tagB) and (best_path[i] == tagB)) or ((correct_best_path[i] == tagI) and (best_path[i] == tagI)):
+                self.__accuracy[tag_entity][&#34;COR&#34;] += 1
+
+        
+        entity = []                 # all the entity in the correct list of tag
+        tagged_entity = []          # all the entity tagged by the NER tagger
+
+        for i in range(len(correct_best_path)):
+            if correct_best_path[i] == tagB:
+                j = i+1
+                check = False
+                while j &lt; len(correct_best_path) and correct_best_path[j] == tagI:
+                    j += 1
+                    check = True
+                if check: 
+                    entity.append((tagB, i, j-1))
+                    i = j
+                else:
+                    entity.append((tagB, i, i))
+
+        i = 0
+        while (i &lt; len(best_path)):
+            if best_path[i] == tagB:
+                j = i+1
+                check = False
+                while j &lt; len(best_path) and best_path[j] == tagI:
+                    j += 1
+                    check = True
+                if check: 
+                    tagged_entity.append((tagB, i, j-1))
+                    i = j-1
+                else:
+                    tagged_entity.append((tagB, i, i))
+            i+=1
+
+
+        # calculates true positives as all those correctly labeled entities
+        # calculate false negatives as all those entities not tagged by the NER tagger (tag O)  
+        for el in entity:
+            if el in tagged_entity: self.__metrics[tag_entity][&#34;COR&#34;] += 1
+            else: self.__metrics[tag_entity][&#34;MIS&#34;] += 1
+        
+        # calculates false positives such as tagged entities
+        #   as positive but they were actually negative
+        for el in tagged_entity:
+            if not el in entity: self.__metrics[tag_entity][&#34;HYP&#34;] += 1
+
+
+    def __fill_metrics(self, number_sentences):
+        &#34;&#34;&#34;
+            Utility function, used to fill the evaluation metric dictionaries 
+        &#34;&#34;&#34;
+
+
+        # general accurarcy 
+        self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] = round(100 * (self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] / number_sentences),3)
+        self.__accuracy[&#34;O&#34;][&#34;ACCURACY&#34;] = round(100 * (self.__accuracy[&#34;O&#34;][&#34;COR&#34;] / self.__accuracy[&#34;O&#34;][&#34;TOT&#34;]),3)
+
+        # local accuracy, precision, recall, f1score
+        for entity in self.__metrics:
+            if entity != &#34;O&#34;:
+
+                metric = self.__metrics[entity]
+                if((metric[&#34;COR&#34;] + metric[&#34;HYP&#34;]) &gt; 0):
+                    precision = round(100 * (metric[&#34;COR&#34;] / (metric[&#34;COR&#34;] + metric[&#34;HYP&#34;])),3)
+                    recall = round(100 * (metric[&#34;COR&#34;] / (metric[&#34;COR&#34;] + metric[&#34;MIS&#34;])),3)
+                    self.__metrics[entity][&#34;PRECISION&#34;] = precision
+                    self.__metrics[entity][&#34;RECALL&#34;] = recall
+                    self.__metrics[entity][&#34;F1SCORE&#34;] = round((2 * precision * recall) / (precision + recall),3)
+                
+                if (self.__accuracy[entity][&#34;TOT&#34;] &gt; 0):
+                    entity_accuracy = round(100 * (self.__accuracy[entity][&#34;COR&#34;] / self.__accuracy[entity][&#34;TOT&#34;]), 3)
+                
+                self.__accuracy[entity][&#34;ACCURACY&#34;] = entity_accuracy
+
+
+    def __reinitialize(self):
+        &#34;&#34;&#34;
+            Reinitialize all evaluating metrics for a second analysis
+        &#34;&#34;&#34;
+        self.__emissions = dict()
+        self.__accuracy = 0
+        self.__metrics = {&#34;ORG&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;PER&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;MISC&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;LOC&#34;: {&#34;COR&#34;:0,  &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}}
+        
+        self.__accuracy = { &#34;GENERAL&#34;: {&#34;ACCURACY&#34;:0},
+                            &#34;ORG&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;PER&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;MISC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;LOC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;O&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 , &#34;ACCURACY&#34;:0}}   </code></pre>
+</details>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+<h2 class="section-title" id="header-classes">Classes</h2>
+<dl>
+<dt id="NER.NERtagger"><code class="flex name class">
+<span>class <span class="ident">NERtagger</span></span>
+<span>(</span><span>dataset_path)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>A class used to perform Named Entity Reconition </p>
+<p>Public methods:
+get_tagSet(): return the tagset readed during the learning process
+get_sentence_number(): return the number of all sentences readed during the learing process
+get_evaluating_metrics(): Return 2 values, a dictionary with all metrics used to evaluating the Tagger, sorting per entity, and the accuracy of the tagger</p>
+<p>On <strong>init</strong> (datasetPath):
+Performs the learning on a training dataset (datasetPath) organized in CoNLL style
+USAGE DATASET: ID, WORD, TAG</p>
+<h2 id="args">Args</h2>
+<p>[Optionally] dataset_path(str): the path of a training dataset uset to perform the learning</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">class NERtagger:
+    &#34;&#34;&#34;
+        A class used to perform Named Entity Reconition 
+
+        Public methods:
+            get_tagSet(): return the tagset readed during the learning process
+            get_sentence_number(): return the number of all sentences readed during the learing process
+            get_evaluating_metrics(): Return 2 values, a dictionary with all metrics used to evaluating the Tagger, sorting per entity, and the accuracy of the tagger
+        
+        On __init__ (datasetPath):
+            Performs the learning on a training dataset (datasetPath) organized in CoNLL style 
+            USAGE DATASET: ID, WORD, TAG
+    &#34;&#34;&#34;
+    
+    def __init__(self, dataset_path):
+        &#34;&#34;&#34;
+            Args:
+                [Optionally] dataset_path(str): the path of a training dataset uset to perform the learning 
+        &#34;&#34;&#34;
+        self.__labelled_dataset = []
+        self.__tag_set = []
+        self.__tag_entity = dict()
+        self.__tag_occurrences = dict()            
+        self.__tag_initial_occurrences = dict()     
+        self.__tag_final_occurrences = dict() 
+        self.__start_probability = dict()
+        self.__final_probability = dict()
+        self.__transitions = dict()
+        self.__emissions = dict()
+        self.__baseline_tag = dict()
+        self.__statistics = {}
+        self.__sentence_number = 0
+        self.__transition_smoothing = 0.00000000000000000001
+
+        self.__metrics = {&#34;ORG&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;PER&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;MISC&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;LOC&#34;: {&#34;COR&#34;:0,  &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}}
+        
+        self.__accuracy = { &#34;GENERAL&#34;: {&#34;ACCURACY&#34;:0},
+                            &#34;ORG&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;PER&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;MISC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;LOC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;O&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 , &#34;ACCURACY&#34;:0}}
+        self.__last_smoothing = &#34;&#34;
+        self.__learning(dataset_path)
+
+        
+    def get_tagSet(self):
+        &#34;&#34;&#34;
+            Return the tag set reading from the training set
+        &#34;&#34;&#34;
+        return self.__tag_set
+
+
+    def get_sentence_number(self):
+        &#34;&#34;&#34;
+            Return the number of the sentences of the training set
+        &#34;&#34;&#34;
+        return self.__sentence_number
+
+
+    def get_evaluating_metrics(self):
+        &#34;&#34;&#34;
+            Return 2 values: a dictionary with all metrics used to evaluating the Tagger sorting per entity and the accuracy of the tagger
+            For each entity, the dictionary specifies 7 metrics:
+                 COR: Number of correct entity tagged for all sentences in the test_set
+                 MIS: Number of entity that are missed by the tagger
+                 HYP: Number of entity hypothesized by the tagger
+                 PRECISION: Precision metric computing as: COR / (COR + HYP)
+                 RECALL: Recall metric computing as: COR / (COR + MIS)
+                 F1SCORE: F1-score is the harmonic mean of precision and recall
+            
+            USAGE: call this method after testing NER on a test set
+        &#34;&#34;&#34;
+        return self.__metrics, self.__accuracy
+
+
+    def viterbi(self, observations, smoothing):
+        &#34;&#34;&#34;
+            Viterbi algorithm for decoding.
+            
+            Args:
+                observations(list str): a list of a observations
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities. 
+                Accepted values: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+               
+            Exceptions:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                ValueError exception: for incorrect smoothing parameter
+                FileNotFound exception: in dataset not exists
+
+            Returns:
+                best_path(list str): a list of a tag used to tagging the observation passed on args
+        &#34;&#34;&#34;
+  
+        # for multiple execution on the same NERtagger istance
+        if self.__last_smoothing != smoothing:
+            self.__last_smoothing = smoothing
+            self.__emissions = dict()
+        try:
+            self.__all_emission_probability(observations, smoothing)
+        except ValueError as e:
+            print(e)
+            exit()
+          
+        #Initialize step
+        viterbi_matrix = numpy.zeros((len(self.__tag_set), len(observations)), dtype =float)
+        backpointer = numpy.zeros((len(self.__tag_set), len(observations)), dtype =int)
+        for s in range(len(self.__tag_set)):
+            viterbi_matrix[s, 0] = self.__start_probability[self.__tag_set[s]] * self.__emissions[observations[0]][s]
+
+        #iteration step
+        for o in range(1, len(observations)):
+            for s in range(len(self.__tag_set)):
+                prec = viterbi_matrix[:, o-1]  
+                trans = self.__transitions[self.__tag_set[s]] 
+                em = self.__emissions[observations[o]][s] 
+                product = [prec[i] * trans[i] * em for i in range(len(prec))]
+                maxIndex = numpy.argmax(product)
+                viterbi_matrix[s,o] = viterbi_matrix[maxIndex,o-1] * self.__transitions[self.__tag_set[s]][maxIndex] * em
+                backpointer[s, o] = maxIndex
+    
+        
+        # final step
+        # backtracking from last observation to the first in order
+        bestPath = [&#34;&#34; for el in observations]
+        finalState = [viterbi_matrix[i , len(observations)-1] * self.__final_probability[self.__tag_set[i]] for i in range(len(self.__tag_set))]
+        maxIndex = numpy.argmax(finalState)
+
+        for o in range(len(observations)-1, -1, -1):
+            bestPath[o] = self.__tag_set[maxIndex]
+            maxIndex = backpointer[maxIndex, o]
+
+        return bestPath
+        
+
+    def baseline(self, observations, smoothing_tag):
+        &#34;&#34;&#34;
+            Definition of a baseline to make a comparison with the viterbi algorithm
+            This baseline assigns the most frequent tag in the training dataset, for unknown word assigns smoothing_tag
+            
+            Args:
+                observations(list str): a list of a observations
+                smoothing_tag(str): a tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag.  
+                USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]               
+
+            Returns:
+                best_path(list str): a list of a tag used to tagging the observation passed on args
+        &#34;&#34;&#34;
+        
+        if not smoothing_tag in self.__tag_set:   
+            raise ValueError(&#34;Incorrect using of smoothing parameter!\n USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]&#34;)
+
+        best_path = []
+        if not len(self.__baseline_tag) == 0:
+            exclusive = [obs for obs in observations if not(obs in self.__baseline_tag)]
+            for i in range(len(observations)):
+                if observations[i] in exclusive:
+                    best_path.insert(i, smoothing_tag)
+                else:
+                    tag = numpy.argmax(self.__baseline_tag[observations[i]])
+                    best_path.insert(i, self.__tag_set[tag])
+            return best_path
+        
+        
+        occurrences = dict()
+        for sent in observations:
+            if not sent in occurrences:
+                occurrences[sent] = [0 for el in self.__tag_set]
+
+        # counts (word,tag) occurrences
+        for line in self.__labelled_dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                if word in observations:
+                    tag_index = self.__tag_set.index(tag)
+                    occurrences[word][tag_index] += 1 
+
+        # if observation[i] is unknown assigns B-MISC otherwise most frequent tag
+        for i in range(len(observations)):
+            tag_occurrences = occurrences[observations[i]]
+            check = [el for el in tag_occurrences if el == 0]
+            if len(tag_occurrences) == len(check):
+                best_path.insert(i, smoothing_tag)
+            else:
+                tag = numpy.argmax(occurrences[observations[i]])
+                best_path.insert(i, self.__tag_set[tag])
+        
+        return best_path
+
+
+    def testing_viterbi(self, test_set_path, smoothing, number_sentence = None):
+        &#34;&#34;&#34;
+            Testing HMM NER tagger with Viterbi&#39;s decoding algorithm on a testing dataset
+
+            Args:
+                test_set_path(str): path to a test dataset organize in CoNLL style
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities.
+                    USAGE: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+                [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+
+            Exceptions:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                ValueError exception: for incorrect smoothing parameter
+                FileNotFound exception: in dataset not exists
+        &#34;&#34;&#34;
+
+        try:
+            dataset = self.__open_and_check(test_set_path)
+        except Exception as e:
+            print(e)
+            exit()
+
+        self.__reinitialize()
+        sentences = []
+        sentence = []
+        for line in dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                sentence.append((word,tag))
+            else:
+                sentences.append(sentence)
+                sentence = []
+        
+        n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+        
+        for coupplesTagged in sentences[:number_sentence]:
+            sentenceSplitted = [el[0] for el in coupplesTagged]
+            best_path = self.viterbi(sentenceSplitted, smoothing)
+            correct_best_path = [couple[1] for couple in coupplesTagged]
+            self.__evaluation_measures(correct_best_path, best_path)
+
+        # accurarcy, precision and recall
+        self.__fill_metrics(n_sentences)
+        
+
+    def testing_baseline(self, test_set_path, smoothing_tag, number_sentence = None):
+        &#34;&#34;&#34;
+            Testing of a simple baseline on a testing dataset
+
+            Args:
+                test_set_path(str): path to a test dataset organize in CoNLL style
+                smoothing_tag(str): A tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag. USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...] 
+                [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+        &#34;&#34;&#34;
+
+        try:
+            dataset = self.__open_and_check(test_set_path)
+        except Exception as e:
+            print(e)
+            exit()
+            
+        self.__reinitialize()
+        sentences = []
+        sentence = []
+        for line in dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                sentence.append((word,tag))
+            else:
+                sentences.append(sentence)
+                sentence = []
+
+        n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+        
+        for line in self.__labelled_dataset:
+            if line.split() != []:
+                _, word, tag = line.split()
+                tag_index = self.__tag_set.index(tag)
+                if word not in self.__baseline_tag:
+                    self.__baseline_tag[word] = [0 for el in self.__tag_set]
+                    self.__baseline_tag[word][tag_index] = 1
+                else:
+                    self.__baseline_tag[word][tag_index] += 1
+
+        for coupplesTagged in sentences[:number_sentence]:
+            sentence_splitted = [el[0] for el in coupplesTagged]
+
+            try: best_path = self.baseline(sentence_splitted, smoothing_tag)
+            except Exception as e:
+                print(e)
+                exit()
+                
+            correct_best_path = [couple[1] for couple in coupplesTagged]
+            self.__evaluation_measures(correct_best_path, best_path)
+        
+        self.__fill_metrics(n_sentences)
+
+
+
+    # Private methods
+    def __learning(self, dataset_path):
+        &#34;&#34;&#34;
+            Performs the learning on a training dataset organized in CoNLL style
+            This function counts the sentences number, retrieves the tagset and calculate all transition, initial and final probabilities
+
+            Args:
+                dataset_path(str): the path of a training dataset uset to perform the learning 
+            
+            Exception:
+                ValueError exception: if dataset is incorrect formatting as CoNLL style
+                FileNotFound exception: in dataset not exists
+        &#34;&#34;&#34;
+        
+        try:
+            self.__labelled_dataset = self.__open_and_check(dataset_path)
+        except Exception as e:
+            print(e)
+            exit()
+               
+        for i in range(len(self.__labelled_dataset)):        
+            
+            if self.__labelled_dataset[i].split() != []:
+                if i == len(self.__labelled_dataset)-1:
+                    id, _, tag = self.__labelled_dataset[i].split()
+                    if tag not in self.__tag_final_occurrences:
+                        self.__tag_final_occurrences[tag] = 1
+                    else:
+                        self.__tag_final_occurrences[tag] += 1
+
+                id, _, tag = self.__labelled_dataset[i].split()
+                if id == &#34;0&#34;:
+                    self.__sentence_number += 1
+                    if tag not in self.__tag_initial_occurrences:
+                        self.__tag_initial_occurrences[tag] = 1
+                    else:
+                        self.__tag_initial_occurrences[tag] += 1
+           
+                if tag not in self.__tag_set:
+                    self.__tag_set.append(tag)
+                if tag not in self.__tag_occurrences:
+                    self.__tag_occurrences[tag] = 1
+                else:
+                    self.__tag_occurrences[tag] += 1       
+            else:
+                id, _, tag = self.__labelled_dataset[i-1].split()
+                if tag not in self.__tag_final_occurrences:
+                    self.__tag_final_occurrences[tag] = 1
+                else:
+                    self.__tag_final_occurrences[tag] += 1
+        
+        self.__transition_probabilities_matrix()
+        self.__initial_probability()
+        self.__end_probability()
+
+
+    def __open_and_check(self, dataset_path):
+        &#34;&#34;&#34;
+            Open a file organize in CoNLL style
+            
+            Args:
+                dataset_path(str): path of a file
+
+            Exception:
+                throw FileNotFoundError if file not exists
+        &#34;&#34;&#34;
+        try:
+            dataset = open(dataset_path, &#34;r&#34;, encoding=&#39;utf8&#39;)
+        except FileNotFoundError:
+            print(&#34;Error! File not found...&#34;)
+            exit()
+
+        dataset_lines = dataset.readlines()
+        if dataset_lines == []:
+            raise ValueError(&#34;Error, void dataSet in input!&#34;)
+
+        if len(dataset_lines[0].split()) != 3:
+            raise ValueError(&#34;Error reading dataSet fields.\nDataSet must have 3 fields!\nAccepted dataSet has this form: ID, WORD, TAG&#34;)
+
+        dataset.close()
+        return dataset_lines
+
+
+    def __initial_probability(self):
+        &#34;&#34;&#34;
+            This function calculates all initial probability P(TAG|START) for all TAG in tagset as:
+            count(tag_initial_occurrences) / Count(sentence_number) 
+        &#34;&#34;&#34;
+        for tag in self.__tag_set:
+            if tag not in self.__start_probability:
+                if tag not in self.__tag_initial_occurrences:
+                    self.__start_probability[tag] = self.__transition_smoothing
+                else:
+                    self.__start_probability[tag] = self.__tag_initial_occurrences[tag] / self.__sentence_number
+
+
+    def __end_probability(self):
+        &#34;&#34;&#34;
+            This function calculates all final probability P(END|TAG) for all TAG in tagset as:
+            count(tag_final_occurrences) / count(tag_occurrences)
+        &#34;&#34;&#34;
+        for tag in self.__tag_set:
+            if tag not in self.__final_probability:
+                if tag not in self.__tag_final_occurrences:
+                    self.__final_probability[tag] = self.__transition_smoothing
+                else:
+                    self.__final_probability[tag] = self.__tag_final_occurrences[tag] / self.__tag_occurrences[tag]
+
+
+    def __transition_probabilities_matrix(self):
+        &#34;&#34;&#34;
+            This function calculates all transition probabilities P(TAG|TAGi) for all TAG and i in range(tagset)
+        &#34;&#34;&#34;
+        tagset = self.__tag_set
+        for tag in tagset:
+            if not tag in self.__transitions:
+                self.__transitions[tag] = [0 for el in tagset]
+
+        # counts for all sentence the tag1,tag2 occurrences
+        for i in range(len(self.__labelled_dataset)-1):
+            if(self.__labelled_dataset[i].split() != [] and self.__labelled_dataset[i+1].split() != []):
+                _, _, tag1 = self.__labelled_dataset[i].split()
+                _, _, tag2 = self.__labelled_dataset[i+1].split()
+                tag1_index = tagset.index(tag1)
+                self.__transitions[tag2][tag1_index] += 1
+                
+        # divides all occurrences tag1,tag2 by tag1 occurrences
+        for tag in self.__transitions:
+            for i in range(len(self.__transitions[tag])):
+                if(self.__transitions[tag][i] == 0):
+                    self.__transitions[tag][i] = self.__transition_smoothing
+                else:
+                    self.__transitions[tag][i] = self.__transitions[tag][i]/ self.__tag_occurrences[tagset[i]]    
+
+        # la somma delle P(TAGi | TAG2) per ogni i e fissato TAG2 è uguale a 1
+        
+
+    def __all_emission_probability(self, observations, smoothing):
+        &#34;&#34;&#34;
+            This function calculates all the emission probabilities P(observations_i|TAGj) for all tag
+            and for all observations in the training dataset
+
+            Args:
+                observations(list str): a list of a observations
+                smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities
+                validation_path(str): the path of a validation set to perform the smoothing4 strategy
+        &#34;&#34;&#34;
+
+        if not smoothing in [&#34;smoothing1&#34;, &#34;smoothing2&#34;, &#34;smoothing3&#34;]:
+            check_path = re.search(&#34;.*.txt$&#34;, smoothing)
+            if not check_path:          
+                raise ValueError(&#34;Incorrect using of smoothing parameter!\n USAGE: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file .txt path&#34;)
+
+
+        tagset = self.__tag_set
+        if len(self.__emissions) == 0:
+            for line in self.__labelled_dataset:
+                if line.split() != []:
+                    _, word, tag = line.split()
+                    tag_index = tagset.index(tag)
+                    if word not in self.__emissions:
+                        self.__emissions[word] = [0 for el in tagset]
+                        self.__emissions[word][tag_index] = 1
+                    else:
+                        self.__emissions[word][tag_index] += 1
+        
+            for word in self.__emissions:
+                for i in range(len(self.__emissions[word])):
+                    self.__emissions[word][i] = self.__emissions[word][i] / self.__tag_occurrences[tagset[i]]
+
+        # list of unknown words
+        exclusive = [sent for sent in observations if not sent in self.__emissions]
+        if len(exclusive) == 0:
+            return
+        
+        #smoothing
+        check_path = re.search(&#34;.*.txt$&#34;, smoothing)
+        if check_path and self.__statistics == {}:
+            self.__statistics = self.__smoothing4(smoothing)
+
+        for sent in exclusive:    
+            self.__emissions.update({sent:[0 for el in tagset]})
+            for i in range(len(self.__emissions[sent])):
+                if smoothing == &#34;smoothing1&#34;:
+                    self.__emissions[sent][i] = 1 if tagset[i] == &#34;O&#34; else 0
+                elif smoothing == &#34;smoothing2&#34;:
+                    self.__emissions[sent][i] = 0.5 if tagset[i] in [&#34;O&#34;, &#34;B-MISC&#34;] else 0
+                elif smoothing == &#34;smoothing3&#34;:
+                    self.__emissions[sent][i] = 1 / len(tagset)
+                elif check_path:
+                    self.__emissions[sent][i] = self.__statistics[&#34;tagCount&#34;][i] / self.__statistics[&#34;length&#34;]
+
+
+    def __smoothing4(self, validation_path):
+        &#34;&#34;&#34;
+            This function performs a smoothing strategy for calculate the emission probabilities for the unknown words.
+            Assume the unknown words have a probability distribution similar to words only occurring once in the validation set.
+            Returns an unknown object(tagcount:int, length:int)
+        &#34;&#34;&#34;
+
+        try:
+            datasetLines = self.__open_and_check(validation_path)
+        except Exception as e:
+            print(e)
+            exit()
+            
+        occurrences = dict()
+        for line in datasetLines:
+            if line.split() != []:
+                _, word, tag = line.split()
+                if not word in occurrences:
+                    occurrences[word] = tag
+                else:
+                    occurrences[word] = &#34;No&#34;
+        
+        tagCount = [0 for el in self.__tag_set]
+        for word in occurrences:
+            if occurrences[word] != &#34;No&#34;:
+                tagCount[self.__tag_set.index(occurrences[word])] += 1
+        
+        return {&#34;tagCount&#34;:tagCount, &#34;length&#34;:sum(tagCount)}
+      
+
+    def __evaluation_measures(self, correct_best_path, best_path):
+        &#34;&#34;&#34;
+            Calculates accuracy, precision and recall evaluations metrics, from the test_set analysis
+
+            Args:
+                coorrect_best_path(list str): list of tag corresponding to the correct tags
+                best_path(list str): list of tag tagged by the NER
+        &#34;&#34;&#34;
+
+        # for general accuracy:
+        check = len([i for i in range(len(correct_best_path)) if correct_best_path[i] == best_path[i]])
+        self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] += (check / len(correct_best_path))
+        
+        # for accuracy of tag O
+        total_O = len([i for i in range(len(correct_best_path)) if correct_best_path[i] == &#34;O&#34;])
+        check = len([i for i in range(len(correct_best_path)) if (correct_best_path[i] == best_path[i]) and correct_best_path[i] == &#34;O&#34;])
+        self.__accuracy[&#34;O&#34;][&#34;COR&#34;] += check
+        self.__accuracy[&#34;O&#34;][&#34;TOT&#34;] += total_O
+
+        # for accuracy, precision and recall on entities:
+        # for each TAG it calculates the NER entities both on the original sentence and on the sentence analyzed by the tagger
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;ORG&#34;, &#34;B-ORG&#34;, &#34;I-ORG&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;PER&#34;, &#34;B-PER&#34;, &#34;I-PER&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;MISC&#34;, &#34;B-MISC&#34;, &#34;I-MISC&#34;)
+        self.__metrics_per_tag_entity(correct_best_path, best_path, &#34;LOC&#34;, &#34;B-LOC&#34;, &#34;I-LOC&#34;)
+
+    
+    def __metrics_per_tag_entity(self, correct_best_path, best_path, tag_entity, tagB, tagI):
+        &#34;&#34;&#34;
+            For each (B-TAG, I-TAG) it calculates the NER entities 
+            both on the original sentence and on the sentence analyzed by the tagger
+    
+            Args:
+                coorrect_best_path(list str): list of tag corresponding to the correct tags
+                best_path(list str): list of tag tagged by the NER
+                tag_entity(str): normal form of a entity tag
+                tagB (str): a B-TAG
+                tagI (str): a I-TAG
+        &#34;&#34;&#34;
+
+
+        # computing accuracy per ENTITY:   
+        totals = len([i for i in range(len(correct_best_path)) if (correct_best_path[i] == tagB) or correct_best_path[i] == tagI])
+        self.__accuracy[tag_entity][&#34;TOT&#34;] += totals
+
+        for i in range(len(correct_best_path)):
+            if((correct_best_path[i] == tagB) and (best_path[i] == tagB)) or ((correct_best_path[i] == tagI) and (best_path[i] == tagI)):
+                self.__accuracy[tag_entity][&#34;COR&#34;] += 1
+
+        
+        entity = []                 # all the entity in the correct list of tag
+        tagged_entity = []          # all the entity tagged by the NER tagger
+
+        for i in range(len(correct_best_path)):
+            if correct_best_path[i] == tagB:
+                j = i+1
+                check = False
+                while j &lt; len(correct_best_path) and correct_best_path[j] == tagI:
+                    j += 1
+                    check = True
+                if check: 
+                    entity.append((tagB, i, j-1))
+                    i = j
+                else:
+                    entity.append((tagB, i, i))
+
+        i = 0
+        while (i &lt; len(best_path)):
+            if best_path[i] == tagB:
+                j = i+1
+                check = False
+                while j &lt; len(best_path) and best_path[j] == tagI:
+                    j += 1
+                    check = True
+                if check: 
+                    tagged_entity.append((tagB, i, j-1))
+                    i = j-1
+                else:
+                    tagged_entity.append((tagB, i, i))
+            i+=1
+
+
+        # calculates true positives as all those correctly labeled entities
+        # calculate false negatives as all those entities not tagged by the NER tagger (tag O)  
+        for el in entity:
+            if el in tagged_entity: self.__metrics[tag_entity][&#34;COR&#34;] += 1
+            else: self.__metrics[tag_entity][&#34;MIS&#34;] += 1
+        
+        # calculates false positives such as tagged entities
+        #   as positive but they were actually negative
+        for el in tagged_entity:
+            if not el in entity: self.__metrics[tag_entity][&#34;HYP&#34;] += 1
+
+
+    def __fill_metrics(self, number_sentences):
+        &#34;&#34;&#34;
+            Utility function, used to fill the evaluation metric dictionaries 
+        &#34;&#34;&#34;
+
+
+        # general accurarcy 
+        self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] = round(100 * (self.__accuracy[&#34;GENERAL&#34;][&#34;ACCURACY&#34;] / number_sentences),3)
+        self.__accuracy[&#34;O&#34;][&#34;ACCURACY&#34;] = round(100 * (self.__accuracy[&#34;O&#34;][&#34;COR&#34;] / self.__accuracy[&#34;O&#34;][&#34;TOT&#34;]),3)
+
+        # local accuracy, precision, recall, f1score
+        for entity in self.__metrics:
+            if entity != &#34;O&#34;:
+
+                metric = self.__metrics[entity]
+                if((metric[&#34;COR&#34;] + metric[&#34;HYP&#34;]) &gt; 0):
+                    precision = round(100 * (metric[&#34;COR&#34;] / (metric[&#34;COR&#34;] + metric[&#34;HYP&#34;])),3)
+                    recall = round(100 * (metric[&#34;COR&#34;] / (metric[&#34;COR&#34;] + metric[&#34;MIS&#34;])),3)
+                    self.__metrics[entity][&#34;PRECISION&#34;] = precision
+                    self.__metrics[entity][&#34;RECALL&#34;] = recall
+                    self.__metrics[entity][&#34;F1SCORE&#34;] = round((2 * precision * recall) / (precision + recall),3)
+                
+                if (self.__accuracy[entity][&#34;TOT&#34;] &gt; 0):
+                    entity_accuracy = round(100 * (self.__accuracy[entity][&#34;COR&#34;] / self.__accuracy[entity][&#34;TOT&#34;]), 3)
+                
+                self.__accuracy[entity][&#34;ACCURACY&#34;] = entity_accuracy
+
+
+    def __reinitialize(self):
+        &#34;&#34;&#34;
+            Reinitialize all evaluating metrics for a second analysis
+        &#34;&#34;&#34;
+        self.__emissions = dict()
+        self.__accuracy = 0
+        self.__metrics = {&#34;ORG&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;PER&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;MISC&#34;: {&#34;COR&#34;:0, &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}, 
+                        &#34;LOC&#34;: {&#34;COR&#34;:0,  &#34;MIS&#34;:0, &#34;HYP&#34;:0, &#34;PRECISION&#34;: 0, &#34;RECALL&#34;: 0, &#34;F1SCORE&#34;: 0}}
+        
+        self.__accuracy = { &#34;GENERAL&#34;: {&#34;ACCURACY&#34;:0},
+                            &#34;ORG&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;PER&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;MISC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;LOC&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 ,&#34;ACCURACY&#34;:0},
+                            &#34;O&#34;: {&#34;TOT&#34;: 0, &#34;COR&#34;: 0 , &#34;ACCURACY&#34;:0}}   </code></pre>
+</details>
+<h3>Methods</h3>
+<dl>
+<dt id="NER.NERtagger.baseline"><code class="name flex">
+<span>def <span class="ident">baseline</span></span>(<span>self, observations, smoothing_tag)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Definition of a baseline to make a comparison with the viterbi algorithm
+This baseline assigns the most frequent tag in the training dataset, for unknown word assigns smoothing_tag</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt>observations(list str): a list of a observations</dt>
+<dt>smoothing_tag(str): a tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag.</dt>
+<dt><strong><code>USAGE</code></strong></dt>
+<dd>['O', 'B-MISC', 'B-ORG' &hellip;]
+</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>best_path(list str): a list of a tag used to tagging the observation passed on args</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def baseline(self, observations, smoothing_tag):
+    &#34;&#34;&#34;
+        Definition of a baseline to make a comparison with the viterbi algorithm
+        This baseline assigns the most frequent tag in the training dataset, for unknown word assigns smoothing_tag
+        
+        Args:
+            observations(list str): a list of a observations
+            smoothing_tag(str): a tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag.  
+            USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]               
+
+        Returns:
+            best_path(list str): a list of a tag used to tagging the observation passed on args
+    &#34;&#34;&#34;
+    
+    if not smoothing_tag in self.__tag_set:   
+        raise ValueError(&#34;Incorrect using of smoothing parameter!\n USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...]&#34;)
+
+    best_path = []
+    if not len(self.__baseline_tag) == 0:
+        exclusive = [obs for obs in observations if not(obs in self.__baseline_tag)]
+        for i in range(len(observations)):
+            if observations[i] in exclusive:
+                best_path.insert(i, smoothing_tag)
+            else:
+                tag = numpy.argmax(self.__baseline_tag[observations[i]])
+                best_path.insert(i, self.__tag_set[tag])
+        return best_path
+    
+    
+    occurrences = dict()
+    for sent in observations:
+        if not sent in occurrences:
+            occurrences[sent] = [0 for el in self.__tag_set]
+
+    # counts (word,tag) occurrences
+    for line in self.__labelled_dataset:
+        if line.split() != []:
+            _, word, tag = line.split()
+            if word in observations:
+                tag_index = self.__tag_set.index(tag)
+                occurrences[word][tag_index] += 1 
+
+    # if observation[i] is unknown assigns B-MISC otherwise most frequent tag
+    for i in range(len(observations)):
+        tag_occurrences = occurrences[observations[i]]
+        check = [el for el in tag_occurrences if el == 0]
+        if len(tag_occurrences) == len(check):
+            best_path.insert(i, smoothing_tag)
+        else:
+            tag = numpy.argmax(occurrences[observations[i]])
+            best_path.insert(i, self.__tag_set[tag])
+    
+    return best_path</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.get_evaluating_metrics"><code class="name flex">
+<span>def <span class="ident">get_evaluating_metrics</span></span>(<span>self)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Return 2 values: a dictionary with all metrics used to evaluating the Tagger sorting per entity and the accuracy of the tagger
+For each entity, the dictionary specifies 7 metrics:
+COR: Number of correct entity tagged for all sentences in the test_set
+MIS: Number of entity that are missed by the tagger
+HYP: Number of entity hypothesized by the tagger
+PRECISION: Precision metric computing as: COR / (COR + HYP)
+RECALL: Recall metric computing as: COR / (COR + MIS)
+F1SCORE: F1-score is the harmonic mean of precision and recall</p>
+<p>USAGE: call this method after testing NER on a test set</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def get_evaluating_metrics(self):
+    &#34;&#34;&#34;
+        Return 2 values: a dictionary with all metrics used to evaluating the Tagger sorting per entity and the accuracy of the tagger
+        For each entity, the dictionary specifies 7 metrics:
+             COR: Number of correct entity tagged for all sentences in the test_set
+             MIS: Number of entity that are missed by the tagger
+             HYP: Number of entity hypothesized by the tagger
+             PRECISION: Precision metric computing as: COR / (COR + HYP)
+             RECALL: Recall metric computing as: COR / (COR + MIS)
+             F1SCORE: F1-score is the harmonic mean of precision and recall
+        
+        USAGE: call this method after testing NER on a test set
+    &#34;&#34;&#34;
+    return self.__metrics, self.__accuracy</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.get_sentence_number"><code class="name flex">
+<span>def <span class="ident">get_sentence_number</span></span>(<span>self)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Return the number of the sentences of the training set</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def get_sentence_number(self):
+    &#34;&#34;&#34;
+        Return the number of the sentences of the training set
+    &#34;&#34;&#34;
+    return self.__sentence_number</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.get_tagSet"><code class="name flex">
+<span>def <span class="ident">get_tagSet</span></span>(<span>self)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Return the tag set reading from the training set</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def get_tagSet(self):
+    &#34;&#34;&#34;
+        Return the tag set reading from the training set
+    &#34;&#34;&#34;
+    return self.__tag_set</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.testing_baseline"><code class="name flex">
+<span>def <span class="ident">testing_baseline</span></span>(<span>self, test_set_path, smoothing_tag, number_sentence=None)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Testing of a simple baseline on a testing dataset</p>
+<h2 id="args">Args</h2>
+<p>test_set_path(str): path to a test dataset organize in CoNLL style
+smoothing_tag(str): A tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag. USAGE: ['O', 'B-MISC', 'B-ORG' &hellip;]
+[Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def testing_baseline(self, test_set_path, smoothing_tag, number_sentence = None):
+    &#34;&#34;&#34;
+        Testing of a simple baseline on a testing dataset
+
+        Args:
+            test_set_path(str): path to a test dataset organize in CoNLL style
+            smoothing_tag(str): A tag used as smoothing strategy. If the observation-i is a unknown word, tag observation-i as smoothing_tag. USAGE: [&#39;O&#39;, &#39;B-MISC&#39;, &#39;B-ORG&#39; ...] 
+            [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+    &#34;&#34;&#34;
+
+    try:
+        dataset = self.__open_and_check(test_set_path)
+    except Exception as e:
+        print(e)
+        exit()
+        
+    self.__reinitialize()
+    sentences = []
+    sentence = []
+    for line in dataset:
+        if line.split() != []:
+            _, word, tag = line.split()
+            sentence.append((word,tag))
+        else:
+            sentences.append(sentence)
+            sentence = []
+
+    n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+    
+    for line in self.__labelled_dataset:
+        if line.split() != []:
+            _, word, tag = line.split()
+            tag_index = self.__tag_set.index(tag)
+            if word not in self.__baseline_tag:
+                self.__baseline_tag[word] = [0 for el in self.__tag_set]
+                self.__baseline_tag[word][tag_index] = 1
+            else:
+                self.__baseline_tag[word][tag_index] += 1
+
+    for coupplesTagged in sentences[:number_sentence]:
+        sentence_splitted = [el[0] for el in coupplesTagged]
+
+        try: best_path = self.baseline(sentence_splitted, smoothing_tag)
+        except Exception as e:
+            print(e)
+            exit()
+            
+        correct_best_path = [couple[1] for couple in coupplesTagged]
+        self.__evaluation_measures(correct_best_path, best_path)
+    
+    self.__fill_metrics(n_sentences)</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.testing_viterbi"><code class="name flex">
+<span>def <span class="ident">testing_viterbi</span></span>(<span>self, test_set_path, smoothing, number_sentence=None)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Testing HMM NER tagger with Viterbi's decoding algorithm on a testing dataset</p>
+<h2 id="args">Args</h2>
+<p>test_set_path(str): path to a test dataset organize in CoNLL style
+smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities.
+USAGE: ['smoothing1', 'smoothing2', 'smoothing3'] or passing a file '.txt' dataset path"
+[Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset</p>
+<h2 id="exceptions">Exceptions</h2>
+<p>ValueError exception: if dataset is incorrect formatting as CoNLL style
+ValueError exception: for incorrect smoothing parameter
+FileNotFound exception: in dataset not exists</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def testing_viterbi(self, test_set_path, smoothing, number_sentence = None):
+    &#34;&#34;&#34;
+        Testing HMM NER tagger with Viterbi&#39;s decoding algorithm on a testing dataset
+
+        Args:
+            test_set_path(str): path to a test dataset organize in CoNLL style
+            smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities.
+                USAGE: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+            [Optionally] number_sentence(int): number of sentences to tagging. If not specified the algorithm analizes all the dataset
+
+        Exceptions:
+            ValueError exception: if dataset is incorrect formatting as CoNLL style
+            ValueError exception: for incorrect smoothing parameter
+            FileNotFound exception: in dataset not exists
+    &#34;&#34;&#34;
+
+    try:
+        dataset = self.__open_and_check(test_set_path)
+    except Exception as e:
+        print(e)
+        exit()
+
+    self.__reinitialize()
+    sentences = []
+    sentence = []
+    for line in dataset:
+        if line.split() != []:
+            _, word, tag = line.split()
+            sentence.append((word,tag))
+        else:
+            sentences.append(sentence)
+            sentence = []
+    
+    n_sentences = (len(sentences)+1) if number_sentence == None else number_sentence
+    
+    for coupplesTagged in sentences[:number_sentence]:
+        sentenceSplitted = [el[0] for el in coupplesTagged]
+        best_path = self.viterbi(sentenceSplitted, smoothing)
+        correct_best_path = [couple[1] for couple in coupplesTagged]
+        self.__evaluation_measures(correct_best_path, best_path)
+
+    # accurarcy, precision and recall
+    self.__fill_metrics(n_sentences)</code></pre>
+</details>
+</dd>
+<dt id="NER.NERtagger.viterbi"><code class="name flex">
+<span>def <span class="ident">viterbi</span></span>(<span>self, observations, smoothing)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Viterbi algorithm for decoding.</p>
+<h2 id="args">Args</h2>
+<p>observations(list str): a list of a observations
+smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities.
+Accepted values: ['smoothing1', 'smoothing2', 'smoothing3'] or passing a file '.txt' dataset path"</p>
+<h2 id="exceptions">Exceptions</h2>
+<p>ValueError exception: if dataset is incorrect formatting as CoNLL style
+ValueError exception: for incorrect smoothing parameter
+FileNotFound exception: in dataset not exists</p>
+<h2 id="returns">Returns</h2>
+<p>best_path(list str): a list of a tag used to tagging the observation passed on args</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def viterbi(self, observations, smoothing):
+    &#34;&#34;&#34;
+        Viterbi algorithm for decoding.
+        
+        Args:
+            observations(list str): a list of a observations
+            smoothing(str): the declaration of a smoothing strategy for calculate unknown words emission probabilities. 
+            Accepted values: [&#39;smoothing1&#39;, &#39;smoothing2&#39;, &#39;smoothing3&#39;] or passing a file &#39;.txt&#39; dataset path&#34;
+           
+        Exceptions:
+            ValueError exception: if dataset is incorrect formatting as CoNLL style
+            ValueError exception: for incorrect smoothing parameter
+            FileNotFound exception: in dataset not exists
+
+        Returns:
+            best_path(list str): a list of a tag used to tagging the observation passed on args
+    &#34;&#34;&#34;
+
+    # for multiple execution on the same NERtagger istance
+    if self.__last_smoothing != smoothing:
+        self.__last_smoothing = smoothing
+        self.__emissions = dict()
+    try:
+        self.__all_emission_probability(observations, smoothing)
+    except ValueError as e:
+        print(e)
+        exit()
+      
+    #Initialize step
+    viterbi_matrix = numpy.zeros((len(self.__tag_set), len(observations)), dtype =float)
+    backpointer = numpy.zeros((len(self.__tag_set), len(observations)), dtype =int)
+    for s in range(len(self.__tag_set)):
+        viterbi_matrix[s, 0] = self.__start_probability[self.__tag_set[s]] * self.__emissions[observations[0]][s]
+
+    #iteration step
+    for o in range(1, len(observations)):
+        for s in range(len(self.__tag_set)):
+            prec = viterbi_matrix[:, o-1]  
+            trans = self.__transitions[self.__tag_set[s]] 
+            em = self.__emissions[observations[o]][s] 
+            product = [prec[i] * trans[i] * em for i in range(len(prec))]
+            maxIndex = numpy.argmax(product)
+            viterbi_matrix[s,o] = viterbi_matrix[maxIndex,o-1] * self.__transitions[self.__tag_set[s]][maxIndex] * em
+            backpointer[s, o] = maxIndex
+
+    
+    # final step
+    # backtracking from last observation to the first in order
+    bestPath = [&#34;&#34; for el in observations]
+    finalState = [viterbi_matrix[i , len(observations)-1] * self.__final_probability[self.__tag_set[i]] for i in range(len(self.__tag_set))]
+    maxIndex = numpy.argmax(finalState)
+
+    for o in range(len(observations)-1, -1, -1):
+        bestPath[o] = self.__tag_set[maxIndex]
+        maxIndex = backpointer[maxIndex, o]
+
+    return bestPath</code></pre>
+</details>
+</dd>
+</dl>
+</dd>
+</dl>
+</section>
+</article>
+<nav id="sidebar">
+<h1>Index</h1>
+<div class="toc">
+<ul></ul>
+</div>
+<ul id="index">
+<li><h3><a href="#header-classes">Classes</a></h3>
+<ul>
+<li>
+<h4><code><a title="NER.NERtagger" href="#NER.NERtagger">NERtagger</a></code></h4>
+<ul class="">
+<li><code><a title="NER.NERtagger.baseline" href="#NER.NERtagger.baseline">baseline</a></code></li>
+<li><code><a title="NER.NERtagger.get_evaluating_metrics" href="#NER.NERtagger.get_evaluating_metrics">get_evaluating_metrics</a></code></li>
+<li><code><a title="NER.NERtagger.get_sentence_number" href="#NER.NERtagger.get_sentence_number">get_sentence_number</a></code></li>
+<li><code><a title="NER.NERtagger.get_tagSet" href="#NER.NERtagger.get_tagSet">get_tagSet</a></code></li>
+<li><code><a title="NER.NERtagger.testing_baseline" href="#NER.NERtagger.testing_baseline">testing_baseline</a></code></li>
+<li><code><a title="NER.NERtagger.testing_viterbi" href="#NER.NERtagger.testing_viterbi">testing_viterbi</a></code></li>
+<li><code><a title="NER.NERtagger.viterbi" href="#NER.NERtagger.viterbi">viterbi</a></code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</main>
+<footer id="footer">
+<p>Generated by <a href="https://pdoc3.github.io/pdoc" title="pdoc: Python API documentation generator"><cite>pdoc</cite> 0.10.0</a>.</p>
+</footer>
+</body>
+</html>

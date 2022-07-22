@@ -1,0 +1,1005 @@
+corpus: preloaded/ententen20_tt31_1
+subcorpus: English Wikipedia
+size: 133618
+query: Query:[lempos_lc="(love)-v"]
+Reference,Sentence
+wikipedia.org | <s> My father and mother came to love him very much. </s> 
+wikipedia.org | <s> They love spending time together and taking frequent walks. </s> 
+wikipedia.org | <s> I'm going to love you so much. </s> 
+wikipedia.org | <s> Here's to the school we love . </s> 
+wikipedia.org | <s> He loves himself more than any girl. </s> 
+wikipedia.org | <s> Can a city girl learn to love the great outdoors? </s> 
+wikipedia.org | <s> I really didn't feel like I was loved . </s> 
+wikipedia.org | <s> The jury, however, loved the film. </s> 
+wikipedia.org | <s> They loved the place, and stayed. </s> 
+wikipedia.org | <s> He works hard, he loves the game of football. </s> 
+wikipedia.org | <s> I love doing challenging characters which have many shades. </s> 
+wikipedia.org | <s> With her help he changes and starts loving her. </s> 
+wikipedia.org | <s> She tells him that she never loved him. </s> 
+wikipedia.org | <s> The pair find friendship as they mourn their respective loved ones. </s> 
+wikipedia.org | <s> If you love it, you stay with it. </s> 
+wikipedia.org | <s> She never married Charity's father and probably never loved him. </s> 
+wikipedia.org | <s> I love business for the activity it creates, the total commitment. </s> 
+wikipedia.org | <s> His students love him but he's a nag. </s> 
+wikipedia.org | <s> Hazem loved to play football for fun. </s> 
+wikipedia.org | <s> It turns out Gatsby loved her before going off to war. </s> 
+wikipedia.org | <s> A psychopath who loves to fight and kill. </s> 
+wikipedia.org | <s> Local people love to drink buttermilk locally known as Chhash. </s> 
+wikipedia.org | <s> He's a young man that– I love him to death. </s> 
+wikipedia.org | <s> She says Ray doesn't love her or anyone, and leaves. </s> 
+wikipedia.org | <s> One pop of that booty, everybody love me. </s> 
+wikipedia.org | <s> Olimbia loves him, despite his poverty. </s> 
+wikipedia.org | <s> He then made love to her. </s> 
+wikipedia.org | <s> I don't know why I loved it". </s> 
+wikipedia.org | <s> He was loved and adored by them. </s> 
+wikipedia.org | <s> Angel is Latino and Ed loves drugs. </s> 
+wikipedia.org | <s> Saram is an easy going guy and loves music. </s> 
+wikipedia.org | <s> Wootton loved sports and would often go hunting with the men. </s> 
+wikipedia.org | <s> The guy who Midori falls in love with. </s> 
+wikipedia.org | <s> I absolutely loved it from the first moment. </s> 
+wikipedia.org | <s> The two fell in love just weeks before Hurricane Katrina. </s> 
+wikipedia.org | <s> The performers are monks and lay people who love lhamo. </s> 
+wikipedia.org | <s> Love the Sun and Follow The Trail! </s> 
+wikipedia.org | <s> She loves flowers more than anything, affecting Tsubomi a lot. </s> 
+wikipedia.org | <s> Hence, she became very much loved and respected. </s> 
+wikipedia.org | <s> I thought he might be mad - but he loved it. </s> 
+wikipedia.org | <s> And the two reunite and admit that they love each other. </s> 
+wikipedia.org | <s> He also still loves theater, including contemporary theater, and attends regularly. </s> 
+wikipedia.org | <s> Dickerson loved teaching children, including kindergartners and preschool children. </s> 
+wikipedia.org | <s> He loves drawing, and has produced many accurate sketches of Pokémon. </s> 
+wikipedia.org | <s> Yan's loving and understanding husband and Bianca's father. </s> 
+wikipedia.org | <s> The shoot was a success and both Miller and Coddington loved it. </s> 
+wikipedia.org | <s> Jay arrives in time to tell Miryea that he loves her. </s> 
+wikipedia.org | <s> Ronnie admits she doesn't love Charlie, and ends their marriage. </s> 
+wikipedia.org | <s> I think he still loves her. </s> 
+wikipedia.org | <s> Tiana stops him and finally admits that she loves him. </s> 
+wikipedia.org | <s> Jacob loved his mother too much and did not want to believe this. </s> 
+wikipedia.org | <s> People also like to be liked and love to be loved . </s> 
+wikipedia.org | <s> Tan was astonished to observe that the public loved the song. </s> 
+wikipedia.org | <s> She desperately loves Duzell and wants to return to how things were. </s> 
+wikipedia.org | <s> Don realizes that he loves Dawn and gives in. </s> 
+wikipedia.org | <s> Heather confesses she doesn't love Colt. </s> 
+wikipedia.org | <s> I see myself as a humanitarian who loves people. </s> 
+wikipedia.org | <s> In Spanish, the word amador means "one who loves ". </s> 
+wikipedia.org | <s> Bishop Anderson was an enthusiastic gardener who loved his roses. </s> 
+wikipedia.org | <s> She desperately desires to be admired and loved by men. </s> 
+wikipedia.org | <s> He loves to read comic books despite Lily's annoyance at such childish behavior. </s> 
+wikipedia.org | <s> Raja decides to love Tamil after knowing that his father likes her. </s> 
+wikipedia.org | <s> He also loves the "Joey Special" – two pizzas. </s> 
+wikipedia.org | <s> A fitting tribute by the city he loved and who loved him. </s> 
+wikipedia.org | <s> I love feeling deeply sexual–and don't mind letting the world know. </s> 
+wikipedia.org | <s> She loves to play with friends and she is very close to her mother. </s> 
+wikipedia.org | <s> I loved the year in Sligo and I really like the manager. </s> 
+wikipedia.org | <s> It's people who are, loving each other, hating each other. </s> 
+wikipedia.org | <s> He has loved actress Song Yi-yeon. </s> 
+wikipedia.org | <s> She falls in love with Leonardo, even though he loves her daughter. </s> 
+wikipedia.org | <s> Being drunk, love sparks between Uzume and Shizuka. </s> 
+wikipedia.org | <s> When I got the prototype from Bob, I loved the long sustain. </s> 
+wikipedia.org | <s> I loved thee and thee alone, In whose love I joyed once. </s> 
+wikipedia.org | <s> Though he deeply loves Opera, he can not abandon his job. </s> 
+wikipedia.org | <s> As a child, young Rakesh loved to listen to his father sing. </s> 
+wikipedia.org | <s> He has a cat named Shirabota and loves eating curry. </s> 
+wikipedia.org | <s> He loved her and revered her. </s> 
+wikipedia.org | <s> Fallon reads and loves Liam's novel, which is about their relationship. </s> 
+wikipedia.org | <s> I also love the fashion! </s> 
+wikipedia.org | <s> But she does love him. </s> 
+wikipedia.org | <s> Reiko's son and Yuki's nephew, a three-year-old boy who loves painting. </s> 
+wikipedia.org | <s> Eric then demands that Mr. Feeny tell the group that he loves them. </s> 
+wikipedia.org | <s> I love Jessica Capshaw, and when I say love I mean love. </s> 
+wikipedia.org | <s> Jack reveals he still loves her, but he decides to stand by Sam. </s> 
+wikipedia.org | <s> Miss Emily had loved this man, and loved having him in her life. </s> 
+wikipedia.org | <s> Especially I love Finnish salmon, mushroom soup and desserts. </s> 
+wikipedia.org | <s> They loved English beef more than any other kind of food offered to them. </s> 
+wikipedia.org | <s> Steinmark heads to Austin where he gives his everything for the game he loves . </s> 
+wikipedia.org | <s> Rita asks her if James still loves her as much as he did earlier. </s> 
+wikipedia.org | <s> He also tells Susan that he never stopped loving her and wants her back. </s> 
+wikipedia.org | <s> He tells her he came back to see her because he loves her. </s> 
+wikipedia.org | <s> This week, the designers were reunited with their loved ones for their challenge. </s> 
+wikipedia.org | <s> A vengeful old mortician loves to desecrate the corpses he buries. </s> 
+wikipedia.org | <s> I love the DPP deeply and am proud of being a DPP member. </s> 
+wikipedia.org | <s> She loves Ling, but later falls in love with Yuan Che. </s> 
+wikipedia.org | <s> Weezing loves the gases given off by rotted kitchen garbage. </s> 
+wikipedia.org | <s> He was still only 22 and wanted to concentrate on playing the game he loved . </s> 
+wikipedia.org | <s> But I love it, and I think it has a shot at immortality. </s> 
+wikipedia.org | <s> His passing was a huge loss for the nation as well as his loved ones. </s> 
+wikipedia.org | <s> Dini said that she began to love writing when she was in the second grade. </s> 
+wikipedia.org | <s> Jintong is both faithful and filially pious, and I love him deeply. </s> 
+wikipedia.org | <s> He is also shown to love fighting with his friend "Monk" Mayfair. </s> 
+wikipedia.org | <s> Shin loves the supernatural and was drawn to "The Black Page". </s> 
+wikipedia.org | <s> Laura shows up to apologize to Beebo and tells her she loves her. </s> 
+wikipedia.org | <s> Indie loves Christmas so much she vows to keep her spirit alive all year. </s> 
+wikipedia.org | <s> Achilles' strongest interpersonal bond is with Patroclus, whom he loves dearly. </s> 
+wikipedia.org | <s> On singing with Jagger, Ronstadt later said, "I loved it. </s> 
+wikipedia.org | <s> Westerman lead the team that created Nicktropolis the award-winning and much loved virtual world. </s> 
+wikipedia.org | <s> This means that Natsuki also loves Shizuru as Shizuru loves her. </s> 
+wikipedia.org | <s> She does however, truly love her best friend Don Konkey and her brother Leo. </s> 
+wikipedia.org | <s> Kei reminisces about Masato and how she loved him from afar. </s> 
+wikipedia.org | <s> He especially loves the Pague creatures. </s> 
+wikipedia.org | <s> The girl loves all the attention and won't let anyone simply pull her out. </s> 
+wikipedia.org | <s> Pique forgets about having loved Mytho and the friendship between the girls is repaired. </s> 
+wikipedia.org | <s> She breaks up with Kyung-woo when she realizes he does not truly love her. </s> 
+wikipedia.org | <s> Believing no person loved him, Shin wants to put an end to humanity. </s> 
+wikipedia.org | <s> A school nerd who loves Akemi and jealously hates Nagumo. </s> 
+wikipedia.org | <s> He loves trains and he hates crunchy peanut butter but loves creamy. </s> 
+wikipedia.org | <s> However, she retains her individuality while she loves the family she is married into. </s> 
+wikipedia.org | <s> She specially loved the Diocesan School and Orphanage on Mount Zion. </s> 
+wikipedia.org | <s> Elizabeth realized how horrible her often thoughtless sister felt, because Jessica loved her sister. </s> 
+wikipedia.org | <s> Haley is an All-American sweetheart who loves sports, shopping, and hip hop. </s> 
+wikipedia.org | <s> Schedler loved teaching, and parishioners asked to get together and talk about world religions. </s> 
+wikipedia.org | <s> One of her friends is deliberately murdered, while another of her loved ones is accidentally shot. </s> 
+wikipedia.org | <s> A 25-year-old woman who has let her own financial problems affect her loved ones is the focus. </s> 
+wikipedia.org | <s> He is a nephilim from Shoreline, Miles finds love where he least expects it. </s> 
+wikipedia.org | <s> Family-orientated, Windsor adds that: " loves her family with a passion. </s> 
+wikipedia.org | <s> His plan fails, however, as Sapphire still loves Rex after his transformation. </s> 
+wikipedia.org | <s> Bauua assures her that he always loved her, just before the rocket takes off. </s> 
+wikipedia.org | <s> Edgeworth followed up with his memoirs, in which he claimed Sidney loved Day. </s> 
+wikipedia.org | <s> Adrienne found herself torn between two men that she loved , forced to make a decision. </s> 
+wikipedia.org | <s> It was awesome to write that song because I love music from the 50s and 60s. </s> 
+wikipedia.org | <s> Gecko Turner grew up in Spain, learning English from the blues artists he loved . </s> 
+wikipedia.org | <s> She clearly loves her mother very much but is not willing to let her run her life. </s> 
+wikipedia.org | <s> He loves his family, though most of the time he is away on a ship. </s> 
+wikipedia.org | <s> But I love rock 'n' roll-there, I'd rather be a rock star. </s> 
+wikipedia.org | <s> To have to let go of everything you know and all the people you love . </s> 
+wikipedia.org | <s> Terry Lee: A teenager when the series begins, he is excitable and loves adventure. </s> 
+wikipedia.org | <s> They sort of look like alien creatures or melting blobs and the internet loves them. </s> 
+wikipedia.org | <s> One thing I try to stress about this project is, I love and hate this album. </s> 
+wikipedia.org | <s> Doug was a builder, who loved his family and enjoyed spending time with his friends. </s> 
+wikipedia.org | <s> However, her arrival proves to be a major consternation for the Angel Takuto loves . </s> 
+wikipedia.org | <s> Meanwhile, Joxer plucks up the courage to tell Gabrielle that he loves her. </s> 
+wikipedia.org | <s> He struck me as a guy who really loves the cinema and is knowledgeable about it. </s> 
+wikipedia.org | <s> He is also somewhat hindered by Drutt, Berk's pet who loves eating worms. </s> 
+wikipedia.org | <s> But Akbar, you know how much your mother, sisters, and aunts love you. </s> 
+wikipedia.org | <s> Jung-jae, however, chooses to turn a blind eye as he deeply loves Hye-won. </s> 
+wikipedia.org | <s> However, Heihachi overpowers and, realizing the woman he loved is gone, kills her. </s> 
+wikipedia.org | <s> Wolf loved the idea, but had already cast Jesse L. Martin as Briscoe's new partner. </s> 
+wikipedia.org | <s> Children are learning to love , to trust, to let loose, and to have fun. </s> 
+wikipedia.org | <s> Bingo likes the idea, but declines, knowing that Honoria loves Oswald. </s> 
+wikipedia.org | <s> Schwartzman loved Ocasek's pink Jazzmaster, the one he used in The Cars. </s> 
+wikipedia.org | <s> Tilly is a studious character and loves to read, which has rubbed off on Dixon. </s> 
+wikipedia.org | <s> Kkavya understands that Anjali loves him. </s> 
+wikipedia.org | <s> Given that they have an on-and-off relationship, Alfie tells Jade he loves her. </s> 
+wikipedia.org | <s> When a Man Loves a Walnut, 1997. </s> 
+wikipedia.org | <s> Abraham learned how to love God but did he learn how to love his neighbor and himself? </s> 
+wikipedia.org | <s> The Brethren love feast is a conscious imitation of Jesus' last supper with his disciples. </s> 
+wikipedia.org | <s> Mickey is devastated when Ian insists he loves Maxine and wants to be with her. </s> 
+wikipedia.org | <s> The girls loved it, and Alice Liddell asked Dodgson to write it down for her. </s> 
+wikipedia.org | <s> She is a bibliophile, and is close friends with Kelsey (who loves fantasy novels). </s> 
+wikipedia.org | <s> Also a trained gymnast, Miles played soccer and volleyball at her school and loved performing arts. </s> 
+wikipedia.org | <s> To prove he loves her more, Bobby jumps clear as his van goes over a cliff. </s> 
+wikipedia.org | <s> For instance, besides work, love also is a major theme for Levine in this collection. </s> 
+wikipedia.org | <s> Cruel one, even if you make me languish, I will always love you true. </s> 
+wikipedia.org | <s> I would not hurt the ones I love , nor be drawn to those who hurt me. </s> 
+wikipedia.org | <s> The King learns to love his wife and pulls away from his mistress and their two sons. </s> 
+wikipedia.org | <s> Failed knight Catriona Goodlund returns to her homeland to find everything she's ever loved destroyed. </s> 
+wikipedia.org | <s> Machen loved the medieval world view because he felt it manifested deep spirituality alongside a rambunctious earthiness. </s> 
+wikipedia.org | <s> To Be Loved " and "Forever". </s> 
+wikipedia.org | <s> A neighboring well wisher lady (Sulabha Deshpande) loves and cares for Vinnie. </s> 
+wikipedia.org | <s> He loves her dearly and will go to any extent to safeguard his daughter and granddaughter. </s> 
+wikipedia.org | <s> As a child, he loved theatre and pictorial art, especially the works of M. Vrubel. </s> 
+wikipedia.org | <s> Tuanku Nur Zahirah also loves to read books, specially concerning intelligence quotient and emotional quotient. </s> 
+wikipedia.org | <s> She loves Walter's hair to the point of dyeing hers red, the same color as him. </s> 
+wikipedia.org | <s> He Loves Me, He Loves Me Not. </s> 
+wikipedia.org | <s> The Sheik saves her from certain death, and tells her she will learn to love him. </s> 
+wikipedia.org | <s> Her three sons often exasperate her with their rowdiness, but she loves them all the same. </s> 
+wikipedia.org | <s> Madhu loves his wife even though they are out of sync because she has brought him luck. </s> 
+wikipedia.org | <s> Her last words beg her father to forgive her for not loving the countryside as he did. </s> 
+wikipedia.org | <s> The girl he loved also resigned over her refusal to meet with senior party members in clandestine affairs. </s> 
+wikipedia.org | <s> I love you all. </s> 
+wikipedia.org | <s> Lumiere holds onto Fifi while hanging for dear life, and tells her that he loves her. </s> 
+wikipedia.org | <s> While Gail tells them that she loves them, she puts the scissors in Sarah's hands. </s> 
+wikipedia.org | <s> She (revealed in book 5,) has a Hummingbird which she loves , called Whizzy. </s> 
+wikipedia.org | <s> Nobody was allowed recovery of the bodies, and only some received death certificates for their loved ones. </s> 
+wikipedia.org | <s> She eventually agrees to give full custody to Sakhi since she sees how much he loves the baby. </s> 
+wikipedia.org | <s> Her library is filled with books about the grammar of the English language because she had loved grammar. </s> 
+wikipedia.org | <s> Akuaku is the main villain of the fifth movie and an evil spirit that loves to play pranks. </s> 
+wikipedia.org | <s> Eun-seom loved Tan-ya for this. </s> 
+wikipedia.org | <s> Father Brown discovers that Barford truly loved his childless wife, though she suspected her husband's fidelity. </s> 
+wikipedia.org | <s> His friends find out that Joseph still loves Stella and then inquires what was their reason for separation. </s> 
+wikipedia.org | <s> Day 37: Task: ' Love Letter Bombs'. </s> 
+wikipedia.org | <s> Weinstein said they both " love them and seem to really hate them" at the same time. </s> 
+wikipedia.org | <s> Genie (Voiced by Ryuzou Ishino): A book sleeve boy who loves to study. </s> 
+wikipedia.org | <s> It originated at the Nashville Farmers' Market with accompanying events celebrating the legacy of well loved recipes. </s> 
+wikipedia.org | <s> Describing Dot, Brown has said, "I love playing her – she's a strong character. </s> 
+wikipedia.org | <s> She regularly gets Rainbow Fish into trouble, because she gets jealous, although she actually loves him. </s> 
+wikipedia.org | <s> Cash confesses that he still loves Monica in "Deceptions", but she rejects him. </s> 
+wikipedia.org | <s> He loves the game. </s> 
+wikipedia.org | <s> I love you terribly. </s> 
+wikipedia.org | <s> This journey yet holds more for both of them, as they discover what love could mean and bring. </s> 
+wikipedia.org | <s> Anna said: "I would answer that I love you and I will love you forever". </s> 
+wikipedia.org | <s> Working together on original music that crossed all of our inspirations was completely refreshing and I love the track. </s> 
+wikipedia.org | <s> Love is the recurrent theme – love of a woman, love of life or love of the other. </s> 
+wikipedia.org | <s> A practical and scientific humanist, he was deeply loved by the peasants of his estates in Bengal. </s> 
+wikipedia.org | <s> Karen loved gardening, painting, being in nature, and cheering for her beloved MN Vikings. </s> 
+wikipedia.org | <s> Her love for music deeply troubles Philip, who never allowed Henry to play the guitar at the house. </s> 
+wikipedia.org | <s> Thiebaud has stated: "I love going to work and getting to play someone that I am not. </s> 
+wikipedia.org | <s> His colleague, Dr. Lata loves Dr. Anand, but he already has a girlfriend, Seema. </s> 
+wikipedia.org | <s> Its plot involves a woman who disguises herself and gains employment in the home of the man she loves . </s> 
+wikipedia.org | <s> When Raj says he believes Simran loves him too, his father encourages him to go after her. </s> 
+wikipedia.org | <s> Belatedly I loved thee, O Beauty so ancient and so new, belatedly I loved thee. </s> 
+wikipedia.org | <s> They are not easily angered and tend to be eager to please and friendly, but they love attention. </s> 
+wikipedia.org | <s> The story is about Justin McCallister who loves life on his aunt and uncle's sheep ranch in Montana. </s> 
+wikipedia.org | <s> Luckily, Mr Whiteman came home in the nick of time, loved it and paid for it. </s> 
+wikipedia.org | <s> Kosi is an unblinking man with a stubborn feel for life, thereby refusing to love and be loved. </s> 
+wikipedia.org | <s> She says, "As scientists, we're enormously privileged to be doing a job that we love . </s> 
+wikipedia.org | <s> Can love overcome doubt? </s> 
+wikipedia.org | <s> He claimed that though he knew her family missed her, he loved her and could not return her. </s> 
+wikipedia.org | <s> Intan (Naysila Mirdad) grows up innocent and sweet, and loves Lastri (Hj. </s> 
+wikipedia.org | <s> He loved nature, and loved exploring the wilds of the Boland, especially around Hermanus and Swellendam. </s> 
+wikipedia.org | <s> His daughter is in the middle between The Virginian who she loves and her father who barely notices her. </s> 
+wikipedia.org | <s> One night, she shares her leftovers with a taxi driver named Takeshi, who also loves pickled cabbage. </s> 
+wikipedia.org | <s> At present, she does not have any particular crush (but Shizuka secretly loves Nobita very much). </s> 
+wikipedia.org | <s> Enid Bagnold published The Loved and Envied (ISBN 0-86068-978-6) in 1951. </s> 
+wikipedia.org | <s> I love thee with the passion put to use In my old griefs, and with my childhood's faith. </s> 
+wikipedia.org | <s> Glassman takes Shaun to a park his late daughter loved so they can enjoy the time Glassman has left. </s> 
+wikipedia.org | <s> Bird contains the autobiographical message of Namjoo that she will fly without hesitation for everything she loves and dreams. </s> 
+wikipedia.org | <s> The book collected essays that James had written over nearly forty years about a country he knew and loved well. </s> 
+wikipedia.org | <s> All the natives loved Izta, and her parents prepared her to be the Empress of the Aztecs. </s> 
+wikipedia.org | <s> Never Loved Elvis is the third album by The Wonder Stuff released in May 1991. </s> 
+wikipedia.org | <s> Lolo Franing wants the YaKie wedding to proceed, telling Yaya Dub that Frankie loves her very much. </s> 
+wikipedia.org | <s> Tiny could not speak any English but as children would see he loved to learn new things about life. </s> 
+wikipedia.org | <s> Several cadenzas of coloratura style, which Liszt also loved in his compositions, are inserted in the music. </s> 
+wikipedia.org | <s> She loves to explore and have adventures, and to challenge her friends to a dare or a race. </s> 
+wikipedia.org | <s> He calls out to General Kurshnirov "I love you, Father" as he falls to his death. </s> 
+wikipedia.org | <s> The Racoons are against the romance because it is a known law that "No man should love a racoon. </s> 
+wikipedia.org | <s> She is the friend of Gaurav Saxena and wants to make him a successful supermodel because she loves him. </s> 
+wikipedia.org | <s> In 1949, Memphis Slim recorded the reworked song as "Nobody Loves Me". </s> 
+wikipedia.org | <s> It almost did not make the track list, but producer Max Martin chimed in and said he loved it. </s> 
+wikipedia.org | <s> He enjoys playing video games and foosball, loves sandwiches and pizza, and is a big fan of Baywatch. </s> 
+wikipedia.org | <s> When they were finished Katie feels sad that she can't share this news with Lauren, whom she loves . </s> 
+wikipedia.org | <s> Thematically, the album touches on the loss of loved ones, physical objects and environments and loss of innocence. </s> 
+wikipedia.org | <s> It continues to Troyes, and passes straight through the Champagne region, whose wines are loved by the British. </s> 
+wikipedia.org | <s> Raji Reddy tells Arya to kill her, as Arya can't kill her because he still loves Geetha. </s> 
+wikipedia.org | <s> As Tizoc begins to realize he no longer loves Machinza, she complains about this to her brother Nicuil. </s> 
+wikipedia.org | <s> Joanna, desperate to find someone to love , kisses a woman who turns out to be her cousin Margaret. </s> 
+wikipedia.org | <s> A commoner named Raghuvaran (Ravi Tej) truly loved the Zamindar's daughter Nayanthara (Lakshmipriya). </s> 
+wikipedia.org | <s> Meg then pretends to be pregnant, forcing Jack to marry her before he leaves, although he loves Jessica. </s> 
+wikipedia.org | <s> Each is recommended to go beyond the minimum required classes needed to graduate in order to pursue the subjects they love . </s> 
+wikipedia.org | <s> She demands an explanation, which she accepts, telling him she realized that he is who she truly loves . </s> 
+wikipedia.org | <s> Chebutykin drunkenly stumbles and smashes a clock which had belonged to the Prozorov siblings' late mother, whom he loved . </s> 
+wikipedia.org | <s> Correia speaks Spanish and English, she loves playing soccer, and she is current student of journalism at ITV. </s> 
+wikipedia.org | <s> She vows she will only marry the man she loves , but she won't tell Ramsey who that is. </s> 
+wikipedia.org | <s> One must remain open to love , but without trying to condition when it might arise and when it might die. </s> 
+wikipedia.org | <s> After this heartbreak, Charlie is once again shown as a woman how loves uncomplicated affairs, however long they last. </s> 
+wikipedia.org | <s> But 'Once I Loved ' is that rarity--a melancholy soliloquy that shouldn't be played too slowly. </s> 
+wikipedia.org | <s> The album was released in April 2013 under How Does It Feel To Be Loved ? record label. </s> 
+wikipedia.org | <s> Each round will feature a different food item, with the loved one that finishes last being eliminated from the challenge. </s> 
+wikipedia.org | <s> Despite the fact that she still loves basketball, Tomoka is not willing to play without having her friends with her. </s> 
+wikipedia.org | <s> Rose co-wrote the 1986 TV movie My Two Loves , starring Mariette Hartley and Lynn Redgrave. </s> 
+wikipedia.org | <s> In discussing Lee's love of flying her sister Frances said, "It was the thought of doing something she loved . </s> 
+wikipedia.org | <s> He loves his horse, Katy, whom he purchased by winning the money to buy her in a boxing match. </s> 
+wikipedia.org | <s> Rosa Luxemburg continues to fascinate, and despite her powerful political intellect and activism, her love life also attracts attention. </s> 
+wikipedia.org | <s> Samara finds that her father doesn't loves her when he during a party doesn't acknowledge her as his daughter. </s> 
+wikipedia.org | <s> He relished the earthiness of plain, simple Mediterranean ceramics and loved Byzantine icons (especially those darkened with age). </s> 
+wikipedia.org | <s> Knowing that Sonia loves Vijay, Suraj attempts to kill him but ends up burning the farm of Vijay's Uncle. </s> 
+wikipedia.org | <s> Gigi interrupted Rex and Adriana's wedding to tell Rex she loves him, only to end up punched by Adriana. </s> 
+wikipedia.org | <s> Macon holds out due to a warning from a traitor of Winterbourne's army, but the woman he loved was killed. </s> 
+wikipedia.org | <s> The movie ends with the statement, "You don't have to be a soldier to love your country". </s> 
+wikipedia.org | <s> Second single, "Don't Be Afraid If Nobody Loves You" followed on 12 July. </s> 
+wikipedia.org | <s> The chorus is backed by female vocalists, singing it in style with one of John's most loved genres, gospel. </s> 
+wikipedia.org | <s> He loves the food and tea at Rokuhōdō, though never admits it, instead coming over for 'inspections'. </s> 
+wikipedia.org | <s> They loved and respected one another, but they criticized each other and at the same time strengthening one another spiritually. </s> 
+wikipedia.org | <s> A sensitive lover offers a woman sympathy for her heartbreak and suffering, thinking that this will make her love him. </s> 
+wikipedia.org | <s> Yug had told Bharti all this before marriage but she wanted to marry him anyway because she loved him a lot. </s> 
+wikipedia.org | <s> The passive participle is formed by -at at the stem of the verb, like amat loved , soluat solved. </s> 
+wikipedia.org | <s> According to band member Bob Berryhill, "Ronnie loved Scottish marches and played with our high school Tartan marching band. </s> 
+wikipedia.org | <s> Jack Ruby (Michael Lerner) is a warm-hearted but hot-tempered and patriotic nightclub owner, who loves President Kennedy. </s> 
+wikipedia.org | <s> Conchita, saving Tony and Lola from the perils she faced for years, shot her love Rico to his death. </s> 
+wikipedia.org | <s> When the Colonel realizes how much he would miss her attentions, he discovers that he does love her after all. </s> 
+wikipedia.org | <s> He can be heard at the beginning of the song "Chocolate Jesus", saying "I love it". </s> 
+wikipedia.org | <s> Her breakthrough hit "Someone Loves You, Honey" became the best-selling single of 1982 in the Netherlands. </s> 
+wikipedia.org | <s> Jamie Foxx as Nico, a yellow canary who loves to samba, and whose bottlecap hat functions as a tambourine. </s> 
+wikipedia.org | <s> The longest continuous run in the Top 100 is 97 weeks for "Someone You Loved " by Lewis Capaldi. </s> 
+wikipedia.org | <s> She started her music career, in 1988, with the release of He Loves Me by Sound of Gospel. </s> 
+wikipedia.org | <s> The second meeting in 1957 gave Montini an opportunity to express the lay apostolate in modern terms: "Apostolate means love . </s> 
+wikipedia.org | <s> For others, the memory that continues in loved ones, or even in societies, guarantees the persistence after physical death. </s> 
+wikipedia.org | <s> After Bigby's last minute return saved the day during the Battle of Fabletown, she realized that she truly did love him. </s> 
+wikipedia.org | <s> Ajay and Piya love each other, and they soon start a wish list, which they write on their bedroom wall. </s> 
+wikipedia.org | <s> Allen is able to see Alma's Akuma soul, learning Alma is in fact the woman Kanda loved in his previous life. </s> 
+wikipedia.org | <s> The choice of changing a major line from "Thank you" to "I love you" also received mixed reactions. </s> 
+wikipedia.org | <s> Sabrás que te quiero (Know that I love you) was published in 2017, this is Negretti's second historical novel. </s> 
+wikipedia.org | <s> He was replaced by Bharath, who was approached by Silambarasan himself for the role and immediately agreed as he loved Vedam. </s> 
+wikipedia.org | <s> We love to jam and riff all day and we feel Kurt 's unique style of producing will complement this perfectly. </s> 
+wikipedia.org | <s> The bashing also makes Micky put things into perspective - he loves Jake and wants to do the right thing by him. </s> 
+wikipedia.org | <s> The main title, PiHKAL, is an acronym that stands for "Phenethylamines I Have Known And Loved ". </s> 
+wikipedia.org | <s> She, however, loved an Algonquian warrior named Nessacus, who risked his life to save her from a bear attack. </s> 
+wikipedia.org | <s> You're our idol, inspiration Memories never die; For we'll love and cherish ever, Hold your standards high. </s> 
+wikipedia.org | <s> Seeing how much he loves and respects his family and how his life has been, Divya slowly starts to like Shakthi. </s> 
+wikipedia.org | <s> She is extremely giddy and would do anything in order to get Kikuchi's attention and his love because she truly loves him. </s> 
+wikipedia.org | <s> Therefore I'll lie with love, and love with me, Since that our faults in love thus smother'd be. </s> 
+wikipedia.org | <s> He loved basketball, was a fan of the Chicago Bulls, and was, at the time, an aspiring rapper. </s> 
+wikipedia.org | <s> El Privilegio de Amar (English: The Privilege to love ) is the 12th studio album by Mexican pop singer Mijares. </s> 
+wikipedia.org | <s> The Roman d'Enéas addresses that charge, when Queen Amata opposes Aeneas's marrying Lavinia, claiming that Aeneas loved boys. </s> 
+wikipedia.org | <s> Large Marvin Fraggle (performed by Dave Goelz) – A fat and somewhat dim-witted Fraggle who loves snacking and also swimming. </s> 
+wikipedia.org | <s> Ganapathi falls in love with Arundhathi (Jeevitha Rajashekar) and Basu fa loves Seetha (Ashwini) and they get married. </s> 
+wikipedia.org | <s> The album was recorded to tape using analogue methods, with Regan noting, "I just love the sound of it, I love the process. </s> 
+wikipedia.org | <s> For those who don't remember the Cowboys loved to run a package of four defensive linemen, no linebackers and seven defensive backs, blitzing most of their secondary. </s> 
+wikipedia.org | <s> In his book, Jackson recalls a meeting with Al Davis where he said he liked Davis and told the Raider boss he would love to play for them, and that the Raiders made offers for the #1 pick to Tampa Bay that were spurned. </s> 
+wikipedia.org | <s> Another passage, later in the same notebook, uses the letters in sequence as the initial letters of the words in the first line of a couplet poem, showing the meaning as "I am loved by the elect" (from Latin, amor electis, iniustis ordinor ultor). </s> 
+wikipedia.org | <s> It soon becomes apparent that they still love each other and have missed each other for many years, and that Ken returned to Pine Island in hopes of seeing Sylvia again. </s> 
+wikipedia.org | <s> Speaking about joining the production, Woodyatt commented: "I absolutely love performing in front of an audience as it's so different to camera – I love the reaction of the audience. </s> 
+wikipedia.org | <s> Jackie agrees to let him keep Buddy until Christmas and she plans to send him to the pound if his rightful owner is not located; however, she sees how loyal Buddy is and how much Josh loves him. </s> 
+wikipedia.org | <s> She does everything she can to make him love her back, without noticing that Nicolas is uncomfortable with her smothering affection for him. </s> 
+wikipedia.org | <s> You're a grand old school You're the school that we love And forever in honor we'll hold, Alma mater dear, We you revere, The boast of the brave and the bold. </s> 
+wikipedia.org | <s> But for some reason, he didn't love Marvin and, what's worse, he didn't want me to love Marvin either. </s> 
+wikipedia.org | <s> Amanda finds a drunken Dex and they make love again - only to be caught in the act by Alexis in episode 136. </s> 
+wikipedia.org | <s> Chris O'Dell with Katherine Ketcham, Miss O'Dell: My Hard Days and Long Nights with The Beatles, The Stones, Bob Dylan, Eric Clapton, and the Women They Loved , Touchstone (New York, NY, 2009; ISBN 978-1-4165-9093-4). </s> 
+wikipedia.org | <s> Her flirtations with Logan are explored more in-depth in the first few issues of the title, and she confesses shortly after Logan's death that she loved him. </s> 
+wikipedia.org | <s> Considering that "the love with which a man loves himself is the form and root of friendship" and quotes Aristotle that "the origin of friendly relations with others lies in our relations to ourselves", he concluded that though we are not bound to love others more than ourselves, we naturally seek the common good, the good of the whole, more than any private good, the good of a part. </s> 
+wikipedia.org | <s> Her works include, Jan Vedder's Wife, The Border Shepherdess, Feet of Clay, Friend Olivia, The Bow of Orange Ribbon, Remember the Alamo, She Loved a Sailor, A Daughter of Fife, The Squire of Sanddal Side, Paul and Christina, Master of His Fate, The Household of McNeil, The Last of the Macallisters, Between Two Loves, A Sister to Esau, A Rose of a Hundred Leaves, A Singer from the Sea, The Beads of Tasmer, The Hallam Succession, The Lone House, Christopher and Other Stories, The Lost Silver of Briffault. </s> 
+wikipedia.org | <s> He suggested it was unfair that we are born with the desire to be loved by others, but unavoidable due to the consequence of the Fall, or original sin. </s> 
+wikipedia.org | <s> When one imagines their loved one as Creusa, it seems that she had everything waiting for her in life but was cruelly stolen from our world far before her time, and Creon likewise functions as a stand-in for the family member of the deceased who would feel the loss of their loved one most. </s> 
+wikipedia.org | <s> In 2004, the chairman of the National Endowment for the Arts (NEA), Dana Gioia, and the poet Marilyn Nelson (the daughter of a Tuskegee Airman), conceived an idea to encourage military personnel and their loved ones to write about their wartime experiences in Iraq and Afghanistan. </s> 
+wikipedia.org | <s> Based on Mary's husband Arthur De Wint Foote, Oliver is a bright, straightforward, honest man who has focused on supporting the family he loves . </s> 
+wikipedia.org | <s> Both are determined to win – Fromage having devoted his entire life to the marathon, Mambo determined to make a name for herself – they find themselves surprised when their minds wander to thoughts of mutual admiration and then to love , culminating in the pair holding hands for the rest of the race and crossing the finish line together. </s> 
+wikipedia.org | <s> Mother Superior is aware that Mary and the old man used to write to each other and that Mary respected and loved him a lot. </s> 
+wikipedia.org | <s> Jeselnik, who refers to roasts as "the Super Bowl of comedy," loved roasts during college and always tried to write for them. </s> 
+wikipedia.org | <s> A beauty and a heartbreaker, who loved partying and quite enjoyed herself in the company of men, she caused great suffering to her husband, V.D. Starov, a teacher of Latin at the same school, who, in his own turn, served as a prototype for Nikitin in "The Teacher of Literature". </s> 
+wikipedia.org | <s> Rohail has never experienced the sweetness or the pain of love, though his friend back at home in Turkey, Madiha (Mehreen Raheel) has only loved him. </s> 
+wikipedia.org | <s> The siblings' lives are thrust into a world of politics, power and corruption that shake their core values, murder their loved ones and potentially destroy themselves. </s> 
+wikipedia.org | <s> They have collaborated with many acts like Snoop Dogg in "Emergency" and "You Never Know (Could You Be Loved )" (the latter being credited to Snoop Lion rather than Snoop Dogg). </s> 
+wikipedia.org | <s> Loving the Cotswolds. </s> 
+wikipedia.org | <s> In August 2020, Ken Wyatt, Minister for Indigenous Australians, said that he would love to see the flag freely used across Australia, and former AFL player Michael Long said its absence would have a negative effect on the players in the Sir Doug Nicholls Indigenous Round. </s> 
+wikipedia.org | <s> At the end of the challenge, Tipara volunteered to have shorter calls with their loved ones to give time to Kadina, because if Kadina had not lost one of their nails in the sand in the challenge, they might have won. </s> 
+wikipedia.org | <s> A kappa who loves kiwis (a pun, as the Japanese words for cucumber and kiwi sound alike), he can understand the feelings of both people and objects. </s> 
+wikipedia.org | <s> The song is about one's devotion to the one they love; it's narrator telling the girl he's falling for that if she let their "hearts combine" that he vows to always let her know how much he needs, wants, and loves her. </s> 
+wikipedia.org | <s> Despite sustained lobbying by the public in December 2016, DJ Pete Price ignored the pleas and the balloon release went ahead at the end of the programme 'Remember A Loved One At Christmas'. </s> 
+wikipedia.org | <s> Radio announcer Stu Harvey wrote "Simple fast melodic punk rock played in the vein of The Ramones and Screeching Weasel, love it! </s> 
+wikipedia.org | <s> She begs him not to leave her because she has found home in his company ("End Duet"), but despite this, he dies; Belle sobs on his body and says she loves him just before the last rose petal falls. </s> 
+wikipedia.org | <s> In 2014, Who made her American television debut when she performed "Somebody Loves You" on Watch What Happens: Live. </s> 
+wikipedia.org | <s> In a review of the single, Shutler described "Black Rain" as "Epic and built to inspire a thousand ideas", praising it as "the first time Creeper have properly stuck their flag in the ground, taken a little bit of everything they love , and proudly declared 'this is us'". </s> 
+wikipedia.org | <s> She loves it when people pee on her, which is what made her become attracted to Sammy since he peed on her while she was drunk. </s> 
+wikipedia.org | <s> Meanwhile, the military has scheduled a "visitors' day" for the residents of Chester's Mill, where family members and friends of people trapped in the dome can come and visit their loved ones. </s> 
+wikipedia.org | <s> We were quite a big, physical team and, in Bob Newton, had this barrel-chested striker who just loved a battle with the opposition centre-halves. </s> 
+wikipedia.org | <s> Songwriter Mark Sanders has written that he was inspired to choose the name "Bobbie Ann Mason" for the character in the song because he loved the books In Country and Shiloh and Other Stories by the novelist Bobbie Ann Mason. </s> 
+wikipedia.org | <s> However, the match takes place the same day as Topanga's Sweet Sixteen– forcing the kid who "wants everyone to love him" to both help a friend and celebrate a girlfriend's birthday at the same time. </s> 
+wikipedia.org | <s> He followed Sharon to Jack's cabin, where he apologized and explained how much he still loved her, but she was not able to return his feelings. </s> 
+wikipedia.org | <s> Chorus girl Delight "Dee" Foster (Alice White) is in love with stage manager Billy Buvanny (Charles Delaney) and he also loves her. </s> 
+wikipedia.org | <s> With a lot of encouragement, she stepped onto the stage and discovered that not only did she love singing, she also loved being on stage. </s> 
+wikipedia.org | <s> When Kar finds himself fighting against the local gang's leader, he meets a young woman named Jade, whom he falls in love with. </s> 
+wikipedia.org | <s> When Bart grows lonely and wants to go home, Burns tricks him into thinking his family no longer loves him by staging a fake video with actors portraying the Simpsons. </s> 
+wikipedia.org | <s> Conrad receives a hero's welcome in Sweet Apple, and Hugo worries that Kim likes Conrad more than she likes him, but Kim assures Hugo that he is the only one she loves ("One Boy"). </s> 
+wikipedia.org | <s> As described in a film magazine, Armand Duval (Roscoe), a son in the proud but poor house of Duval, loves Camille (Bara), a notorious Parisian beauty. </s> 
+wikipedia.org | <s> Love (charity) is described as an extraordinary force motivating people to strive for the common good: "The more we strive to secure a common good corresponding to the real needs of our neighbours, the more effectively we love them". </s> 
+wikipedia.org | <s> Carol's friend gives her some perspective by revealing how much the hospital staff and patients love her, and so she forgives the group, content that at least Jenny isn't dating Daniel anymore. </s> 
+wikipedia.org | <s> She Loves Me, She Loves Me Not features 12 of the most renowned women in photography showing images of men in their work. </s> 
+wikipedia.org | <s> The film also ranked at number 28 on Empire's list of the 100 Greatest Movies of All Time, which stated: " Love , honour, thrills, wisecracks and a hit tune are among the attractions, which also include a perfect supporting cast of villains, sneaks, thieves, refugees and bar staff. </s> 
+wikipedia.org | <s> Later in Season 8, Charlie tells Rose that he loves her and they begin a romantic relationship with Charlie even taking her on a romantic getaway to Paris despite the fact that he still thinks she is truly married. </s> 
+wikipedia.org | <s> Horowitz loved the emotion in the scene due to the audience only just learning Charlotte's backstory, and Kitsis thought Mader's performance "elevate the words to a whole other level". </s> 
+wikipedia.org | <s> He was the measure of the love they needed to live, to carry out his commandment, which they discovered as the heart of the Gospel: " Love one another as I have loved you" (John 15:12). </s> 
+wikipedia.org | <s> The Government of New Zealand has recognized this as one of the most important issues for New Zealanders, with an event such as Children's Day helping to focus on the practice of sharing, loving and caring as well as honoring tamariki (Maori for 'children'). </s> 
+wikipedia.org | <s> In addition to music, Gaffney loved sports, especially boxing, and earned an LA Golden Gloves championship in 1967 and even trained with boxing hall-of-famer Jackie McCoy. </s> 
+wikipedia.org | <s> Pastor Bob Beeman of Sanctuary International stated that this is a compliment to secular music, as it lets people to listen to the music they enjoyed without feeling like they are giving up on the style they love and allows bands to crossover into mainstream success. </s> 
+wikipedia.org | <s> Le Monde called it a "beautiful novel, powerful, different, and ambitious" about " love so total that it locks up, isolates and colonises the partner until destruction annihilates the outside world". </s> 
+wikipedia.org | <s> A staple of the walkaround was the cakewalk, which white audiences loved despite not realizing that it originated with plantation slaves imitating their masters' walks. </s> 
+wikipedia.org | <s> Claire goes back for Meredith, who has lost control of her pyrokinesis after being injected with adrenaline by Sylar, but is persuaded to leave her behind, telling Meredith she loves her and escaping with Noah and Angela as the building goes up in flames. </s> 
+wikipedia.org | <s> Many musicians who participated in George's Jesus Loves You project are also featured on Conscience, such as keyboardist Richard Cottle and, most notably, guitarist John Themis, who authored much of George's solo works after the Jesus Loves You project. </s> 
+wikipedia.org | <s> Krystal Spencer of Your EDM described the music video as "a riot to watch Alesso slide and spin through high school in the hopes of impressing his teacher", further commenting that "fans will love seeing a different side of Alesso". </s> 
+wikipedia.org | <s> Sun Meri Maya meaning Listing My Lover this song was recorded about his love life and school love life and the songs included in this album super hit songs such as Jadi Chu Ma and School, after the success of the solo song and album he started working in his second album called Aama meaning Mother which was recorded for his mother, family and his background, the songs in this album became blockbuster, the songs such as Aama became highly known by other audience which led him to be one of the popular singers, and loved by teens since he would mainly target teens. </s> 
+wikipedia.org | <s> Jim realizes he loves Pam for being so dorky, and comes into the office wearing his Popeye costume and carrying Cece (dressed as Swee'Pea), much to the delight of Pam. </s> 
+wikipedia.org | <s> The last person to see him alive is Peggy, who tells him that despite Cotton's constant torture of his son, Hank has always loved him and that she hopes he will live forever in the friendless, spiteful existence he has made for himself as the unhappy, unpleasant person he is. </s> 
+wikipedia.org | <s> Jesuit priest James Martin, replied to the Nashville Statement with his own set of affirmations and denials, beginning with "I affirm: That God loves all LGBT people". </s> 
+wikipedia.org | <s> Beginning with the show in Cleveland, Dion added "That's the Way It Is", "If You Asked Me To", "Love Can Move Mountains", "The Prayer", "To Love You More", "The Reason", "Because You Loved Me" and "Imagine"; she removed "Dans un autre monde", "Terre", "À vous", "L'amour existe encore", "Encore un soir", "Regarde-moi", "Un garçon pas comme les autres (Ziggy)", "S'il suffisait d'aimer", "Pour que tu m'aimes encore" and "Flying on My Own". </s> 
+wikipedia.org | <s> Delinquents may also commit crimes in order to secure funds for themselves or their loved ones, such as committing an armed robbery, as studied by many scholars (Briar & Piliavin). </s> 
+wikipedia.org | <s> Crystallization is a concept, developed in 1822 by the French writer Stendhal, which describes the process, or mental metamorphosis, in which unattractive characteristics of a new love are transformed into perceptual diamonds of shimmering beauty; according to a quotation by Stendhal: What I call 'crystallization' is the operation of the mind that draws from all that presents itself the discovery that the loved object has some new perfections. </s> 
+wikipedia.org | <s> Pam, Ralph and Gerard visit the Curiosity Shop to ask Mr. Jones if you can " love " a pair of old sneakers. </s> 
+wikipedia.org | <s> To her surprise, her label and manager excitedly called her up saying that they loved the new demos and believed "Bill" was the perfect producer for the project. </s> 
+wikipedia.org | <s> He is compelled to return to the Dolphin Hotel, a seedy establishment where he once stayed with a woman he loved , despite the fact he never even knew her real name. </s> 
+wikipedia.org | <s> Brittany (Heather Morris) and Santana (Naya Rivera) sing "I Wanna Dance with Somebody (Who Loves Me)", inviting the rest of the club to dance with them during the performance. </s> 
+wikipedia.org | <s> These songs are "How Will I Know" in an a cappella version sung by Riley, Rivera, Colfer and Michele, "I Wanna Dance with Somebody (Who Loves Me)", "Saving All My Love for You", "So Emotional", "It's Not Right but It's Okay", "I Have Nothing" and "My Love Is Your Love". </s> 
+wikipedia.org | <s> She bought a lakefront inn, The Cedar Lake Inn, a destination she'd loved as a child and somewhere she'd always dreamed of living once she was released from prison - only to find her past catching up with her when one by one, her fellow former convicts converge on the Cedar Lake area as they are released from prison. </s> 
+wikipedia.org | <s> Between 1992 and 1993, Harris had the recurring role of Molly Tilden on the sitcom Roseanne, then joined Roseanne Barr again in 1993 for the television film The Woman Who Loved Elvis, this time as daughter Priscilla. </s> 
+wikipedia.org | <s> Nowadays, you can catch Dave playing around Memphis as part of the duo Mulberry Branch, along with fiddler Bill Thurman, or playing all over the Mid-South fronting Rocktown Revival, the six-piece band that Dave formed along with his cousin Frank Cox in late 2016 as a way to deliver Dave's original music as well as to perform songs from some of the greatest American artists for folks who, like themselves, love the revival of roots-based music. </s> 
+wikipedia.org | <s> Rat said "I truly love Flea, Anthony, Chad, Josh and all my dear and close friends I consider family both on the road now and those that have moved on to other adventures over the years. </s> 
+wikipedia.org | <s> The eldest of 4 brothers, Moore developed an early interest in the natural world as he explored his native Teesdale, an area of the UK which he loved his entire life. </s> 
+wikipedia.org | <s> Positive with Robinson's performances though, she added: "Dawn will be a welcome addition to the CD collection of anyone who loves vocal music. </s> 
+wikipedia.org | <s> Alone in her room, listening to love songs, she often daydreams about love and the possibility of finding an ideal man. </s> 
+wikipedia.org | <s> In this first episode, we meet the rowdy frat brothers of the Delta House on the Faber College campus in 1962 and see how they love to play pranks on the uptight preppies of the Omega House and torment Dean Wormer. </s> 
+wikipedia.org | <s> When Lucifer started his rebellion they joined him, as he promised them that they would be able to explain to humanity the reason that things they loved had to die. </s> 
+wikipedia.org | <s> The Shining had terrified by marrying a recognisable young family to claustrophobia and an unflinching portrayal of a loved one becoming a monster. </s> 
+wikipedia.org | <s> I agreed because were trying to figure out what to do with the song because we loved it so much, and we didn't want to wait until the next album to send it to radio. </s> 
+wikipedia.org | <s> Its focus is on how fans came to love the show and played a part in the production of its feature film continuation Serenity. </s> 
+wikipedia.org | <s> Santer praised Conlin for her portrayal of Dotty saying, "I love that little girl because she's having to play all these layers. </s> 
+wikipedia.org | <s> At the bed-side there lies a stone: The bells of Paradise I heard them ring: Which the sweet Virgin Mary knelt upon: And I love my Lord Jesus above anything. </s> 
+wikipedia.org | <s> He describes four phases of mourning: the initial reaction of shock, numbness, denial and disbelief; followed by pining, yearning, depression then in a healthy environment resolution phase begins with emancipation from the loved one and readjustment to the new environment. </s> 
+wikipedia.org | <s> It went from that to Jim Goldberg, someone who uses all different cameras and makes collages with his photos ... David Hockney is someone who, as a photographer, someone who I have really loved and opened my eyes a lot. </s> 
+wikipedia.org | <s> During his years in Oxford, Blunden published extensively: several collections of poetry including Choice or Chance (1934) and Shells by a Stream (1944), prose works on Charles Lamb; Edward Gibbon; Leigh Hunt; Percy Bysshe Shelley (Shelley: A Life Story); John Taylor; and Thomas Hardy; and a book about a game he loved , Cricket Country (1944). </s> 
+wikipedia.org | <s> Electric Hands is a Japanese manga written and illustrated by Taishi Zaou, (a boys love and girls love pen-name for Mikiyo Tsuda). </s> 
+wikipedia.org | <s> He tells her that his mother's death set everything that has transpired into motion, the path of violence her death set him on began with the first woman he has ever loved sacrifice-he pulls out his mother's hairpin and hands it to her-he only sees that it is fitting that it should end at the hands of the other woman he loves and asks her to kill him. </s> 
+wikipedia.org | <s> He and I had loved together two years, an my lord my husband had not sent immediately word after my lady and my lord's first wife was dead, he made suit to my lord my father, or else I had been married before Christmas to my Lord of Westmorland'. </s> 
+wikipedia.org | <s> Examples of EMDs guiding family members through assisting a loved one with the process of childbirth prior to the arrival of the ambulance are also quite common. </s> 
+wikipedia.org | <s> Diana Bruk, writing for Country Living, agreed that, despite being "suffocating and over-involved" at times, Emily "ferociously loves her daughter", for whom she would do anything. </s> 
+wikipedia.org | <s> She has a brief flirtation with Frank Churchill; however, she realises at the end of the novel that she loves Mr. Knightley. </s> 
+wikipedia.org | <s> It can be traced from words like "corre", to love (from the root "cor" meaning heart) and "avoya", to travel (voyage). </s> 
+wikipedia.org | <s> Psichari initially feared that he would be bored in an area of the French colonies that was relatively pacified but soon grew to love the landscape and people of Mauritania. </s> 
+wikipedia.org | <s> But she rejects him in a speech, mirroring his earlier sermon, where she admits both: her love for him and the absolute loyalty that she nevertheless has for her husband. </s> 
+wikipedia.org | <s> At the same time, the single resembles contemporary Disney ballads such as Sarah McLachlan's "When She Loved Me" and Phil Collins' "You'll Be In My Heart" from the animated films Toy Story 2 and Tarzan, both of which were released in 1999, respectively. </s> 
+wikipedia.org | <s> However later on in the book he captures her and he tells her he loves her and she kisses him and he lets her go. </s> 
+wikipedia.org | <s> Michael loves history, so he started to build his dream home on a landscape which served as a setting for Civil War battles. </s> 
+wikipedia.org | <s> Above all else, I love the game and count myself very lucky to have been able to play at the highest level. </s> 
+wikipedia.org | <s> Jamie and FOK had a meeting and it was decided by both parties about three months previous that I didn't belong there, I just cant do the new direction that is happening, I used to love playing those songs but I just cant do it in the way its going, I cant. </s> 
+wikipedia.org | <s> Verdasco has also reached the quarterfinals twice at the US Open, in 2009 and 2010, losing to Novak Djokovic and Rafael Nadal respectively, the latter of whom went on to win the title, and once at the 2013 Wimbledon Championships, where he led eventual champion Andy Murray by two sets to love before being defeated in five sets. </s> 
+wikipedia.org | <s> Grayvee makes a comment stating that she loves eating pigsfeet (with greens and cornbread) and Flav says he hates them and if he would've known she liked them, he would have named her that. </s> 
+wikipedia.org | <s> Fosaj board member Regine Boucard said of McGarrell that, "Everybody loved him – the artists, the students, the community. </s> 
+wikipedia.org | <s> He then takes out a gun and tells Gordon which one of them loves the most so he can kill her to get revenge for Alice's death. </s> 
+wikipedia.org | <s> As she leaves, she sees Fritz running up to her; he loves her so much that he's unable to leave her. </s> 
+wikipedia.org | <s> Then he tells her he knows that what she had wanted Yoon-seo to say all along was not the name of the illustrator, but that he loved her. </s> 
+wikipedia.org | <s> An early 20th-century example of forced seduction is the 1919 novel The Sheik by Edith Maude Hull, in which a Western woman is held captive by an Algerian sheik and raped repeatedly, realizing after months of being raped that she loves him; The Sheik is regarded as an "ur-romance". </s> 
+wikipedia.org | <s> She also collaborated with other worship artists, most notably featuring on Francesca Battistelli's single "Defender", as well as Travis Greene's "Good & Loved ". </s> 
+wikipedia.org | <s> The last repetition of the chorus notably changes the lyric "Those four walls now are home" to "Those three words now are home", alluding to a shorthand for "I love you". </s> 
+wikipedia.org | <s> He loved to call it the "best workshop in the convent" and its catalogue - of which Luke Wadding mentioned - contains works of the Church Fathers as well as mathematicians and preachers. </s> 
+wikipedia.org | <s> Cvitanovich loved sport - especially the Dallas Cowboys - and his very first documentary was a study of a baseball player in decline. </s> 
+wikipedia.org | <s> The Francophile Landes who had been born in Britain, but grew up in France was profoundly hurt by this request, and sadly left the nation he loved so much. </s> 
+wikipedia.org | <s> He is back in Cairo, the Bien-Gardé, the head of the French army, general Bonaparte, who loves Mahomet's religion; he is back sound and well, thanking God for the favours he has given him. </s> 
+wikipedia.org | <s> According to Strong's Greek Lexicon, the word ἀγάπη (Transliteration: agapē) means love, i.e. affection or benevolence; specially (plural) a love-feast:–(feast of) charity(-ably), dear, love . </s> 
+wikipedia.org | <s> Saul Bellow, also in The New York Times, chose it for his 1952 Book of the Year selection, (calling it) the book "I love ". </s> 
+wikipedia.org | <s> The decision makers loved the idea and meetings at the Brown Derby restaurant to discuss who in the industry would be deserving of the stars. </s> 
+wikipedia.org | <s> He refers to the famous phrase "Make love not war" wishing he had thought of that so he could retire and go to the beach. </s> 
+wikipedia.org | <s> In 1974 Harrison said of his former bandmate: "John Lennon is a saint and he's heavy-duty, and he's great and I love him. </s> 
+wikipedia.org | <s> On medical advice he left London and took a house at 6 High Wickham, Hastings, Sussex, where he lived for the rest of his life, and he grew to love the town, writing Old Humphrey at Hastings during his time there. </s> 
+wikipedia.org | <s> Heyer was shocked at the impropriety but soon came to love her daughter-in-law, later describing her as "the daughter we never had and thought we didn't want". </s> 
+wikipedia.org | <s> Phil appears to love Georgina and knows all about her past and of her agenda against everyone she knows on the Upper East Side and he assists her in times of need despite the fact that she often treats him badly and ignores their baby, Milo, leaving Phil as the parental caregiver at home while she goes out to work her ways. </s> 
+wikipedia.org | <s> When Susan says that she is having a hard time believing this, her father begins to cry and she realizes how much he loves her. </s> 
+wikipedia.org | <s> James Cameron loved the band's 1991 track "Nightingale Song" but found Columbia Records' licensing fee too high (it wanted over $5,000 for the use of the one minute he wanted to use) so he contacted the band's management hoping they could re-record it for his film, only to find they had broken up in 1998 and could not. </s> 
+wikipedia.org | <s> The music almost gives you this feeling of flight, and I really love singing the part at the end, which is all about rising above anybody's comments about what you do and still giving your love away. </s> 
+wikipedia.org | <s> He loved obsurity. </s> 
+wikipedia.org | <s> At the end of "Go God Go", Cartman is sent to the future; Parker and Stone loved the idea, in-part because it presented the opportunity for easy-to-write material. </s> 
+wikipedia.org | <s> Pratchett had had many of the same issues with Hollywood 'suits', but he, too, would love to have seen the film made. </s> 
+wikipedia.org | <s> However, he is caught up in the shogun's policy of religious persecution and must choose between his loved ones and his God. </s> 
+wikipedia.org | <s> Others did not want to see their loved ones buried at Woodlawn Cemetery (which was denigrated as "unenclosed forest and a truck garden"), and preferred to receive money from the sale of Graceland now and make the choice of burial location themselves. </s> 
+wikipedia.org | <s> The mono editions of the album feature fold-down mono mixes, with only "She Loves You" and "I'll Get You" appearing in true mono, due to the unavailability of stereo mixes at the time of the compilation. </s> 
+wikipedia.org | <s> The heart of the matter is an education about the interplay of all life, the sustainable use of natural resources and the respect for and love to all creation. </s> 
+wikipedia.org | <s> Giacomo Casanova describes him as the man "whose vice was that he loved boys, and his virtue that he had strangled Peter III". </s> 
+wikipedia.org | <s> In order to counter the influence of Pope John X (whom the hostile chronicler Liutprand of Cremona alleges was one of Marozia's lovers), Marozia subsequently married his opponent Guy of Tuscany, who loved his beautiful wife as much as he loved power. </s> 
+wikipedia.org | <s> Oh Papua, my land Where I was born and raised Thee I shall always love Till' my day of eternal rest comes I love the whiteness of your sands On your beaches, joyful Where the azure seas Sparkle bright in the day Your high peaks I adore Majestic and grand Sublime clouds, surrounding Around the tops, they do I love this land of mine Naturally abounding with bounty That shall pay me off and my labour in full Thy roaring waves, I am smitten with Ever crashing against your white, sandy beaches A melody that shall eternally In my heart remain I love the sprawling forests That this land is built upon 'Tis rapture to traipse Under its benevolent shade Thank you, oh Lord on high This land of mine, Thine creation Task me to labour ceaselessly too To spread Thy cause, far and wide. </s> 
+wikipedia.org | <s> Rabbi Douek contacted President Nasser, the Red Cross, members of the Egyptian Ministry of the Interior, and other organizations to put pressure on the Egyptian government to make it easier for families to be in touch with their loved ones in detention. </s> 
+wikipedia.org | <s> In both her treatment of Mannheim and Rilke, Arendt found love to be a transcendent principle "Because there is no true transcendence in this ordered world, one also cannot exceed the world, but only succeed to higher ranks". </s> 
+wikipedia.org | <s> Mina loves Chitose like a real brother, but also harbors a bit of a deep crush for him and helps Chitose whenever she can. </s> 
+wikipedia.org | <s> Del Toro approached the love story with a reverse Beauty and the Beast approach, stating, "I wanted the beauty to turn into a beast in the end to fully assume her mortal gifts... and when she accepts herself for what she is, a monster, then she can love the monster ." The idea of Hellboy spying on Liz and Myers was originally written for a separate script titled ''Meat Market, A Love Story''. </s> 
+wikipedia.org | <s> As an officer, though distitute of the brilliancy so coveted in that character, he was highly respected by his fellow officers, and loved by the soldiers, every one of whom approached him with a certainty of being justly and kindly treated. </s> 
+wikipedia.org | <s> I love auriferous words, and nothing delights me more than to pluck gems from the dictionary that otherwise might never see the light of day. </s> 
+wikipedia.org | <s> The abuse and psychological trauma Jane receives from the Reeds as a child cause her to develop two central goals for her to complete her heroine journey: a need to love and to be loved, and her need for liberty. </s> 
+wikipedia.org | <s> It was believed that it was the instrument which the Eastern Jin (東晉) musician Ruan Xian (阮咸) loved to play. </s> 
+wikipedia.org | <s> His body was buried at Holmead's, but relatives of those already buried there decided it was an affront to their loved ones. </s> 
+wikipedia.org | <s> But when he tries to buy her an engagement ring, he suffers a panic attack as he remembers his mother's dying wish from ten years earlier–that he never marry, because no woman could love him as she did ("Never Get Married"). </s> 
+wikipedia.org | <s> In 1960 he moved from Conversano, a town he so loved , to Casamassima, also in the province of Bari, where he lived in conditions of almost complete destitution with his second wife Maria Lucarelli. </s> 
+wikipedia.org | <s> The name Hylophilus is composed of the Greek words for "forest" or "woodland" (hulē) and "-loving" (philos, from phileō, meaning "to love "). </s> 
+wikipedia.org | <s> According to the BBC4 documentary "How to Make It in the Music Business", Ross loved the record until she put it in front of Frankie Crocker, who pointed out that 'I'm Coming Out' is what homosexuals use to announce their homosexuality; she ran back to the studio in tears and demanded to know why Rodgers wanted to ruin her career. </s> 
+wikipedia.org | <s> In the chorus, the singer reminds her partner that even if her partner is in a new relationship, that the singer will always be the only one who really loves them with passion. </s> 
+wikipedia.org | <s> And yet I love to wander The early ways I went, And watch from doors and bridges The hills and skies of Gwent. </s> 
+wikipedia.org | <s> Conversely, Phil Freeman of Allmusic said that while "those who love the band's earliest records...are bound to see Illud Divinum Insanus' experiments with industrial...as betrayals of everything the group once stood for", "many of the songs on Illud...are as raw and savage as anything the band's ever recorded", and that the album is "a left turn by a band that's already made many of them throughout its...career". </s> 
+wikipedia.org | <s> Then you can love anybody or anything else – your career, your kids, your life, It's like someone emancipating themselves. </s> 
+wikipedia.org | <s> The canvas who was previously Melissa Monroe's canvas in the seventh episode of Season 4 loved her tattoo but the jury hated it and they couldn't stand her arrogance, leading to Duffy being voted worst tattoo of the day despite receiving praise from the judges. </s> 
+wikipedia.org | <s> First the student loved the Dai, and from the Dai he learned to love the Imām, who was but an interceder on behalf of God. </s> 
+wikipedia.org | <s> J.P. had a rascally sense of humor, though; another story he loved to tell was of the Romany Gypsy family that lived in the flat above the Pickens in San Francisco in early 1963. </s> 
+wikipedia.org | <s> He also said "Energy is getting so expensive it becoming prohibitive to do manufacturing in New York" David Sussman added, "I love that we can get our energy from a renewable resource instead of destroying the environment. </s> 
+wikipedia.org | <s> As a result, J. T. quits the job he loves at a children's TV show to pick up more hours at the pharmacy. </s> 
+wikipedia.org | <s> Her daughter Roshni Patel (Nia Sharma) believes that her mother does not love her and does not give her time and only loves money. </s> 
+wikipedia.org | <s> When Jason returns home that night, he finds Sarah Newlin waiting for him outside, where she confesses that she has loved him ever since they met at the Fellowship of the Sun. </s> 
+wikipedia.org | <s> Friedl was impressed by Lindsey's demos and signed him to his label, later commenting, "I loved the racket so we did the record, and I've been a fan of everything he's done since. </s> 
+wikipedia.org | <s> Jayne Mansfield: Loves and Kisses: Featured as an interview in the A&E documentary hosted by Peter Graves aired in 2006. </s> 
+wikipedia.org | <s> But despite her extraordinary lucidity (II 1; V 1) in analysing her violently fluctuating states of mind, she is blind to the fact that the King does not really love her (III 3), and this weakness on her part, which leads directly to the tragic peripeteia of III 7, is the hamartia from which the tragic outcome arises. </s> 
+wikipedia.org | <s> Jesus is the Risen One, and whoever invokes the name of Jesus is welcoming the Son of God who loved him and who gave himself up for him. </s> 
+wikipedia.org | <s> She loved comedy. </s> 
+wikipedia.org | <s> The narrative begins before the Feast of the Passover, when Jesus knew that His hour (Greek: η ωρα) had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end. </s> 
+wikipedia.org | <s> First, he was known to love the rosary, which he began to pray as a child in Spain while he shepherded his uncle's flock of sheep. </s> 
+wikipedia.org | <s> Rambo, however, visibly angry and fighting back tears, says that the soldiers he rescued deserve the Medal of Honor more than he does, and he only wants the same thing as the soldiers he rescued: for their country to love its soldiers as much as its soldiers love their country. </s> 
+wikipedia.org | <s> In Mark and Luke, Jesus himself sees the heavens open and hears a voice address him personally, saying, "You are my dearly loved son; you bring me great joy". </s> 
+wikipedia.org | <s> In its 2018 Q3 earning report, Netflix noted that To All The Boys I've Loved Before was one of its most-viewed original films ever. </s> 
+wikipedia.org | <s> Hagen feels that Angelou's best love poem in Diiie is "The Mothering Blackness", which uses repetition and biblical allusions to state that the Black mother loves and forgives her children unconditionally. </s> 
+wikipedia.org | <s> They end up together and will end up loving each other (without either of them knowing at first in the beginning of the anime). </s> 
+wikipedia.org | <s> Meanwhile, Chandrika has fallen love with Vasanthakumar, creating a love triangle between the trio: Chandrika loves Vasanthakumar, Vasanthakumar loves Megala, and Megala loves "Kalaimani", not knowing it is Chandrika. </s> 
+wikipedia.org | <s> By his singular color gamma he created figure compositions and landscapes full of deep and diverse feelings: expectations, doubt, uneasiness, love ...originated by the nowadays world anxieties. </s> 
+wikipedia.org | <s> Gifford intends to make movies about the experiences of losing a loved one and being a widow, which she considers an underrepresented topic in Hollywood. </s> 
+wikipedia.org | <s> The list is determined based on a survey of all practicing physicians in the state of New Hampshire, asking them which doctor they would chose to provide medical care to a friend or a loved one. </s> 
+wikipedia.org | <s> Although not a big hit on the charts and later revealed as a regret as a single choice by Cole, fans loved the single and viewed it as a great comeback along with credits. </s> 
+wikipedia.org | <s> Prior to joining SNL Korea, he wrote and directed a Korean play called Want Night (달콤한 원나잇), which was later re-branded as Insolent Romance (발칙한 로맨스), a globally-successful Korean movie director Daniel Bong-phil Goo, who meets his first-ever loved female friend called Ma Soo-ji, who had married after he left to Hollywood of Los Angeles over a decade ago, which is not usually happened in Korean society but included Kim Min-kyo's own possible and imaginary situations. </s> 
+wikipedia.org | <s> Kraft's sudden death gave rise to a legend, to the effect that he was a very avaricious man who loved his treasure, which he loved to count. </s> 
+wikipedia.org | <s> Composer Tamara Friebel's "I love you" is a mini loudspeaker and video installation which stages the dance of the brolga (Australian cranes). </s> 
+wikipedia.org | <s> Dorelei, sensing that he loves another, says she is willing to share him, as she knows D'Angelines do, but that she herself will be only with him, as is Alban custom. </s> 
+wikipedia.org | <s> She refuses, saying she is a grown woman now over the age of majority, and that she will love who she loves freely. </s> 
+wikipedia.org | <s> In a moment of weakness, Yamelí steals a kiss from Juanjo and confesses that he loves him, but makes it clear that they cannot be together. </s> 
+wikipedia.org | <s> Stuck in a marriage with a sensible man whom she does not love , whom Lady Susan derisively describes as "just old enough to be formal, ungovernable and to have the gout – too old to be agreeable, and too young to die", she delights in hearing of and making suggestions for Lady Susan's manipulative plans. </s> 
+wikipedia.org | <s> We know that Dorrie stayed behind to help Larry clean up, that Charlotte has taken a liking to one of Larry's guests, and that Beth was aware that Larry still loved Dorrie. </s> 
+wikipedia.org | <s> Lee next starred in Hellcats, a 2008 romantic comedy that traces the lives and loves of three characters at different stages of womanhood. </s> 
+wikipedia.org | <s> Her tenderness towards Blanche weakens once only: after her eldest daughters' "death", she reproaches Blanche, ill and asleep, of having rob from them the love they that was due to them. </s> 
+wikipedia.org | <s> But when he says that he loves her no matter what her personality is, she, confused and angry, beats him up, telling him she erased the old her for him before crying into his arms which Junichi expresses how glad he is to know the Tsukasa he loves still exists. </s> 
+wikipedia.org | <s> Meanwhile, Charlie asks his therapy group members to support Nolan in giving up weed by giving up something they love for 24 hours. </s> 
+wikipedia.org | <s> Hange developed an obsessive interest in Titans, and gets uncomfortably intimate with them but that's because they love doing their job. </s> 
+wikipedia.org | <s> In her last moments, feeling that the Kouga were doomed to defeat and desiring to go to death with the one that she loves , Kagerou attempts to kill Gennosuke but is stopped by Oboro using her eye technique. </s> 
+wikipedia.org | <s> In both the manga and anime adaptations, Tomoyo admits that she loves Sakura, but Sakura replies innocently, "I love you, too," in the platonic sense. </s> 
+wikipedia.org | <s> Marie gets upset; however, they give love a second chance, but Frank has a casual encounter with another woman that sends Marie into a rage once again, and the hope for reconciliation was dissolved. </s> 
+wikipedia.org | <s> Eventually, both the Shiro and the Wretched Egg personas fuse into her true self once the Mother Goose system's lullaby no longer represses her, and when she is finally alone with Ganta, she reveals the reason why she killed his classmates and implanted on him his Branch of Sin: because she wants to be killed by the only one she truly loved : Ganta. </s> 
+wikipedia.org | <s> Everyone loves him, except Carmel's brother, Darren (Gary McDonald), who objects to his sister dating him because he is white. </s> 
+wikipedia.org | <s> We consulted with the programme's production team in writing our response and we'd like to assure you our intention is not to portray social workers in a negative light. • Whilst the audience has seen how much Lola loves Lexi and how responsible she can be with her baby, we were careful to ensure that when the social worker was visiting, she generally saw only more worrying behaviour. </s> 
+wikipedia.org | <s> A look at the world of boxing; the fighters, promoters, and fans who love it; and the critics who want to ban it. </s> 
+wikipedia.org | <s> Even though she loves Takuto, she is willing to give him up because from her point of view, it seems that Milfeulle and Takuto like each other; Ranpha even jokes to Milfeulle that she will take away Takuto if Milfeulle doesn't confess to him soon. </s> 
+wikipedia.org | <s> When Toni goes into hiding, Todd seeks the assistance of her friends, who convince him that Toni loves him and help him confront his own feelings for her. </s> 
+wikipedia.org | <s> Terri begins attending therapy, but Will tells her he no longer loves her and leaves her as he falls in love with guidance counselor Emma Pillsbury. </s> 
+wikipedia.org | <s> One day, however, she overhears her friends making fun of a picture book she loved and had given to one of them. </s> 
+wikipedia.org | <s> However, she appears to truly love her husband and kills him to spare him the disgrace of exposure, resignation, trial, life imprisonment, and eternal historical damnation. </s> 
+wikipedia.org | <s> When Konata asks why Kanata chose to be with Sōjirō (largely as a joke at his erotic personality's expense), Sōjirō points out that he and his wife simply looked past outwards appearances: Kanata loved Sōjirō despite his otaku tendencies, and Sōjirō obviously did not mind that Kanata had an unusual physique and did not share his hobbies. </s> 
+wikipedia.org | <s> She is touched by Sōjirō's kind words that he was the only one who truly loved her as much as he did (she later realized that she too, loved him deeply), and even took a picture with him and Konata together. </s> 
+wikipedia.org | <s> Ginta is waiting for Miki when she gets home, where he explains what really happened back in middle school, then tells her he has always loved her. </s> 
+wikipedia.org | <s> She loves her mother being the only one who can fulfill her promises even though of her mother's commitments and busy life in work. </s> 
+wikipedia.org | <s> They love to look beautiful and love excess; they adore human fashion, from which they rob and collect objects and jewelry of all sorts. </s> 
+wikipedia.org | <s> And whether it's gathering with friends and loved ones, giving yuletide alms, creating new flavors of shine or forging new traditions, these shiners are embracing the holiday spirit. </s> 
+wikipedia.org | <s> She loves to race across the sky, moving gracefully from cloud to cloud, she dances on her graceful hooves and sails on the wind. </s> 
+wikipedia.org | <s> And so, he struck a bargain with Mokuren when she came by to give him his lunch one day: I love you, give up your Kiches powers (virginity) and I will reconcile with Gyokuran, no matter what it takes. </s> 
+wikipedia.org | <s> A resulting fire leads to the two to run away from the giant mole in a mine cart, after which Cassandra discovers the mirror, which appears to show Gothel loving four-year-old Cassandra, giving Cass her music box and the two hugging. </s> 
+wikipedia.org | <s> It gets personal when the Doyles band together to protect someone they love from the cops and from a killer; Tinny gets in a little further with her new hobby and her new friends. </s> 
+wikipedia.org | <s> Russell Stover Black History Heart-Shaped Box – Valentine's Day coincides with Black History Month, making February the perfect time for white men to show their black girlfriends that they both love them and honor their culture through this set of candies molded in the visages of noted black figures (and Bill Clinton). </s> 
+wikipedia.org | <s> A guilty Frank later finds Stella and Ben at a local park, he tries to apologize for his harsh behavior and after a series of events, he confirms that he does love her, much to her joy. </s> 
+wikipedia.org | <s> In series 9, him and Kelly hit a rough patch when she loses the baby, she leaves him, but returns on discovering he truly loves her. </s> 
+wikipedia.org | <s> Both Prince and Dawn regret it and things become awkward between them with Prince insisting that he loved Angel with all his heart and Dawn wanting to talk about it. </s> 
+wikipedia.org | <s> Nuno is a Portuguese child who loves making model boats, but to prevent his little brother Lagos from breaking his latest project, he orders an extremely durable display bottle that he builds a ship inside with Jett and Bucky. </s> 
+wikipedia.org | <s> Nic treats Justine, a patient who developed a brain infection from a damaged tooth; Justine is revealed to be Cain's ex-girlfriend from college and reveals surprising details about his past to Nic and the two are shown to clearly still love each other. </s> 
+wikipedia.org | <s> Brad tells Aaron he loves him before putting him to bed, writes Kathy a note explaining why he is leaving her, then sneaks out while she and her mother finish the dishes. </s> 
+wikipedia.org | <s> In 2000 The Sydney Morning Herald included her on a list of the 'century's most loved faces', and she was included in a 1998 issue of Australian stamps featuring pop and rock acts. </s> 
+wikipedia.org | <s> Love it! </s> 
+wikipedia.org | <s> Instead of frequently saying "I love you" as in some Western societies, the Chinese are more likely to express feelings of affection in a more casual way. </s> 
+wikipedia.org | <s> As for love between marital partners, this is deemed an essential ingredient to life: "See life with the wife you love " (Ecclesiastes 9:9). </s> 
+wikipedia.org | <s> The Apostle John wrote, "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. </s> 
+wikipedia.org | <s> The song is about a relationship that ends quickly for the narrator, in which he realizes of the situation that he has " love her too late". </s> 
+wikipedia.org | <s> He created the band wanting to propose a style of modern metal combined with the genres he loved the most: pop, electronic and symphonic music. </s> 
+wikipedia.org | <s> When he tells Peyton that the bartender she is flirting with at the Clothes Over Bros store opening is not good enough for her, it becomes obvious that, despite his relationship with Lindsey, he still loves Peyton. </s> 
+wikipedia.org | <s> In the original script, the two male leads were killed by government agents and the final scene happened ten years later with Liza Minnelli's character married to a boring businessman remembering the men she once loved . </s> 
+wikipedia.org | <s> In 2016, more than four years after her death, Silas told Lindsey Roscoe (Sophie Austin) that she loved her name, as he knew Lynsey before. </s> 
+wikipedia.org | <s> It was the first show I had roadied for three years and I was really loving every minute of plugging the amps in and setting them up on stage, making sure that everything was right. </s> 
+wikipedia.org | <s> The telling of this company shows that the idea of Manifest Destiny was not unanimously loved by all Americans and did not always benefit Americans. </s> 
+wikipedia.org | <s> After a miscarriage in mid-1753 which almost killed her (as a result this merely brought Louis XV closer to her because he loved the idea that she had almost died "in service" as a proof of her affection for him), Marie-Louise O'Murphy gave birth to Louis XV's illegitimate daughter, Agathe-Louise de Saint-Antoine de Saint-André, born in Paris on 20 June 1754 and baptized that same day at Saint-Paul as a child of "Louis de Saint-André, Old official of infantry and Louise-Marie de Berhini, resident of Saint-Antoine street", both non-existent persons; the King (who did not want to recognize the offspring born from petites maîtresses and brief affairs) ordered that the newborn must be immediately placed in care of a wet nurse. </s> 
+wikipedia.org | <s> It was her longing to be loved by her people, by all classes of her people, and she became truly lovable in this quest. </s> 
+wikipedia.org | <s> In this specific context, however, the term 'rape' could also refer to elopement: a woman would give her consent to being abducted by the man she loved , and thus avoid asking permission from her parents to marry him. </s> 
+wikipedia.org | <s> On the album White Heat, the Tuxedo Dance Orchestra featuring Litton 'complete with Debussy-inspired introduction and the seldom heard verse... the last track a perfect example of all the qualities that had gone into making this CD such a pleasure to listen to: top quality songs, fresh, imaginative arrangements, and virtuoso musicianship, engaging vocals and above all the feeling that you are listening to a group of musicians who believe in and love the music they are presenting. </s> 
+wikipedia.org | <s> One of the most loved Orthodox Akathists (i.e. standing hymns) is devoted to Mary and it is often simply called the Akathist Hymn. </s> 
+wikipedia.org | <s> This is no surprise given that her father, Dr. Charles Ware (Harvard class of 1834), while not a botanist himself raised his daughter to love botany with a passion. </s> 
+wikipedia.org | <s> Santoro retired with the title of #1 "most loved " Periscoper in the world with over 177 million hearts on the live streaming app Periscope on November 11, 2015. </s> 
+wikipedia.org | <s> Mautner Project also provides direct services to clients such as transportation to doctors appointments, and facilitates support groups for WPW facing illness, the death of a loved one, or caregiving. </s> 
+wikipedia.org | <s> Something Afar (US title The Desire of the Moth - "a Romance of the Italian Lakes"): a retired middle-aged bank clerk finds a message that leads him to Italy to seek the truth behind his betrayal decades earlier by the young countess he loved . </s> 
+wikipedia.org | <s> She loves Richard "Dick" Wayne, the son of her father's foreman, but her father wishes her to marry her cousin, a drunken libertine. </s> 
+wikipedia.org | <s> Having studied English at university and penned two novels and a variety of scripts and screenplays, Syal was chosen as one of the guests on "The Cultural Exchange" slot of Front Row on 30 April 2013, when she nominated To Kill a Mockingbird by Harper Lee as a piece of art work which she loved . </s> 
+wikipedia.org | <s> Upon learning that Greg's real name is Gaylord (when his suitcase finally arrives), and being presented with proof from Pam that he did in fact pass the test, being told off by Dina over his consistent picking apart of any man Pam brings home (and that he didn't even like Pam's previous fiancé, Kevin, until after they broke up), and hearing Pam make a heartfelt call to Greg, Jack realizes that Pam truly loves Greg. </s> 
+wikipedia.org | <s> Wolbodo has three subsocieties; Carrus Plicatus, for those who love folding campers, Ornatus Caput, for those who love silly hats and Wolga, the rowing subsociety which has its own subsociety Olga, for women. </s> 
+wikipedia.org | <s> But believing that he is the father of Ritika's child and happy in his life, Ishaani lies to him that she never loved him back and would rather die than reuniting with him. </s> 
+wikipedia.org | <s> Metzger's best loved food is bean soup and chili, both with a side of oyster crackers, hamburgers, and fried bologna in eggs. </s> 
+wikipedia.org | <s> Hatters sell their products throughout the Languedoc and Provence (Camargue cowboys love this type of hat, and the great Provençal poet Frédéric Mistral always wore one). </s> 
+wikipedia.org | <s> Singer Mahathi posted an appreciation note on actors of this movie Kamal Haasan and actress Urvashi after watching it, "I have always loved the 'Crazy' Mohan and Kamal Hassan combination. </s> 
+wikipedia.org | <s> Lennon was inspired by a song he heard the previous evening, Nina Simone's version of "I Put a Spell on You", which used the same phrase but with the emphasis on the last word, "I love you". </s> 
+wikipedia.org | <s> John and Alan Lomax, in their book, Best Loved American Folk Songs, told a credible story identifying the Midnight Special as a train from Houston shining its light into a cell in the Sugar Land Prison. </s> 
+wikipedia.org | <s> It was Avram Shechtman, Mikhail's grandfather who deeply loved classical music and, possessing a tenor voice and often singing to young Misha at home as well as playing LP recordings, inspired him to study music. </s> 
+wikipedia.org | <s> While she initially married Jock to save Southfork and for Jock's dependability, she grew to love him and they remained married for well over forty years until his death in a helicopter crash in 1982. </s> 
+wikipedia.org | <s> However, he rejects her on account of Shouta's feelings, as well as the fact that her feelings toward Shouta are so very strong and her "dependence" on him so strong that there would be "no meaning" to her loving him. </s> 
+wikipedia.org | <s> Sometimes a verse from the Bible or a short poem is included, generally on a theme relating to love , death, grief, or heaven. </s> 
+wikipedia.org | <s> Similarly, Danny Schwartz of Rolling Stone praised Pop Smoke's versatility, stating, "It is endearing to hear him lower his guard, soften his rasp, trade his boundless swagger for tenderness, and offer the mushy overtures of a kid who loves cuddling nearly as much as sex. </s> 
+wikipedia.org | <s> Louis Veuillot, the ultramontane editor of the L'Univers newspaper and one of the Pope's staunchest defenders, reported after meeting Edgardo in Rome that the boy had told him "that he loves his father and his mother, and that he will go to live with them when he is older ... so that he can speak to them of Saint Peter, of God, and of the most Holy Mary". </s> 
+wikipedia.org | <s> The members and supporters of Mothers began coming together as a community around 1980-1981; survivors of executions would gather around graves of their loved ones, often executed in secrecy and buried in Khavaran Cemetery. </s> 
+wikipedia.org | <s> Long-time caretaker John Stevens, who began in 1926, stayed on when the church bought the property until his retirement in the 1993 and continued to love and maintain the grounds; both Stevens and a minister at the time, Rev. David E. Bumbaugh, spoke out in defense of an old tree just off the property in 1978. </s> 
+wikipedia.org | <s> When captured by Hook, every child in the brig loves Smee – he cannot lay a fist on them and does their darning – despite his belief that they fear him. </s> 
+wikipedia.org | <s> Shawn receives a phone call from Yin, who tells him that he must choose who he loves more (Juliet or Abigail), and that there is no way to save them both. </s> 
+wikipedia.org | <s> But because the music is loved by cultural loyalists in the buganda region, it is certain that there will always be an audience for kadongo kamu. </s> 
+wikipedia.org | <s> The series has received support from many online fans; a typical YouTube comment read "I feel a lot of sympathy, and admiration, towards the friendship and love they show for each other. </s> 
+wikipedia.org | <s> Given how well it started and how swiftly it palls thereafter, you'll just wish you could love Bunton's Happy Place more". </s> 
+wikipedia.org | <s> After the concert, they do not go back to the castle, but instead have sexual intercourse in the Forbidden Forest, but are witnessed by Hogwarts' principal Albus Dumbledore (often referred to as "Albert Dumblydore"), who yells at them and derides them as "motherfukers" . Later, after learning that Draco used to date Harry "Vampire" Potter (a nickname he gained because he " love the taste of human blood"), Ebony becomes so angry that she runs crying into the Forbidden Forest, where she meets Lord Voldemort. </s> 
+wikipedia.org | <s> Dannii talks about loving you the way you are, focusing on ways to accentuate the positive, and covers everything from great hair and glowing skin to make-up and embracing a healthy exercise regime. </s> 
+wikipedia.org | <s> To Nancy, it seems that everything her mum is saying is true - that Darren doesn't love her and he has been having an affair". </s> 
+wikipedia.org | <s> Meanwhile, Gunnar and Scarlett try to record together, but end up kissing each other, only for Scarlett to leave, saying she loves Caleb, and she records her part of their music by herself. </s> 
+wikipedia.org | <s> The Legion's women section called Agrupación Femenina de la LCA promoted women to love the armed forces and respect for order, authority, and hierarchy in the home and school. </s> 
+wikipedia.org | <s> She corrects him by saying he's got the wrong woman; Rick loves Andrea, and she was in love with Abraham, the man Dwight killed. </s> 
+wikipedia.org | <s> I loved Danny. </s> 
+wikipedia.org | <s> Zdrenka has said that she has always loved to sing, and as a child, when her father took her on holiday back to Japan, he would make her sing to her family. </s> 
+wikipedia.org | <s> On the other hand, his father (Vinu Chakravarthy) arranges his marriage to a village girl named Savithri (Devayani), which Gokul (often referred to as "Mapillai") objects to, but Savithri loves him. </s> 
+wikipedia.org | <s> The song's lyrics describes how a woman is angered how her lover has cheated on her and she angrily says back to him, "nobody but a fool would love you". </s> 
+wikipedia.org | <s> In the Arctic Circle, Nora reunites with Victor to confirm he wasn't behind the attack and confesses that she never truly loved Francis as she embraces him. </s> 
+wikipedia.org | <s> Oh, what songs of the heart We shall sing all the day, When again we assemble at home, When we meet ne'er to part With the blest o'er the way, There no more from our loved ones to roam! </s> 
+wikipedia.org | <s> Beckett may have had his own wife in mind when he wrote the play but he goes to some pains never to specify the name or gender of the loved one. </s> 
+wikipedia.org | <s> For his portrayal of Omar, Michael K. Williams was named by USA Today as one of ten reasons they still love television. </s> 
+wikipedia.org | <s> Girl tells Guy, in Czech, that she loves him – but when he asks her to translate, she replies, "It looks like rain". </s> 
+wikipedia.org | <s> Ruby is taken away from her friends and family, all of which she loves , and is forced to cope in the fake and artificial world of Hollywood. </s> 
+wikipedia.org | <s> There was one bit where I wrote the start and end of a scene in an imaginary movie, and they loved that. </s> 
+wikipedia.org | <s> She was engaged to Henry Cromwell, son of Oliver Cromwell, and also pressured to marry her cousin Thomas Osborne, 1st Duke of Leeds, but eventually married Sir William Temple, 1st Baronet, whom she truly loved . </s> 
+wikipedia.org | <s> One night, when Osman was resting at Edebali's house (for the shelter of hospitality could never be denied even to the suitor whose addresses were rejected), the young prince, after long and melancholy musing on her whom he loved , composed his soul in that patient resignation to sorrow, which, according to the Arabs is the key to all happiness. </s> 
+wikipedia.org | <s> Set in the Protestant upper-middle-class world of Normandy in the 1880s and reflecting Gide's own relationship with his cousin Madeleine, Jerome loves his cousin Alissa, but fails to find happiness. </s> 
+wikipedia.org | <s> Since his clientele loved the paper boxes for takeaway pies that were already introduced by Henrik Kugler, Gerbeaud continued with this tradition and started to design these himself. </s> 
+wikipedia.org | <s> Even if the country accepts the current of change in addition to the rapid influence of western culture, but to this day it is still loved and appreciated by art lovers. </s> 
+wikipedia.org | <s> The prescribed readings for the feast day were from the Acts of the Apostles, the sermon of Peter for Cornelius (Acts 10:42–48), and from the Gospel of John, "God so loved the world" from the meeting of Jesus and Nicodemus (John 3:16–21). </s> 
+wikipedia.org | <s> Soon, he must choose between one woman's feelings for him, and doing whatever it takes to regain the only thing he has ever loved - being a NYPD homicide detective. </s> 
+wikipedia.org | <s> Artists perform art forms including the Indian lute and the much loved sitar, with vocalists and yogic dance and drama with rhythms of dancing bells and foot beats. </s> 
+wikipedia.org | <s> The first man that Avellaneda had a loved was Ignacio de Cepeda, who was the focus of many of her writings, mainly love letters. </s> 
+wikipedia.org | <s> No man knows Okinawa more deeply than Iha, No man loves Okinawa more deeply than Iha, No man worries about Okinawa more deeply than Iha, He loves Okinawa because he knows Okinawa, He worries about Okinawa because he loves Okinawa, He was a scholar, an Okinawa-lover and at the same time, a prophet. </s> 
+wikipedia.org | <s> Srem, Banat and Bačka are connected there, three heroic hearts embrace each other there, there even a child loves the farm where it was born, there a heart fights against steel. </s> 
+wikipedia.org | <s> Despite its suggestive title, "Nasty Sex" asks women not to have casual sex with irresponsible men but rather with men they love , something La Onda's icon Parménides Garcia criticized severely in his articles, referring to them as "snobbish" ("fresas"). </s> 
+wikipedia.org | <s> Point b3 is also backed up by the fact that many Latin Americans distinguish between le quiero "I love him" and lo quiero "I want him" (or indeed "I want it"). </s> 
+wikipedia.org | <s> I love her gray tones even though she pretends to be very by the book black and white; I love how just, you know, the complex gray tones in her character. </s> 
+wikipedia.org | <s> During their captivity, Jim tells June he has the money to repay his debt to her, and that he still loves her. </s> 
+wikipedia.org | <s> Paisas are said to speak softly and quickly, to smile easily, and to love music, poetry, soccer, bargaining in the markets, and parties. </s> 
+wikipedia.org | <s> But I grew to love it ... it was not scary or horrifying, it would've been, in those days, deemed bad taste. </s> 
+wikipedia.org | <s> His arrangements of traditional hymns continue to be popular in the Christian community, with favourities including his arrangements of 'Londonderry Air' and 'Blaenwern' ('Love Divine All Loves Excelling'). </s> 
+wikipedia.org | <s> My Father will love them, and we will come to them and make our home with them. 24 Anyone who does not love me will not obey my teaching. </s> 
+wikipedia.org | <s> Signac loved sailing and began to travel in 1892, sailing a small boat to almost all the ports of France, to the Netherlands, and on the Mediterranean Sea as far as Constantinople, basing his boat at St. Tropez, which he later would make popular to other artists. </s> 
+wikipedia.org | <s> Here Ranganatham ploy to create Bala as Anasuyamma's mislaid daughter Radha and keeps his assistant Bhagavanlu (Relangi) as her trainer when they love each other. </s> 
+wikipedia.org | <s> She has further claimed that Elvis loved the flouncy, yellow baby-doll nightie he had bought her and that he gave her pills after having sex with her. </s> 
+wikipedia.org | <s> Other benefits from programs that use pet renting include not only the people who are sick, but it also includes the loved ones of the ill patients too. </s> 
+wikipedia.org | <s> Another album for children "Kaj ima sonce najraje" (What Sun loves the most) contains songs by Niko Grafenauer, Boris A. Novak, and folk songs, accompanied by his music. </s> 
+wikipedia.org | <s> He also loved games and practical jokes, and enjoyed drawing and painting watercolours, the latter of which he did especially often in his later years. </s> 
+wikipedia.org | <s> He has a special affection of putting grease on doorknobs, toilet seats or anything else he can apply it to and especially loves to practice on his sister's former boyfriend (now husband), Ernie. </s> 
+wikipedia.org | <s> Just as your father-(Amenhotep III) always showed love to me, so now may my brother always show love to me. </s> 
+wikipedia.org | <s> A rushed utterance of the words "I love you", spoken by Carl, is heard near the end of the song. </s> 
+wikipedia.org | <s> High school scenes from the movie To All the Boys I've Loved Before and To All the Boys: P.S. I Still Love You were filmed here. </s> 
+wikipedia.org | <s> I have many people who love me and I hope that most of you stay on this path and that we are very happy". </s> 
+wikipedia.org | <s> In an article in Men's Health, Zachary Zane states that commitment in a polyamorous relationship means that "you will be there for that person," supporting them taking care of them, and loving them. </s> 
+wikipedia.org | <s> Porgy asks her what would happen if there was no Crown, and Bess tells Porgy she loves him and begs him to protect her. </s> 
+wikipedia.org | <s> Parker has stated that he and Stone would love to do more episodes if someone wanted to distribute them and has encouraged fans with Flash skills to continue the story themselves. </s> 
+wikipedia.org | <s> With worldwide box office earnings of $141.2 million Thunderball became the highest-grossing instalment and retained the record until it was surpassed by The Spy Who Loved Me twelve years later; adjusted for inflation it remained the most successful entry until Skyfall was released in 2012. </s> 
+wikipedia.org | <s> Kosta Petrov, who co-wrote the song's lyrics with his wife, Sanja Popovska, revealed that "Proud" was written for their daughter, as well as Todevska's daughter, but generally, it's a song about equality, "It is about accepting yourself, loving yourself and celebrating your true self. </s> 
+wikipedia.org | <s> Maithili is angry with Abhay because she thinks that he left her for the dead and now loved Piya, and she intends on drinking Piya's blood at a certain time. </s> 
+wikipedia.org | <s> His only reference point is women who loves him and he uses them as simple household objects, demanding with strength that his wife Carmen gets used to his concubine (roughly called "Thing") that he has decided to stay at his residence together with the small family. </s> 
+wikipedia.org | <s> Sardar Vallabhai Patel, the first Deputy Prime Minister and Home Minister of India, said in early January 1948 that the RSS activists were "patriots who love their country". </s> 
+wikipedia.org | <s> It's about almost teenage crushes – when you're not in love yet but you really like a guy – which I'm really excited about because I don't think there are too many out like that. </s> 
+wikipedia.org | <s> In contrast to her mother, who was loved by her pupils and respected at court, de Soucy was not as liked by her students, and was described as authoritarian and an intriguer. </s> 
+wikipedia.org | <s> And I'm an actress–I love being able to translate everything I'm feeling inside through my voice and through the songs. </s> 
+wikipedia.org | <s> Brain activation with the picture of the loved one was high in the region of the brain that produces and distributes dopamine and also brains "reward system", or the neural network associated with pleasure, arousal, focus, and motivation. </s> 
+wikipedia.org | <s> In an interview with Billboard magazine, Scott said the song is "the polar opposite of 'Dancing On My Own'" "There are a lot of songs about love and how it starts, whether that's realizing it yourself or coming to find it later on – but no sort of talk about the actual feelings that are created from love and passion. </s> 
+wikipedia.org | <s> Her outspoken aunt Penelope Ryland (Lucile Gleason), the owner of the Frying Pan Ranch in Arizona, objects to their marriage, claiming people should only be married if they love each other. </s> 
+wikipedia.org | <s> He started recording at the Abbey Road Studios in England, and reached the British charts with the English-language songs "Walking Alone" (#37, 1963) and "If I Loved You" (#18, 1964). </s> 
+wikipedia.org | <s> Gough was remembered long after his death in an 17 October 1990 press article referring to him in these terms "60 years ago one of Swansea's best loved seamen died after a long illness, after a career on sea which spanned more than half a century". </s> 
+wikipedia.org | <s> As described in a film magazine, Sally Castleton (Dana) is loved by Milt Derr (Chesebro), but Jed (Blue), a cousin of Milt, is desirous of possessing Sally. </s> 
+wikipedia.org | <s> When her son Rick shoots Grant, Ridge takes the blame and while waiting to be sentenced, he spills his heart to Taylor confessing it was her he always loved . </s> 
+wikipedia.org | <s> An article in People Magazine noted, "The parallels between Waller's life and his art–his Bridges heroine, farmwife Francesca, sacrifices her chance for happiness with a globe-hopping photographer in order to stay home and shield her loved ones from small-town scandal–haven't been lost on the locals". </s> 
+wikipedia.org | <s> A romantic comedy; a young man disguises himself as his sister and takes her place at a ladies' finishing school, in order to pursue the woman he loves . </s> 
+wikipedia.org | <s> I also wanted the town to be 'anytown' USA, and I used to love sports players with a big ZERO on their back. </s> 
+wikipedia.org | <s> After discovering her half-sister Ruping's love for Shuhuan, she seeks Shuhuan's love, partly as revenge (as he discovers by reading her diary), but in her heart, she really loves him and so for He Shuhuan, her revenge become meaningless and she learns to be loving and forgiving of her father. </s> 
+wikipedia.org | <s> Since the color rose is so well loved in Persia (Iran), some shades of rose are named after Persia, such as the light tone of rose at right that is called Persian pink. </s> 
+wikipedia.org | <s> Lost at sea, lost at sea Or in the evening tide We loved you, we miss you May God with you abide. </s> 
+wikipedia.org | <s> And another day when God shall bless thee, love and cherish the poor people, and count that thy chief riches to be rich in alms. </s> 
+wikipedia.org | <s> The Tigers moved to rectify this a few years ago, which pleased many followers of the club as Hart was the best loved player among the fans during the club's greatest era. </s> 
+wikipedia.org | <s> This was necessary for her to get a work permit in the U.S. Nevertheless, Eskenazi loved America and would have emigrated there were it not for her other love, Christos Philipokopoulos. </s> 
+wikipedia.org | <s> Father Grande, without offending and forcing himself upon his flock in the practice of their religion, was only slowly forming a genuine community of faith, hope, and love among them, he was making them aware of their dignity as individuals, of their basic rights. </s> 
+wikipedia.org | <s> A passage of the poem often paraphrased as "Ang Hindi marunong magmahal sa sariling wika, masahol pa sa hayop at malansang isda" (English: "He who knows not to love his own language, is worse than beasts and putrid fish") is widely quoted in order to justify pressuring Philippine citizens into using Tagalog; this ironically includes its majority of nonnative speakers. </s> 
+wikipedia.org | <s> However, executives at Warner Bros. Records loved Sabi's talent and energy and wanted to continue the label's relationship with her as a solo artist. </s> 
+wikipedia.org | <s> Five official singles were released from the album: " Love Me for a Reason", "Key to My Life", "So Good", "Father and Son" and "Coming Home Now". </s> 
+wikipedia.org | <s> The theme of the forest and of shepherds at play, the image of confident waiting for the loved one, produced an original offshoot; for this is the region of Maayon (Ancient Tamil god), and the love theme it represents symbolizes the devotee waiting in the hope that Maayon will eventually come and fill his soul, thus experiencing the joys of expectation. </s> 
+wikipedia.org | <s> Pari becomes pregnant and asks Rukayya to leave Aazam or she will kill their child as she believes Aazam and Rukayya only want a child and they don't love her. </s> 
+wikipedia.org | <s> She fell in love with Ja-yun, but was rejected and she was jealous of So-dan because she was his lover, so she paid So-dan's father to sell her to a noble who loves young beautiful girl and ended up (unintentionally) killing her. </s> 
+wikipedia.org | <s> She ultimately concluded that "I don't love some of the choices the show has made recently" and that "the show has just been spinning its wheels for the past several weeks". </s> 
+wikipedia.org | <s> This film is the story of a coffee shop girl Raina (Arpita Chatterjee) and the man who loves her Afzar (Ashish Bisht) an aspiring model. </s> 
+wikipedia.org | <s> Described as a man who " loved the good life", he once took a friend on a one-day trip to Poland simply because they wanted to try eating duck properly. </s> 
+wikipedia.org | <s> Colour was always less important than tone, she painted the hills and the seas of the area she loved so well, she painted the earth and those who worked it, depicting rich brown soils, piles of potatoes, small groups of driven cattle, indistinguishable farm buildings and terraced houses running along the streets of Aspatria. </s> 
+wikipedia.org | <s> As well as describing the excesses noted above, it also details the loneliness that many sailors feel when they suddenly find themselves with free time but without loved ones to share it with. </s> 
+wikipedia.org | <s> Plague Knight reveals that his intention was always to use the potion to win Mona's heart, but she confesses she already loves him. </s> 
+wikipedia.org | <s> Released on the heels of the #3 (US) hit "Who Loves You" and the #1 "December 1963 (Oh, What A Night)", both of which Polci was also lead or co-lead, the single was an edited version of a six-minute, nine second, song that married lyrics of love and Western movies with a disco beat that was the signature of "Who Loves You". </s> 
+wikipedia.org | <s> They take jobs at a fairground but they find themselves in a predicament as they "bicker" but ultimately reconcile due to love . </s> 
+wikipedia.org | <s> Caroline Rosenthal, "The Inadequacy of Symbolic Surfaces: Urban Space, Art and Corporeality in Siri Hustvedt's What I Loved ," in ed. </s> 
+wikipedia.org | <s> Jeff loved British music. the wired consciousness of The Clash, the way Siouxsie and the Banshees went from gun-metal moodiness to skies of fireworks. </s> 
+wikipedia.org | <s> Described as "Plump and smiling with a warm and friendly, genial personality " Smacka was a much loved entertainer, a rare breed who left a smile on everyone's face was a regular performer on Melbourne television shows, notably "Sunnyside Up", In Melbourne Tonight and The Penthouse Club. </s> 
+wikipedia.org | <s> Lois watches a video tape left by her mother, where Ella Lane (Teri Hatcher) tells Lois not to let the loss of a loved one keep her from living up to her full potential. </s> 
+wikipedia.org | <s> However at the climax, when Shwetha asks Nadaraj to speak to her, he keeps silent because he had asked a doctor to cut his tongue so that he could be the Nataraj that Swetha had come to love . </s> 
+wikipedia.org | <s> June Lodge recorded a version of the song in 1980, which became the best-selling single of 1982 in the Netherlands, and American singer Lutricia McNeal had a big hit with her version of "Someone Loves You Honey" in 1998. </s> 
+wikipedia.org | <s> Despite Fletcher's comment that "Dave was loving it ...he was on a different planet", his heroin addiction had increased, Gore was drinking excessively and had several seizures, Fletcher was suffering from clinical depression to the point where he was replaced by Daryl Bamonte on all dates from April and the grueling nature of touring had taken its toll on Wilder. </s> 
+wikipedia.org | <s> During her first year she encountered physics for the first time; and during her course on solid state physics decided that she loved the subject. </s> 
+wikipedia.org | <s> Luna Valente is a 16-year-old girl who loves to rollerskate and lives with her adoptive parents in Cancún, Mexico, living in the mansion of the family for whom her parents work. </s> 
+wikipedia.org | <s> An anonymous comic verse c.1700, namechecking various Dublin Castle courtiers of the Lord Lieutenant, suggests the ideal beau would be one who "like Hartstong loves ". </s> 
+wikipedia.org | <s> I wanted to do something that has an Egyptian vibe because I love gold but with a ladylike twist pearls and stones," Schroeder said of the collaboration. </s> 
+wikipedia.org | <s> Static has a number of supporting characters in his from best friends Rick Stone, Larry Wade and Frieda Goren to sometime love interest Daisy Watkins. </s> 
+wikipedia.org | <s> She told an Inside Soap writer "She was definitely falling for him, but I don't think she really ever loved . </s> 
+wikipedia.org | <s> She wishes for her skin to be lighter, but through a supernatural experience, she comes to love her dark skin color. </s> 
+wikipedia.org | <s> To them the Bra Boys were much more than a gang, they were a group of friends, and a family of their own that loved to surf and always stood up for one another. </s> 
+wikipedia.org | <s> In conjunction with the "Blood vs. Water" twist, remaining contestants were given the option to switch places with their loved one if their loved one was on Redemption Island. </s> 
+wikipedia.org | <s> Reward: An overnight stay at a resort in Phuket Island with their loved one, plus ฿10,000 pocket money. </s> 
+wikipedia.org | <s> Once their loved one retrieves the key and unlocks their respective tribe member, the tribe member must use the sandbags to knock down targets. </s> 
+wikipedia.org | <s> No grief stage theory has been able to account for how people cope with loss, why they experience varying degrees and types of distress at different times, and how or when they adjust to a life without their loved one over time. </s> 
+wikipedia.org | <s> He moves into a hut with her and reveals why he left her the previous two times – the first because, sickened by the senseless slaughter and death his family inflicted on anyone who might be considered a rival, he had resolved to leave the wulin himself and live a simple life; the second, after he rode off with her on the eve of a marriage with a man she did not love , after it became clear that she did not understand and would never be content with the simple life he so desired. </s> 
+wikipedia.org | <s> Tall and odd-looking, with just two teeth in his mouth, Zein has made a reputation for himself as the man who falls in love over and over with girls who promptly marry other men- to the point where mothers seek him out in hopes that he will draw the eye of available suitors to their eligible daughters. </s> 
+wikipedia.org | <s> Hikaru used to be bullied by her classmates since they believed she was acting stuck up and snobby while she modeled, and although she loved modeling, she eventually quit to avoid the bullying. </s> 
+wikipedia.org | <s> In 2010, she signed with "Expecting Models" and worked with top maternity companies like Loved and Lavish (Heidi Klum), Motherhood Maternity and Thyme Maternity. </s> 
+wikipedia.org | <s> Firstpost gave it a rating of 2 out of 5, noting that the film was all about Kapoor and Chopra's "magnetic screen presence" in "the picturesque surroundings they fall in love in. </s> 
+wikipedia.org | <s> Intimate scenes of daily routines and affectionate exchanges with friends and loved ones provide a glimpse into how they have managed to carry on despite their traumatic experiences. </s> 
+wikipedia.org | <s> Although he said he had feelings for both the girls, he said that he loved Carianne and he chose her as his "girlfriend", telling her he loved her and she replied that she loved him also. </s> 
+wikipedia.org | <s> At dinner, Alex reveals he loves JoJo, and though there was not a rose to give out, he is eliminated after being told that she did not feel the same way. </s> 
+wikipedia.org | <s> Jed tries to explain his side of the story, claiming that his relationship prior to the show "wasn't serious" despite telling her he loved her. </s> 
+wikipedia.org | <s> Director Matt Reeves stated: "I just felt like, well, what I'd love to do is to get a version of this Batman character where he's not yet fully formed. </s> 
+wikipedia.org | <s> Issued in August, the band's fourth single, "She Loves You", achieved the fastest sales of any record in the UK up to that time, selling three-quarters of a million copies in under four weeks. </s> 
+wikipedia.org | <s> In an interview Marion Raven said their songs were always about their experiences and thoughts, and that this album's songs were "mostly about love ," though also touched on jealousy and how they see the world. </s> 
+wikipedia.org | <s> Lonnie, distraught over the loss of his pet, conspires with his best friend, Text, to trick Willie, who infamously loves to engage in various trades with local individuals, to regain possession of the dog by having Willie trade them the dog for assistance with manual labor. </s> 
+wikipedia.org | <s> Laura Lee endures complications involving a comic Pasha and some clownish thieves before she realises that she loves Percy in return, and the two are united. </s> 
+wikipedia.org | <s> Easy Reader (Morgan Freeman): a smooth hipster who loved reading since season 1 (1971–1972); associated with Valerie the Librarian (Hattie Winston) and Vi (Lee Chamberlin) in her diner. </s> 
+wikipedia.org | <s> In a flashback, Se-wa asks Se-joon if he would choose to be loved by all or loved by one, and he replies that he would rather be loved by one. </s> 
+wikipedia.org | <s> Her father arrives and seeing Bayard and Nadine together and told that she loves him, does not stand in the way of their reunion. </s> 
+wikipedia.org | <s> When Rosina refused to marry another, their engagement was discovered, and although Sir Peter loved his son and Rosina, he was angry at their deception. </s> 
+wikipedia.org | <s> Then, when Hook begs for redemption, Ariel makes Hook swear that he still believes in love, and that he still loves the woman who broke his heart. </s> 
+wikipedia.org | <s> But, when Ted does become a ghoul again, Morris once more uses him to try to kill off the one person Isabel truly seems to love –Eric Iverson (Turhan Bey), her partner and pianist. </s> 
+wikipedia.org | <s> The band initially stressed that they were not "the Nutty Boys" the public knew and loved , as they attempted to become a more serious group. </s> 
+wikipedia.org | <s> The earl argues with Yvonne, who loves Agravaine and opposes what the earl has planned, though Agravaine does not hear this. </s> 
+wikipedia.org | <s> Yayoi proposes marriage to Ichi and, after listing all his perceived faults, and her saying she has loved him for a long time finally relents, accepting her proposal and accedes to her request to become a new person. </s> 
+wikipedia.org | <s> Lyrically, the song is directed at a lover, telling him that she is the one and wanting him to love her. </s> 
+wikipedia.org | <s> Ivan, then known as Mud, loved to make drawings in the mud and play with his sister Tag who loved playing tag. </s> 
+wikipedia.org | <s> Van Dyk believes it is important to recognise that many thousands of people were affected by this tragedy, and lost loved ones. </s> 
+wikipedia.org | <s> Additionally, he draws out a range of opinions from his peers; for instance, while Kondabolu said that despite Apu he still loved The Simpsons, Kal Penn said the character ruined the show for him. </s> 
+wikipedia.org | <s> While visiting a park overlooking the Atlantic Ocean, they hide a costume jewelry necklace under a large rock, promising that they will love each other as long as it remains undisturbed–which they expect to be forever. </s> 
+wikipedia.org | <s> From an outside view it may seem she doesn't care for her kids or husband, but in fact she loves them devotedly, even though she may express it through a recording or videotape. </s> 
+wikipedia.org | <s> The old man answers that even though his son betrayed the Emperor, resulting in the old man's exile, he still loves him. </s> 
+wikipedia.org | <s> Later on, Ashley tells Anne that although it seems like their family is divided into two sides, she still loves her mother too. </s> 
+wikipedia.org | <s> There is an increasing sense of tension and doom during Anna and Chantel's two-month stay on the island; Monique grows more and more distraught and angry over the thought that Red doesn't love her, and Anna finds out that Chantel had married Rex before they set sail. </s> 
+wikipedia.org | <s> In traditional tales, the woman is softened and continues to love the man once he is revealed to be royalty but in Andersen she is cast away and left alone mourning the loss of love and status. </s> 
+wikipedia.org | <s> Throughout 2006 and 2007 the director Brian J. Averill followed the Tinklers and interviewed their friends creating the documentary Everybody Loves The Tinklers. </s> 
+wikipedia.org | <s> Before the tournament, Arcite prays to Mars that he win the battle, Palamon prays to Venus that he marry Emilia and Emilia prays to Diana that she be wed to the one who loves her best. </s> 
+wikipedia.org | <s> The "religion of Jesus" is considered to be practiced by way of loving God the Father, thereby learning to love each person the way Jesus loves people; that is, recognizing the "fatherhood of God and its correlated truth, the brotherhood of man," resulting in unselfish service to others. </s> 
+wikipedia.org | <s> Ellid and Cuin accompany Bevan as he makes his preparations to leave Isle and they discover they have loved each other all along. </s> 
+wikipedia.org | <s> The play ends with the brother terrified that he will be blamed by all for driving Ben Zion to suicide, and with Lisa declaring that she has loved Ben Zion all along and that the others "killed him with their fear of the truth". </s> 
+wikipedia.org | <s> The U.S. Single version includes an iPod video formatted file of the music video for "The Youngest Was the Most Loved " ready to play and transfer to a 5th Generation iPod. </s> 
+wikipedia.org | <s> Jessica Robertson, an AOL music editor, said, "It's a safe, mid-tempo pop ballad that features what his fans love : his trademark breathy vocals and confident delivery. </s> 
+wikipedia.org | <s> The film rights to Phillips's 1955 novel The Loved and the Unloved were sold and in the 1960s, he began working with Hollywood director Robert Altman. </s> 
+wikipedia.org | <s> In the last stanza, the speaker urges the woman to requite his efforts, and argues that in loving one another with passion they will both make the most of the brief time they have to live. </s> 
+wikipedia.org | <s> Todomondo are a Romanian band that represented Romania at the Eurovision Song Contest 2007 with their song "Liubi, Liubi, I love you". </s> 
+wikipedia.org | <s> The pair recorded a podcast on Dec. 30, 2018, titled, "Our Last Day Together" discussing their divorce and desire to remain great friends who love each other. </s> 
+wikipedia.org | <s> Top Gear does a special edition of Top of the Pops, with boyband McFly challenged to write and perform a song with the words "sofa," "Hyundai," and "administration" but not " love ", "baby," or "heart". </s> 
+wikipedia.org | <s> Captain Christian Hodge joked that he had to explain to his superiors that the filmmakers wanted to portray most of their aircraft as evil Decepticons: however, he remarked "people love bad guys". </s> 
+wikipedia.org | <s> Defying her father's wishes, she takes on a gig as an undercover bodyguard for a famous actress at an agency, where she must navigate the unfamiliar world of glitz, glamour and even love . </s> 
+wikipedia.org | <s> Two windows were given as general thank offerings, twenty six are memorials to loved ones: wives, husbands, sons, other family members and rectors. </s> 
+wikipedia.org | <s> One of her chores is to take care of six-year-old Bobby and, while she loves her little brother, she often loses patience with the mischievous child. </s> 
+wikipedia.org | <s> Billed as "the magazine for people who love books," The Coffin Factory produced five issues with work representing over 30 countries. </s> 
+wikipedia.org | <s> Three of the songs played at the venue are featured in The Beatles: The First U.S. Visit DVD: I Wanna Be Your Man, She Loves You and I Saw Her Standing There. </s> 
+wikipedia.org | <s> Phog (Noor Muhammad Charlie) mentions the unmatchable beauty of Marvi (Nigat Sultana), a village girl from Malir whom he loves but who is engaged to a fellow villager, Khet. </s> 
+wikipedia.org | <s> The episode ends with a final waltz of the entire Martini family wedding's mario and antonia they are excpeting a liitle girl its name nicole on the notes of the famous Italian song : " Parlami d'amore, Mariù " (Tell me about love , Mariù), in honor of Carlo Bixio, the creator of the television series. </s> 
+wikipedia.org | <s> Renata loves to spy on her neighbors from the bedroom window with Justito's telescope, thus finding out all the gossip of the building. </s> 
+wikipedia.org | <s> Dante tells her of a secret code – "Darwin loves Bitcoin" – the use of which is an emergency signal meant to alert Gromov's agents to dissolve their network. </s> 
+wikipedia.org | <s> Before coming out to his family and loved ones, Vice Ganda was known as "Tutoy", which was his nickname as a young boy. </s> 
+wikipedia.org | <s> Vicky's loved ones rallied around her to protect her from Grant, who was determined more than ever to have Kirkland to himself. </s> 
+wikipedia.org | <s> She enters into the inspired poets and visionaries, gives expression and energy to those she loves ; she is called the "mother of the Vedas" and consort of Prajapati, the Vedic embodiment of mind. </s> 
+wikipedia.org | <s> His loss prompted him to write two poignant poems about the man he had grown to love : "To A Very Wise Man" and "Revisitation". </s> 
+wikipedia.org | <s> Watts reminded Clary whenever they spoke that God loved him, even responding to a threatening phone call from Clary (in which he was told that Clary and other Klansmen were coming for him) by telling Clary that it was unnecessary because he would meet Clary and buy him dinner. </s> 
+wikipedia.org | <s> I love the people of Sufism who are moderate, those who are committed to the Qur'an and sunnah; and I hate (the Sufism) of heretical innovations and that which is alien to Islam, this is my methodology. </s> 
+wikipedia.org | <s> Tomlinson stated that he loved "the indie sound of the song" and its "circular nature – it opens and closes with the same lyric". </s> 
+wikipedia.org | <s> After nearly being attacked by a group of birds who've become fed up with their attempts to take down Fagin, Oliver gets angry with Olivia for teasing him to love her. </s> 
+wikipedia.org | <s> Angela breaks free, rushes home, and tells Cal she loves him as a husband – calling him by the name Jon – before she bashes his head in and pulls out a small disc shaped like Manhattan's symbol, causing his body to glow blue. </s> 
+wikipedia.org | <s> She has a distaste for adulthood, acquired partly by the example of it set by her father, whom she loves but fears due to his somewhat violent fits of anger. </s> 
+wikipedia.org | <s> Glass was dearly loved by Chinese and missionaries alike and was considered the rock in which the missionaries were held together in Hwanghsien and the light that led so many to Christ. </s> 
+wikipedia.org | <s> Truth to tell, I don't know much about him other than that he was responsible for a small number of gems. ... Of all 's many projects, none is loved more than the work he did in tandem with Willy Franz. </s> 
+wikipedia.org | <s> So when Lucas marries Sami's sister Carrie Brady, and Sami gets engaged to Austin, Will is happy, as he loves both his aunt and uncle, and his parents. </s> 
+wikipedia.org | <s> I may be young but I've plenty of experience of captaincy and I love it, being out there right in the mixer. </s> 
+wikipedia.org | <s> Ms. Treason later explains to Tiffany that she knew that the villagers would never love her, and that the other option was to make them fear her: She decided they either had to fear her, or love her, so that she could hold some power over them. </s> 
+wikipedia.org | <s> In her review of New Life, Erika Ramirez of Billboard said: "Monica adds some throbbing synths and twinkling piano on another "I love my man" cut. </s> 
+wikipedia.org | <s> Conner quickly forgives her, arguing that even if Cassie still loves him, she could not have known of his impending resurrection in the immediate aftermath of the Infinite Crisis, so she has nothing to blame. </s> 
+wikipedia.org | <s> In "Young & Hold", when Gabi tells Josh she loves him, Josh is about to say he loves Gabi back, but a squirrel scares them both and Josh hits his head and loses his memory of her. </s> 
+wikipedia.org | <s> Although the lyrics do not specifically say so, the ballad is probably about a girl saying goodbye to the one she loves –the song is sung by the female character, Hitomi. </s> 
+wikipedia.org | <s> You can only love a human being." </s> 
+wikipedia.org | <s> "Isn't love a sharing?" </s> 
+wikipedia.org | <s> ^ "Two men love same woman sixteen Years". </s> 
+wikipedia.org | <s> "But he always loved football." </s> 
+wikipedia.org | <s> I love her dress, I love her tooth... </s> 
+wikipedia.org | <s> I felt loved by the people here..." </s> 
+wikipedia.org | <s> "I've loved every second of it." </s> 
+wikipedia.org | <s> ^ "5 things to love on your telly tonight!" </s> 
+wikipedia.org | <s> I just love that message." </s> 
+wikipedia.org | <s> ^ "Efron films love story with Danes". </s> 
+wikipedia.org | <s> The actors loved doing it because they're earned moments." </s> 
+wikipedia.org | <s> ^ a b "CWSF 1985 loved eating kids". </s> 
+wikipedia.org | <s> "Won't you do what I ask, love ? </s> 
+wikipedia.org | <s> He lives in and loves Washington Heights." </s> 
+wikipedia.org | <s> It's really only Sue he loves and wants." </s> 
+wikipedia.org | <s> But we were totally wrong, people totally loved it." </s> 
+wikipedia.org | <s> Sean loves it now, all the little children love it." </s> 
+wikipedia.org | <s> I would love to work with them again in the future." </s> 
+wikipedia.org | <s> I loved the complexity of the human beings." </s> 
+wikipedia.org | <s> I guess I love you." </s> 
+wikipedia.org | <s> I love you @toddgrinnell ❤️❤️❤️ I love you. </s> 
+wikipedia.org | <s> "Developers love trendy new languages but earn more with functional programming". </s> 
+wikipedia.org | <s> (kids loved this, scoring 92% in the top two boxes) </s> 
+wikipedia.org | <s> "Why I love the idea of Israel Folau playing footy". </s> 
+wikipedia.org | <s> I loved the idea of the totally arbitrary nature of infidelity." </s> 
+wikipedia.org | <s> If you love horror flicks, you should not miss this one." </s> 
+wikipedia.org | <s> I find him very very passionate about his family and his loved ones." </s> 
+wikipedia.org | <s> I love them both." </s> 
+wikipedia.org | <s> "I loved it when they called the play," Weah said. </s> 
+wikipedia.org | <s> Most of all, I love the human voice for its own sake." </s> 
+wikipedia.org | <s> Dotty O'Neill: Frank's somewhat eccentric 4th class teacher who loves Euclid </s> 
+wikipedia.org | <s> I learned to love him more than I have ever loved before or after." </s> 
+wikipedia.org | <s> I wanted it to be pro-peace, and about loving your neighbor." </s> 
+wikipedia.org | <s> I loved that concept." </s> 
+wikipedia.org | <s> I just loved , loved, loved that school, everything about it." </s> 
+wikipedia.org | <s> ^ "One Off - In living and loving Occupational Hazards". </s> 
+wikipedia.org | <s> "I am waiting return to Azerbaijan football / I love Tabriz and Tractor". </s> 
+wikipedia.org | <s> ^ In another twist, the players and their loved ones competed as teams for immunity. </s> 
+wikipedia.org | <s> I still do lots of Magnum songs on stage because the crowd loves them." </s> 
+wikipedia.org | <s> "Michael O'Leary: Stunt pilot whose enemies would love to see him crash". </s> 
+wikipedia.org | <s> You'll love living in it, if you can ignore all the purple." </s> 
+wikipedia.org | <s> A lot of parents say theoretically, 'You have to do what you love .' </s> 
+wikipedia.org | <s> "I had always loved Michigan, had attended their gymnastics camps since I was 13 years old. </s> 
+wikipedia.org | <s> He loves hearing "CURSE YOU RUNCIBLE SPOON!!!" </s> 
+wikipedia.org | <s> "Mama says she loves me, but you do love me," Elisabeth replied. </s> 
+wikipedia.org | <s> ^ "ADDICTED TO LOVE (1997) B". </s> 
+wikipedia.org | <s> I love TV." </s> 
+wikipedia.org | <s> ^ "Reel China: Love You for Loving Me". </s> 
+wikipedia.org | <s> ^ Allain, Steven J.R. "In Memoriam- The man who loved frogs". </s> 
+wikipedia.org | <s> "Last living Seminole Code Talker walks on, loved ones pay respects, honor hero". </s> 
+wikipedia.org | <s> "Margaret Spufford loved truth, loved people, loved to laugh – despite it all". </s> 
+wikipedia.org | <s> Chapter 2 - The Best Democracy money can buy: The Bushes and the billionaires who love them </s> 
+wikipedia.org | <s> How to be Loved is one of the top albums of the year." </s> 
+wikipedia.org | <s> ^ "Skales and Neza officially a couple, they both shared loved up photo on Instagram". </s> 
+wikipedia.org | <s> The album cover notes that it is "the kind of song that Nimoy personally loves to sing." </s> 
+wikipedia.org | <s> Of his influences, Patton stated "I love trumpet, I love trombone, I love reeds... </s> 
+wikipedia.org | <s> Let's unite, let's serve Oh all the Territory peoples Let's love , let's save Wholeheartedly </s> 
+wikipedia.org | <s> ^ Percy Chatterton: A life that was loved Pacific Islands Monthly, February 1985, pp23–24 </s> 
+wikipedia.org | <s> "Adobe exec: Creative Cloud complainers will love us once they try us (interview)". </s> 
+wikipedia.org | <s> Lance Secretan wrote that "We may respect a leader, but the ones we love are servant-leaders." </s> 
+wikipedia.org | <s> "Over-the-top hair, makeup and more: India Ferrah has loved drag since she was a kid". </s> 
+wikipedia.org | <s> "With proper care, proper support, and love , we can share the miracle that is life". </s> 
+wikipedia.org | <s> ^ "Jewish Games not loved by all: Competition and Controversy," The Canadian Jewish News. </s> 
+wikipedia.org | <s> ^ "Twitter / Sia: Love this amazing cover of diamonds". 12 April 2013. </s> 
+wikipedia.org | <s> The crowd absolutely loved it.. @FalmouthWeek @SouthwestBars @piratefm t.co/q70CcgzGO5" (Tweet). </s> 
+wikipedia.org | <s> ^ a b "Tony Knap loved his years in coaching, now he's learning to love retirement". </s> 
+wikipedia.org | <s> "I love you for all the wonderful 25th birthday wishes, you've made it my favourite age already! </s> 
+wikipedia.org | <s> I'm sure if it's not a giant pile of shit, we'd love to play it live. </s> 
+wikipedia.org | <s> But we're not out here to preach to kids, we're out here because we love music." </s> 
+wikipedia.org | <s> I didn't love her when I married her, but I did love her after our first year." </s> 
+wikipedia.org | <s> ^ "I'm loving life coaching the next batch of future stars at Hamilton Accies says Dougie Imrie". </s> 
+wikipedia.org | <s> His game was very much loved by BFC Dynamo Berlin fans who gave him the nickname "FUSSBALL GOTT." </s> 
+wikipedia.org | <s> I loved Montclaire Elementary!! </s> 
+wikipedia.org | <s> " Love the Way You Lie: What's Eminem Trying To Say?" </s> 
+wikipedia.org | <s> ^ "Cranes of Wisconsin Near Wisconsin Dells, a global village of birds lives, loves and thrives". </s> 
+wikipedia.org | <s> Meanwhile, Computer and Video Games wrote "Anyone who enjoys a good shoot'em up should love this..." </s> 
+wikipedia.org | <s> Deux amors, a 1949 French comedy film directed by Richard Pottier and released in English as Two Loves </s> 
+wikipedia.org | <s> ^ "Alien Loves Predator: In New York, no one can hear you scream". </s> 
+wikipedia.org | <s> Nights and Loves of Don Juan (1971) - One of Aiscia's Wardens (uncredited) </s> 
+wikipedia.org | <s> I love power and in the next life I have a chance to be even more powerful than I am." </s> 
+wikipedia.org | <s> ^ CNN.com "Expert: Discipline, love key to home business",CNN.com, October 12, 2007. </s> 
+wikipedia.org | <s> "To drive an audience of 100,000 into complete oblivion by playing a groove so strong ... I love doing that. </s> 
+wikipedia.org | <s> This will be an exhibition of all the things I love w/ like minded people for whom I care deeply. </s> 
+wikipedia.org | <s> I love writing stories with villains as the main character, and this book is about Thanos all the way." </s> 
+wikipedia.org | <s> I love you- and there is no question - TOGETHER, WE WILL MAKE AMERICA GREAT AGAIN!" </s> 
+wikipedia.org | <s> I love Ego Death, that was a great record, but I know this one is a step up." </s> 
+wikipedia.org | <s> ^ a b c "The Amphicar 770 is a Car No One Understands, Everyone Loves ". </s> 
+wikipedia.org | <s> My dad took me there, and I got rewarded for fighting, so that's how I loved boxing." </s> 
+wikipedia.org | <s> ^ "Good To Be Loved (UK Radio Edit) - Single by M-22". </s> 
+wikipedia.org | <s> " Love your enemies" is a Bible phrase from the Sermon on the Mount, specifically Matthew 5:44. </s> 
+wikipedia.org | <s> As much as I love stealing @paulwesley 's thunder, it's really today. ox" (Tweet). </s> 
+wikipedia.org | <s> Nintendo Power said that "you may not love all of it, but you will love much of it." </s> 
+wikipedia.org | <s> An article by Aakash Chopra has also appeared in the book "Sachin Tendulkar : The man cricket loved back." </s> 
+wikipedia.org | <s> "Merle Haggard May Have Hated Modern Country Music, But the Singers Loved Him". </s> 
+wikipedia.org | <s> He could not live without something to love ... his bird and his flowers became the objects of his tender care." </s> 
+wikipedia.org | <s> "How Sweet It Is (To Be Loved by You)" (Holland-Dozier-Holland) - 2:58 </s> 
+wikipedia.org | <s> "Love in Bloom" from She Loves Me Not – Music by Ralph Rainger; Lyrics by Leo Robin </s> 
+wikipedia.org | <s> And any team with Barda on it automatically has a certain bull in a China shop tremble, and I love that... </s> 
+wikipedia.org | <s> She appeared in the Bryan Adams' 1995 music video, "Have You Ever Really Loved a Woman?" </s> 
+wikipedia.org | <s> That's how I feel comfortable expressing myself -- loving who I feel like loving and who I'm attracted to." </s> 
+wikipedia.org | <s> Pulido said "That's what art is about for me, creating with other people that you love and appreciate." </s> 
+wikipedia.org | <s> "'Call Me by Your Name' Screenwriter James Ivory Loves the Story Too Much to Think About Sequels". </s> 
+wikipedia.org | <s> At 130AD he visited the city and built Antinoos' temple, (a person he very much loved , that was sacrificed for him), the newest in the city [11]. </s> 
+wikipedia.org | <s> Recorded in the popular Doo-Wop style, Miracles lead singer Smokey Robinson, as the song's narrator, then takes it from there, singing to the woman he loves , promising her eternal devotion: </s> 
+wikipedia.org | <s> 1 Though I speak with the tongues of men and of angels, but have not love I am only a resounding gong or clanging cymbal resounding in the wind. 2 And though I have the gift of prophecy, and can understand all mysteries and all knowledge, and though I have faith, that can move mountains, but have not love, I am nothing. 3 And though I give all I possess to the poor, and surrender my body to the flames, but have not love, I gain nothing. </s> 
+wikipedia.org | <s> "These were my men ... hey died doing what they loved : riding on motorcycles, kicking in doors, serving on SWAT", he said. </s> 
+wikipedia.org | <s> To win on this weekend at this track with the tragedy we had in '04, we're thinking of all the loved ones that we lost in the plane crash." </s> 
+wikipedia.org | <s> Phil Dyess-Nugent of The A.V. Club was positive in his assessment of the special, noting, "As they stress out and cocoon in their offices and forget what combs are for, you realize how much they must love what they're doing, because nobody would do this just for the money, so long as they already had carfare back home." </s> 
+wikipedia.org | <s> "I wanted to be , because I had seen Travis Banton's name on the screen for credit for the costumes, in the movies, and I loved his work. </s> 
+wikipedia.org | <s> a great love have You loved us, Lord, our God; a great and superabundant compassion have You had compassion upon us. </s> 
+wikipedia.org | <s> p11) He grew up in a part of Northampton known as The Boroughs, a poverty-stricken area with a lack of facilities and high levels of illiteracy, but he nonetheless " loved it. </s> 
+wikipedia.org | <s> For healing a wound I have spent my life but I lived it anyway I was born and I left To die, to live, because death is stronger than me I sang and lived in each couplet bled loved sung born and gone... </s> 
+wikipedia.org | <s> While being interviewed by guest editor Kelis of Idolator, Robyn explained that the tour's name means to her, "To me, that means it all, love , and everyone's invited!" </s> 
+wikipedia.org | <s> News & Review summarized Alvin and the Chipmunks as "disposable junk that'll probably be forgotten in a month," but Philip French wrote that "kids will love it and I found it tolerable." </s> 
+wikipedia.org | <s> Alex Carlson of Hardcore Gamer gave the PC version of this "underdog...competent, if uninspired indie platformer" a review score of 3/5, opining, "Amazing Princess Sarah is well-worth five bucks if you love old-school gems like Castlevania but if you're not into that classic retro scene, will do as much to convince you of the genre's flaws as it convinces you of its strengths." </s> 
+wikipedia.org | <s> Her talk, "Having It Both Ways, or Writing From the Third Perspective: The Revolutionary M/M/F Ménage Romance Novel" was presented at Princeton University's 2009 conference: " Love as the Practice of Freedom? </s> 
+wikipedia.org | <s> Daily Sun (July 19, 2005): United by man they all loved ... 10 years after, the Apata widows are still together </s> 
+wikipedia.org | <s> His family loved to sing and his father, William N. B. Shepherd, wrote the hymn "Give Us Room That We May Dwell." </s> 
+wikipedia.org | <s> A former chairperson of the American Music Center, she serves on many boards and, according to the American Academy of Arts and Letters, "has become one of the most recognizable and widely loved figures in American Music." </s> 
+wikipedia.org | <s> Both people, she says, are "lovely, lively, large ladies who are great cooks and love feeding people with food and advice." </s> 
+wikipedia.org | <s> So we felt like to do it as a short-term event where you could just catch up with these actors that you love and do something that was wildly different was a great way to honor the legacy of the show." </s> 
+wikipedia.org | <s> Other quotes include, "No to the impossible," "We love life if we had access to it," "I will dream," "How big is the idea, how small is the state," "Those who have no land have no sea," "On this earth there are things worth living for," "One day we will be who we want to be, the journey has not started and the road has not ended," and "My people will return as air and light and water." </s> 
+wikipedia.org | <s> Distraught, Tom asks her if she loves him, and she replies, "Yes, but if our love destroys your family, then it will destroy itself, in a long, slow degradation of guilt and regret and blame." </s> 
+wikipedia.org | <s> When Hollywoodlife.com asked Ed Westwick, who played Chuck Bass, which character he thought loved Blair more, Chuck or Dan, Westwick pointed to Badgley, saying "definitely him." </s> 
+wikipedia.org | <s> At the conferral ceremony, Pope Benedict XVI praised Daley for his ecumenical work with the following words: "Father Daley, through his in-depth study of the Fathers of the Church, has placed himself in the best school for knowing and loving the one and undivided Church, also in the wealth of her different traditions; for this reason, he also performs a responsible service in our relations with the Orthodox Churches." </s> 
+wikipedia.org | <s> This is seriously a great album and I am sure listeners will love the fresh melodies and different styles even if you aren't a Chris Tomlin fan..." </s> 
+wikipedia.org | <s> This album produced four chart singles for him on the Canadian country music charts, of which the highest was the No. 13-peaking "Love Music Loves to Dance." </s> 
+wikipedia.org | <s> Ganatra concluded that "he's at the stage where he loves Carol, and then David comes back and ruins everything but she's worth fighting for." </s> 
+wikipedia.org | <s> condolences: some poems of Catullus are solemn in nature. 96 comforts a friend in the death of a loved one; several others, most famously 101, lament the death of his brother. </s> 
+wikipedia.org | <s> I love Rico, love working with him, and it was just as much fun as I thought it would be." </s> 
+wikipedia.org | <s> But one of my favorite things about Charlie is that her heart is in the right place; she'd give her last breath for those she loves ." </s> 
+wikipedia.org | <s> "I love danceable music, and I love big fat beats and I really dig rock 'n' roll", says Blackman. </s> 
+wikipedia.org | <s> Ben from thescifichristian.com was not fond of the initial episodes with baby Connor because Angel wasted time "baby-talking," but he loved the development with teenage Connor, "The season ends with a great storyline as Connor returns and betrays Angel." </s> 
+wikipedia.org | <s> He who hears that voice, which is God's greatest gift, in his innermost being and follows it, finds in it a friend at last, and he is never alone! ... That is what all great men have acknowledged in their works, all those who have thought a little more deeply and searched and worked and loved a little more than the rest, who have plumbed the depths of the sea of life." </s> 
+wikipedia.org | <s> Viewers are always telling me that they love it when Danielle and Ronnie have a scene together – I think they're on the edge of their seats, waiting to see when Danielle is finally going to admit the truth about her identity." </s> 
+wikipedia.org | <s> Retrieved November 3, 2019. there are composers that I love that have bridged that gap . I mean, most famously amongst them for me, John Adams and Philip Glass </s> 
+wikipedia.org | <s> The Taken King is a testament to Bungie's craftsmanship and its ability to listen to the feedback from the players who both loved and hated year one." </s> 
+wikipedia.org | <s> Virginia's mother said, "I loved Mac because of his fine qualities and because he was so good to me, but I couldn't see their two personalities living together in harmony." </s> 
+wikipedia.org | <s> Having called Wikileaks "disgraceful" in 2010, Trump praised Wikileaks in October 2016, saying, "I love Wikileaks." </s> 
+wikipedia.org | <s> We love Duke and Anna together too, and I thought originally, "We are really going to play it this way?" </s> 
+wikipedia.org | <s> Of the role, Marron says, "I love seeing an out gay character who hasn't figured it all out. ... Ari not only feels flawed, but also a bit like he's still under construction." </s> 
+wikipedia.org | <s> The relevant lyrics are: "I was born the day I met you/Lived a while when you loved me/Died a little when we broke apart//Yesterday, it would have mattered/Now today, it doesn't mean a thing/All my hopes and dreams are shattered now." </s> 
+wikipedia.org | <s> "At its heart," said Chazelle, "this was a story about grief, about someone who lost a lot of people he loved , and what those losses did to him. </s> 
+wikipedia.org | <s> information on civil defence or rescue preparations and on safety investigations, if the release would endanger rescue work, civil defence preparations, safety or security or their continued development, or would endanger getting information in future safety investigations, or would hurt the victims of an accident, their memory or their loved ones (8) </s> 
+wikipedia.org | <s> "Mhysa": Jon tells Ygritte she always knew what he is, that they love each other, and Jon escapes while Ygritte shoots him three times. </s> 
+wikipedia.org | <s> Lady Gaga is very specific in what she wears and even states that, "But in a sense, I portray myself in a very androgynous way, and I love androgyny." </s> 
+wikipedia.org | <s> He was a critic but more importantly, he really loved movies, so, Gene, wherever you are, honey, here's to you." </s> 
+wikipedia.org | <s> "At last, Kelly Clarksonr records a theme song for all her sports loving fans – Get Up (A Cowboys Anthem)". </s> 
+wikipedia.org | <s> "The Gores love their new Gladstone, N.J., home, on nearly four acres of land with a 1.5-mile commute to the office. </s> 
+wikipedia.org | <s> "Also, I love Gabe, played by the great Alex Corrado. #Gotham #bonsaitree" (Tweet) – via Twitter. </s> 
+wikipedia.org | <s> The campaign proclaimed to consumers to ignore the "... trolls behind a keyboard", and "Audiences loved Gotti but critics don't want you to see it... </s> 
+wikipedia.org | <s> Then we can't hear our brothers and sisters, or listen to their needs, letting them hear Paul or John as needed, so that they, too, can worship God with all their hearts and love their neighbors as themselves..." </s> 
+wikipedia.org | <s> 1969 – "Duminica cuvintelor" (The Words of Sunday) by "Lumina" publishing house with illustrations by Igor Vieru, a book much loved by pre-schoolers, which is present in every kindergarten; </s> 
+wikipedia.org | <s> " Love Don't You Go Through No Changes On Me" brought newcomers "Sister Sledge" into the national spotlight, placing them on: </s> 
+wikipedia.org | <s> "I never looked back, I love the look of them, the efficiency... they are so easy to use, now I'm hooked!" </s> 
+wikipedia.org | <s> In 2013, Complex ranked Heather as the 36th greatest heroine in video game history, stating that they still " love " her "despite the massive pile of fail known as Silent Hill Revelation 3D." </s> 
+wikipedia.org | <s> "Never Again" (originally written in the aftermath of Fairport Convention's devastating tour bus crash in 1969) portrays an old man looking back on a life devastated by the unexpected loss of loved ones. </s> 
+wikipedia.org | <s> "The @mnek remix of Holiday is here 🌅☀️ We love love love this remix, so turn it up for a night to remember 💛 lttlmx.com/HolidayRemixMNEK" (Tweet). </s> 
+wikipedia.org | <s> had the impertinence, no, the hubris to utter those most terrifying of words, "I love you," what did they mean by them? </s> 
+wikipedia.org | <s> His longtime rival Alexandru Macedonski was saddened by the news of his death, and, in a letter to Adevărul, argued that he preferred Caragiale's humor to that of the American Mark Twain, stressing that "e attacked each other often because we loved each other a lot." </s> 
+wikipedia.org | <s> I love those, but Iron Man is refreshing in a way because it's something out of my realm of experiences." </s> 
+wikipedia.org | <s> WIP 6610 - Bob Marley & The Wailers: "Could You Be Loved" b/w "One Drop", 1980; Could You Be Loved (12": 12WIP 6610) </s> 
+wikipedia.org | <s> I love my life, and I love doing it, but it's not like, "Oh, I need this new thing." </s> 
+wikipedia.org | <s> Carbstrong has also commented that "We can't love animals whilst we're consuming their flesh or paying for them to go into a slaughterhouse," and that "Slaughterhouse workers are a product of a sick society who want to consume animal flesh." </s> 
+wikipedia.org | <s> "Expert mountain-climber, skater, skier, and tennis-player, chess enthusiast, voracious reader of everything new in non-fiction and anything exciting in murder mysteries, a stickler for accuracy and for the correct use of words, vigorous individualist and champion of justice and American democracy ... [who loved God through his fellow men" was how Tettemer was described by John Burton in the introduction to Tettemer's autobiography. </s> 
+wikipedia.org | <s> A Woman of the Sea (1926, also known as The Sea Gull or Sea Gulls or The Woman who loved once, lost) </s> 
+wikipedia.org | <s> He loved the truth of science, but he loved more the truths of the gospel of Jesus Christ ... He had a strong will, was pronounced in his opinions, but he was always submissive to the majority decisions of his brethren." </s> 
+wikipedia.org | <s> Describing her as the girl who doesn't cut and run, additionally stating "It would take a lot for her to walk away from this relationship - she feels like this is the man she loves , she understands who she's married to - she knows she didn't marry a boy scout." </s> 
+wikipedia.org | <s> Although Henry and Katie's friendship remained strong, Henry's portrayer Trent Dawson said that "Katie loved Henry, but she wasn't in love with him." </s> 
+wikipedia.org | <s> Reading the report of Genesis 21:25, "And Abraham reproved Abimelech," Rabbi Jose ben Rabbi Hanina taught that reproof leads to love , as Proverbs 9:8 says, "Reprove a wise man, and he will love you." </s> 
+wikipedia.org | <s> " Love her! </s> 
+wikipedia.org | <s> He said the Taylors will "bring the breath of fresh air that" the Jackson family did upon their arrival and like other established, popular EastEnders families, they "will divide opinion, but within six months, I think the audience will love them" and "will help re-calibrate what the show is." </s> 
+wikipedia.org | <s> He was paranoid of the game, convinced that the teachers were the enemy and that the Bugger War was fake so that all children with ability for command were in the hands of the International Fleet; however, he loved the game, so he stayed as a toon leader. </s> 
+wikipedia.org | <s> She was so emotionally involved in his painting that one day Dewis wondered aloud whether his daughter would have loved him as much, "if I'd been a grocer." </s> 
+wikipedia.org | <s> " Love Again" is a song by American recording artist Brandy and Canadian recording artist Daniel Caesar from Caesar's second album Case Study 01 and later, Brandy's seventh album B7. </s> 
+wikipedia.org | <s> Oh Land discusses loving someone to a deeper extent as she ages: "I will wrap my arms around you and keep you from the cold / I will love you better when I'm old". </s> 
+wikipedia.org | <s> " Love You Down" is the title of an R&B song written by Melvin Riley Jr. Riley's former band, Ready for the World, originally recorded the song in 1986 and released it as the lead single from their second album, Long Time Coming produced by Gary Spaniola. </s> 
+wikipedia.org | <s> "Love Your Love the Most" is a mid-tempo song in which the male narrator lists off various objects that he likes (e.g. "Yes, I love good cold beer / And mustard on my fries / I love a good loud honky-tonk / That rocks on Friday nights"). </s> 
+wikipedia.org | <s> , words which echo Moses' declaration to the people of Israel in Deuteronomy 7:13: " will love you and bless you and multiply you; He will also bless the fruit of your womb". </s> 
+wikipedia.org | <s> Beyoncé sings the line as "Hold up, they don't love you like I love you," which was based on a 2011 tweet from Vampire Weekend frontman Ezra Koenig paraphrasing "Maps." </s> 
+wikipedia.org | <s> Haggard also had an interest in jazz music, and stated in an interview in 1986 that he wanted to be remembered as "the greatest jazz guitar player in the world that loved to play country." </s> 
+wikipedia.org | <s> We have a song called 'Violent Pornography' in System of a Down, and the lyrics are: 'It's a non-stop disco/Betcha didn't know/Betcha didn't know ...' That line means, 'I love disco, betcha didn't know.' </s> 
+wikipedia.org | <s> "Burn Out" is a classic country heartbreak song that describes a guy who was consumed by a girl that he was so in love with. </s> 
+wikipedia.org | <s> However, Professor Elemental had a short appearance in Mr. B's music video for the song "Just Like a Chap", of which Professor Elemental said "Much as I hate to admit it, I bloody love that video and am jolly glad let me gate crash." </s> 
+wikipedia.org | <s> Those who have been waiting for more of what Plumb does best will find a lot to love in Need You Now, as it shows off the many sides of Tiffany Lee and makes another strong entry in her career's beautiful history." </s> 
+wikipedia.org | <s> Joel famously played the song at The Concert for New York City, the October 2001 benefit concert for the New York City Fire and Police Departments and the loved ones of families of first responders lost during the terrorist attack on New York City on 9/11. </s> 
+wikipedia.org | <s> Nicola and I always joke around saying we want to make these tee shirts that say "fuck fashion" on them because we love fashion so much but in another way we want to explode it, ruin it and recreate it, then ruin it again and recreate it because I don't want any status attached to fashion. </s> 
+wikipedia.org | <s> "Seven friends, struggling with late 20s, early 30s life, find themselves in terrifying danger when a long dead loved one is magically resurrected and starts devouring souls. </s> 
+wikipedia.org | <s> But chemistry among Nick, Kate and Zoe is curiously lacking, except when we sense some fondness–not really love –between Zoe and her potential new dad ... the characters seem to feel more passion for food than for each other." </s> 
+wikipedia.org | <s> Parmentel was associated in several ventures with the novelist Norman Mailer (who said of him, according to Dunne, "I must love him, otherwise I'd kill him," but who spoke of Parmentel as "a marvelously funny guy." </s> 
+wikipedia.org | <s> ^ Sheridan Morley, notes for First Night CD of 1994 London cast recording of She Loves Me. The Beatles' record, She Loves You, was a massive hit in 1963. </s> 
+wikipedia.org | <s> She added, " found someone to love her quirks and all, which made her perfectly OK with being exactly who she is." </s> 
+wikipedia.org | <s> "One way you can help is to find a child who needs somebody older in their life who can put their arm around them and say, "I love you," "There's hope for you," "What can I do to help you succeed in America?' </s> 
+wikipedia.org | <s> Nguyen Thi Dinh was a good person for the people of Ben Tre that hundred of thousands took to the street in the memory of her love the people of Vietnam and especially Ben Tre </s> 
+wikipedia.org | <s> "I love my golf but because of my arthritis, I've not played much in the last two years, if any. </s> 
+wikipedia.org | <s> ^ "We The Kingdom on Instagram: "We are grateful that this day is here and that our new single, "God So Loved ", from our upcoming record is out. </s> 
+wikipedia.org | <s> Miluju tě k zbláznění (I love you madly; samizdat, 1988) / Topol's first collection of poetry, published in samizdat, received the Tom Stoppard Prize for Unofficial Literature (founded in 1983 by Tom Stoppard and awarded by the Charta 77 Foundation in Stockholm); first non-samizdat edition published by Atlantis in 1990. </s> 
+wikipedia.org | <s> When Ergaste tells the Marquise that he loves her she then responds, "I believe you; but have you never loved anyone more than me?" </s> 
+wikipedia.org | <s> So that you understand completely that the path of our lives is crossed by terrible demons, and that we should raise our hands to God in supplication, begging him, begging him fervently to defend us from them, to defend our loved ones from them!" </s> 
+wikipedia.org | <s> Cricket has a crush on Goat, and while she has hugged him (and Banana/Pig simultaneously) and said she loves him, this can simply be behavior towards a pal. </s> 
+wikipedia.org | <s> Daly points out that the initiative is entirely with the Father who " loved us and sent his Son as expiation for our sins" (1 John 4:10 NAB), and that "when we see the sacrifice of Christ and the sacrifice of the Mass as a Trinitarian event, we see that, strictly speaking, there are no recipients." </s> 
+wikipedia.org | <s> She forlornly hopes that "you still love me" – "quelqu'un m'a dit / Que tu m'aimais encore," ("Somebody told me / that you loved me still") – recalling that somebody told her, but she cannot remember who. </s> 
+wikipedia.org | <s> The result is a three-ring sideshow in the snow ..." The Denver Post described Telluride Smile as "a wonderfully bittersweet and entertaining satire of the state we all know and love ." </s> 
+wikipedia.org | <s> Suppose that she really begins to believe that I am a deceiver, suppose she falls in love with someone else, something which in many respects I naturally wish would happen – suppose that she then suddenly comes to know that I have really loved her, that I did this out of love for her, out of a deep conviction that it would never work, or in any case that with the greatest joy in the world and gratitude to God I would share all my joy with her, but not my sorrow – alas, the last can be worse than the first." </s> 
+wikipedia.org | <s> This makes God out to be a lying trickster who doesn't love us enough to tell us what He expects us to do." </s> 
+wikipedia.org | <s> Martensen told his father he thought that life was slipping away, that he thought it was his time, that he loved him, and that was going to remove the oxygen; Martensen's father replied, "thank you." </s> 
+wikipedia.org | <s> The Times gave it a score of four stars out of five and called it "a third-person shooter with smooth, detailed graphics, and a learning curve set so beautifully that even non-shooter fans should love it." </s> 
+wikipedia.org | <s> Short-stay breaks for people who are cared for in their own homes so that families can have a rest from taking care of a loved one </s> 
+wikipedia.org | <s> Podcasts appeared up and down the fest lineup, with live recordings of The West Wing Weekly with Joshua Malina and Hrishikesh Hirway and special guest Bradley Whitford; StarTalk Live with Bill Nye the Science Guy and Eugene Mirman and guests Claudia O'Doherty and Ariel Waldman; Judge John Hodgman with musical guest Sara Watkins; Nerdist Podcast with Chris Hardwick, Matt Mira, and Jonah Ray and guest Nathan Fillion; I Seem Fun: The Diary of Jen Kirkman Podcast; The JV Club with Janet Varney and guests Rachel Dratch, Jon Hamm and musical guest Matt Nathanson; Stuff You Should Know with Josh Clark and Chuck Bryant; Crybabies with Susan Orlean and Sarah Thyre and guest Mary Roach; Doug Loves Movies with Doug Benson; How To Be Amazing with Michael Ian Black and guest Grace Helbig; Harmontown with Dan Harmon and Jeff B. Davis; Spontaneanation with Paul F. Tompkins and guests Eugene Cordero, Tawny Newsome, Eban Schletter, Janet Varney, and Busy Philipps; Audible presents Hold On with Eugene Mirman with guests Marina Franklin, Busy Philipps, Andy Richter and Alice Wetterlund; Come To Papa with Tom Papa; Comedy Film Nerds; Doughboys with Mike Mitchell and Nick Wiger; Guys We F@#ked: The Experience; Hello From the Magic Tavern; Hound Tall with Moshe Kasher; Illogical Contraption; improv4humans with Matt Besser ; International Waters with Dave Holmes; John Hodgman and Adam Savage: A Spin-A-Wheel Conversation; Jordan, Jesse, Go! with guest Travis McElroy; Kevin McDonald's Kevin McDonald Show; Kill Tony with Tony Hinchcliffe and Brian Redban; Pop My Culture: The Final Episode with Cole Stratton and Vanessa Ragland and guests Paul F. Tompkins, Samm Levine, and Rhett Miller; Rock Solid with Pat Francis and special guest "Weird Al" Yankovic 
+wikipedia.org | <s> With regards to international performance, the challenges of performing at a festival halfway around the globe are defined thus: "Fury mentioned that learning to say "Scatterheart loves you!" </s> 
+wikipedia.org | <s> We love Ronny who is a fantastic drummer in his own right, but have had to realise our musical differences and preferences which, while considering the chemistry of the band and its future, became too great to continue with." </s> 
+wikipedia.org | <s> British Prime Minister Alec Douglas-Home made a gaffe in February 1964: his speechwriters, trying to make him appear in touch with popular culture, wrote him the line, "I'm too modest to claim the country loves us, but you know that can't be bad." </s> 
+wikipedia.org | <s> This is especially common in some words that historically had ⟨f⟩ instead of ⟨v⟩, such as give and love ; in Old English, /f/ became /v/ when it appeared between two vowels (OE giefan, lufu), while a geminated ⟨ff⟩ lost its doubling to yield /f/ in that position. </s> 
+wikipedia.org | <s> As she loved the vibe and was amazed by how one person can transfer his energy to an entire crowd with music, she realized that "when you are a DJ, you have this special connection with people, I think that's amazing!" </s> 
+wikipedia.org | <s> The flashes of memory became more intense, and Steve, with Kayla holding on to him in an attempt to snap him out of his erratic state, fell; catching his breath, he realized Kayla could be the love of his life, his memory had returned, telling Kayla tearfully, "I remember loving you!" </s> 
+wikipedia.org | <s> "Check Yes or No" and "I Know She Still Loves Me" were both released from this set as singles. </s> 
+wikipedia.org | <s> "At first we listened to Television, 13th Floor Elevators, Doors, Magazine, Bunnymen etc.. and we just copied that, but we also loved P-funk and it was seeing the Mondays that really had a big influence on us, they showed us you could be anyone and do twisted funk, when Wags got a wah-wah pedal that changed us, then all the Chicago house stuff at the Hacienda, at first we kind of shunned it, but it was Acid House with the synths that we 'got' and then it was like a new dawn happen and old dirty mac Manchester, lost the industrial edge and became more Day-Glo." </s> 
+wikipedia.org | <s> I love how after picking a bloody molar out of his hair he feels the need to share that he is having a 'really stressful day.' </s> 
+wikipedia.org | <s> Speaking on the album in 2000, Wonder said, "It wasn't so much that I wanted to say anything except where I wanted to just express various many things that I felt–the political point of view that I have, the social point of view that I have, the passions, emotion and love that I felt, compassion, the fun of love that I felt, the whole thing in the beginning with a joyful love and then the pain of love." </s> 
+wikipedia.org | <s> "Why I left what I loved to do, for those I love the most, only to discover what I love to do even more than wrestling... </s> 
+wikipedia.org | <s> Some of the show's catchphrases, such as "I love it when a plan comes together", "Hannibal's on the jazz", and "I ain't gettin' on no plane!" </s> 
+wikipedia.org | <s> "The Appeal doesn't go too far left to make Gucci Mane's detractors change their minds, and it doesn't go too far right to make his fans love him any more than they already do. </s> 
+wikipedia.org | <s> The bottom line is this: fans of the Zimmer style will love it, fans and of the current Batman style will love it, whereas anyone whose musical tastes tend to veer towards the predominantly orchestral will find a great deal of it boring, or unpalatable, or both." </s> 
+wikipedia.org | <s> 'The Flavour Thesaurus' fills a very wide gap in the market- a book for those who not only love to eat, but, perhaps more importantly, to think. </s> 
+wikipedia.org | <s> "(Remember Me) I'm the One Who Loves You" (1956) – (Remake of the Stuart Hamblen c/w hit) </s> 
+wikipedia.org | <s> " While his parents overcame cancer, he began to focus on the concept of a young man saving a loved one from a life-threatening disease. </s> 
+wikipedia.org | <s> " would love to have had "Sleepy Hamlet" which was in the can and "The Golden Calf Played Rock 'n' Roll" which was recorded but not used " </s> 
+wikipedia.org | <s> Lin Dandan of the Southern Metropolis Daily has given the drama a four out of five stars, lauded that the drama has "captivating court room scenes in every episode, allowing those who love legal dramas to enjoy it to the max." </s> 
+wikipedia.org | <s> Frank Scheck of the Hollywood Reporter wrote that the show "plays like an overconceived concert, with Tharp's choreography, as vibrant and physical as it is here, lacking the variety of her earlier work"; Scott Brown of Entertainment Weekly called the production "utterly wrongheaded," with Tharp demonstrating that "she clearly has no choreographic bond with music"; Rob Sheffield of Rolling Stone wrote that "t's hard to describe the show without making it sound like a stoned nightmare," and that "the Broadway belters have no feel for Dylan's meter or melodies; they just ham up the songs with dumb touches like Ahrab grinding his hips as he sings, 'She makes love just like a woman!' </s> 
+wikipedia.org | <s> "I go back to Nebraska to photograph cranes on the Platte because that's where I grew up, and I love cranes, and I love being there." </s> 
+wikipedia.org | <s> The release drew interest from the likes of Revolt TV who described Fred as a "well-rounded artist who can not only pen the songs you love , but deliver sonically as well." </s> 
+wikipedia.org | <s> "In an email sent in August, Lambesis told his wife he had been having an affair and no longer loved her the prosecutor said in court. </s> 
+wikipedia.org | <s> "To All the Girls I've Loved Before" went to number one on the country chart, and was one of two entries on the country chart for Julio Iglesias and Willie Nelson as duo (the second was "Spanish Eyes", which peaked at #8 in late 1988). </s> 
+wikipedia.org | <s> Some queer heterosexuals are strongly aligned with queer community, culture, politics, and activism but happen to love and lust after people of a different gender. </s> 
+wikipedia.org | <s> We know we have the backing of all the political forces, the 42 million Italians who love football, the public authorities, football clubs and the business world." </s> 
+wikipedia.org | <s> "Joyful, Joyful", "Blessed Redeemer", and "Glorious Day (Living He Loved Me)" were adopted from classic hymns. </s> 
+wikipedia.org | <s> According to Daniel Kreps of Rolling Stone that could be seen in the lines of the chorus, "I don't know why I cry / But I think it's cause I remember for the first time / Since I hated you / That I used to love you." </s> 
+wikipedia.org | <s> Antiquiet gave it 4 1/2 stars out of 5 and declared that "Kasabian has found a way to channel everything you love about The Rolling Stones, Led Zeppelin and Radiohead while still keeping the unique sound that sets them apart from the contemporaries like Coldplay, Muse and The Killers." </s> 
+wikipedia.org | <s> Newton has stated, "My two loves in life, from the time I can remember, were music and horses, and I couldn't decide which I loved more." </s> 
+wikipedia.org | <s> I also wanted her children to have a complete understanding of who I was - not a harsh stern grand parent but one that was fun and would love them and be good to know so We Laughed, relaxed and free." </s> 
+wikipedia.org | <s> In an interview with MTV, Shinoda stated why he chose to write from that point of view, saying "A lot of people do songs about being on the road, and I wanted to do this song about the opposite perspective: the people who are at home, your family, your friends, your loved ones who are at home." </s> 
+wikipedia.org | <s> He did not cancel a scheduled performance and within hours of his ex-wife's sudden death, an audience in Mississippi observed as Brown blew kisses skyward, tearfully saying: "I love you, Whitney." </s> 
+wikipedia.org | <s> He justified his action by claiming it might hurt Wilton families "who had lost loved ones or who had individuals serving as we speak," and that there was not enough classroom and rehearsal time to ensure it would provide "a legitimate instructional experience for our students." </s> 

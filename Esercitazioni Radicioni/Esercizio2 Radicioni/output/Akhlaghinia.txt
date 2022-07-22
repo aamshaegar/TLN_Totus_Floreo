@@ -1,0 +1,428 @@
+***************** Disambiguate frames *****************
+frame: Existence:
+ - Synset annotation: being.n.01
+ - Best Synset: Synset('being.n.01')
+ - Correct!
+------------------------------
+frame: activity:
+ - Synset annotation: being.n.01
+ - Best Synset: Synset('activity.n.01')
+ - Wrong!
+------------------------------
+frame: teaching:
+ - Synset annotation: education.n.01
+ - Best Synset: Synset('teach.v.01')
+ - Wrong!
+------------------------------
+frame: Immobilization:
+ - Synset annotation: immobilization.n.02
+ - Best Synset: Synset('immobilization.n.01')
+ - Wrong!
+------------------------------
+frame: scenario:
+ - Synset annotation: scenario.n.03
+ - Best Synset: Synset('scenario.n.01')
+ - Wrong!
+------------------------------
+***************** Disambiguate frame elements *****************
+frame element: Entity:
+ - Synset annotation: entity.n.01
+ - Best Synset: Synset('entity.n.01')
+ - Correct!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.01
+ - Best Synset: Synset('time.n.05')
+ - Wrong!
+------------------------------
+frame element: Duration:
+ - Synset annotation: duration.n.01
+ - Best Synset: Synset('duration.n.01')
+ - Correct!
+------------------------------
+frame element: purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: State:
+ - Synset annotation: state.n.02
+ - Best Synset: Synset('state.n.02')
+ - Correct!
+------------------------------
+frame element: Explanation:
+ - Synset annotation: explanation.n.01
+ - Best Synset: Synset('explanation.n.01')
+ - Correct!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('topographic_point.n.01')
+ - Correct!
+------------------------------
+frame element: Circumstances:
+ - Synset annotation: circumstance.n.01
+ - Best Synset: Synset('circumstance.n.01')
+ - Correct!
+------------------------------
+frame element: Viewpoint:
+ - Synset annotation: point_of_view.n.01
+ - Best Synset: Synset('point_of_view.n.01')
+ - Correct!
+------------------------------
+frame element: Concessive:
+ - Synset annotation: concessive.a.01
+ - Best Synset: Synset('concessive.a.01')
+ - Correct!
+------------------------------
+frame element: Content:
+ - Synset annotation: content.n.01
+ - Best Synset: Synset('message.n.02')
+ - Wrong!
+------------------------------
+frame element: Evidence:
+ - Synset annotation: evidence.n.01
+ - Best Synset: Synset('evidence.n.01')
+ - Correct!
+------------------------------
+frame element: Topic:
+ - Synset annotation: subject.n.01
+ - Best Synset: Synset('subject.n.01')
+ - Correct!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.01')
+ - Correct!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.02
+ - Best Synset: Synset('manner.n.01')
+ - Wrong!
+------------------------------
+frame element: Role:
+ - Synset annotation: function.n.03
+ - Best Synset: Synset('function.n.03')
+ - Correct!
+------------------------------
+frame element: Paradigm:
+ - Synset annotation: paradigm.n.04
+ - Best Synset: Synset('paradigm.n.01')
+ - Wrong!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.01
+ - Best Synset: Synset('time.n.05')
+ - Wrong!
+------------------------------
+frame element: Teacher:
+ - Synset annotation: teacher.n.01
+ - Best Synset: Synset('teacher.n.01')
+ - Correct!
+------------------------------
+frame element: Student:
+ - Synset annotation: student.n.01
+ - Best Synset: Synset('scholar.n.01')
+ - Wrong!
+------------------------------
+frame element: Institution:
+ - Synset annotation: institution.n.02
+ - Best Synset: Synset('institution.n.02')
+ - Correct!
+------------------------------
+frame element: Subject:
+ - Synset annotation: discipline.n.01
+ - Best Synset: Synset('discipline.n.01')
+ - Correct!
+------------------------------
+frame element: Qualification:
+ - Synset annotation: qualification.n.01
+ - Best Synset: Synset('qualification.n.01')
+ - Correct!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.01')
+ - Correct!
+------------------------------
+frame element: Depictive:
+ - Synset annotation: delineative.s.01
+ - Best Synset: Synset('delineative.s.01')
+ - Correct!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('manner.n.01')
+ - Correct!
+------------------------------
+frame element: Means:
+ - Synset annotation: means.n.01
+ - Best Synset: Synset('means.n.01')
+ - Correct!
+------------------------------
+frame element: Result:
+ - Synset annotation: consequence.n.01
+ - Best Synset: Synset('consequence.n.01')
+ - Correct!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.01
+ - Best Synset: Synset('time.v.05')
+ - Wrong!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('stead.n.01')
+ - Wrong!
+------------------------------
+frame element: Duration:
+ - Synset annotation: duration.n.01
+ - Best Synset: Synset('duration.n.01')
+ - Correct!
+------------------------------
+frame element: Skill:
+ - Synset annotation: skill.n.01
+ - Best Synset: Synset('skill.n.01')
+ - Correct!
+------------------------------
+frame element: Precept:
+ - Synset annotation: principle.n.05
+ - Best Synset: Synset('principle.n.05')
+ - Correct!
+------------------------------
+frame element: Fact:
+ - Synset annotation: fact.n.01
+ - Best Synset: Synset('fact.n.01')
+ - Correct!
+------------------------------
+frame element: Material:
+ - Synset annotation: material.n.04
+ - Best Synset: Synset('material.n.01')
+ - Wrong!
+------------------------------
+frame element: Role:
+ - Synset annotation: function.n.03
+ - Best Synset: Synset('function.n.03')
+ - Correct!
+------------------------------
+frame element: Course:
+ - Synset annotation: course.n.01
+ - Best Synset: Synset('course.n.01')
+ - Correct!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: Agent:
+ - Synset annotation: agentive_role.n.01
+ - Best Synset: Synset('agent.n.01')
+ - Wrong!
+------------------------------
+frame element: Instrument:
+ - Synset annotation: instrument.n.02
+ - Best Synset: Synset('instrument.n.02')
+ - Correct!
+------------------------------
+frame element: Patient:
+ - Synset annotation: affected_role.n.01
+ - Best Synset: Synset('patient.n.01')
+ - Wrong!
+------------------------------
+frame element: Means:
+ - Synset annotation: means.n.01
+ - Best Synset: Synset('means.n.01')
+ - Correct!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.01
+ - Best Synset: Synset('time.n.01')
+ - Correct!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('place.v.06')
+ - Wrong!
+------------------------------
+frame element: Anchor:
+ - Synset annotation: anchor.v.01
+ - Best Synset: Synset('anchor.n.01')
+ - Wrong!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.02')
+ - Wrong!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('manner.n.01')
+ - Correct!
+------------------------------
+frame element: entity:
+ - Synset annotation: entity.n.01
+ - Best Synset: Synset('entity.n.01')
+ - Correct!
+------------------------------
+frame element: Trigger:
+ - Synset annotation: trigger.n.03
+ - Best Synset: Synset('trigger.n.03')
+ - Correct!
+------------------------------
+frame element: Response:
+ - Synset annotation: reception.n.01
+ - Best Synset: Synset('reaction.n.03')
+ - Wrong!
+------------------------------
+frame element: Agent:
+ - Synset annotation: agentive_role.n.01
+ - Best Synset: Synset('agent.n.03')
+ - Wrong!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('manner.n.01')
+ - Correct!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('put.v.01')
+ - Wrong!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.01
+ - Best Synset: Synset('time.n.03')
+ - Wrong!
+------------------------------
+***************** Disambiguate lexical units *****************
+lexical unit: exist:
+ - Synset annotation: exist.v.01
+ - Best Synset: Synset('exist.v.01')
+ - Correct!
+------------------------------
+lexical unit: existence:
+ - Synset annotation: being.n.01
+ - Best Synset: Synset('being.n.01')
+ - Correct!
+------------------------------
+lexical unit: real:
+ - Synset annotation: real.a.01
+ - Best Synset: Synset('real.a.01')
+ - Correct!
+------------------------------
+lexical unit: be:
+ - Synset annotation: be.v.01
+ - Best Synset: Synset('be.v.03')
+ - Wrong!
+------------------------------
+lexical unit: student:
+ - Synset annotation: scholar.n.01
+ - Best Synset: Synset('student.n.01')
+ - Wrong!
+------------------------------
+lexical unit: teacher:
+ - Synset annotation: teacher.n.01
+ - Best Synset: Synset('teacher.n.01')
+ - Correct!
+------------------------------
+lexical unit: professor:
+ - Synset annotation: professor.n.01
+ - Best Synset: Synset('professor.n.01')
+ - Correct!
+------------------------------
+lexical unit: lecturer:
+ - Synset annotation: lecturer.n.02
+ - Best Synset: Synset('lecturer.n.02')
+ - Correct!
+------------------------------
+lexical unit: schoolmaster:
+ - Synset annotation: schoolmaster.n.02
+ - Best Synset: Synset('headmaster.n.01')
+ - Wrong!
+------------------------------
+lexical unit: study:
+ - Synset annotation: study.v.05
+ - Best Synset: Synset('study.v.05')
+ - Correct!
+------------------------------
+lexical unit: tutor:
+ - Synset annotation: tutor.v.02
+ - Best Synset: Synset('tutor.v.01')
+ - Wrong!
+------------------------------
+lexical unit: coach:
+ - Synset annotation: coach.v.01
+ - Best Synset: Synset('coach.n.01')
+ - Wrong!
+------------------------------
+lexical unit: learn:
+ - Synset annotation: learn.v.01
+ - Best Synset: Synset('learn.v.01')
+ - Correct!
+------------------------------
+lexical unit: train:
+ - Synset annotation: teach.v.01
+ - Best Synset: Synset('discipline.v.01')
+ - Wrong!
+------------------------------
+lexical unit: training:
+ - Synset annotation: train.v.02
+ - Best Synset: Synset('train.v.02')
+ - Correct!
+------------------------------
+lexical unit: teach:
+ - Synset annotation: teach.v.01
+ - Best Synset: Synset('teach.v.01')
+ - Correct!
+------------------------------
+lexical unit: instruction:
+ - Synset annotation: education.n.01
+ - Best Synset: Synset('education.n.01')
+ - Correct!
+------------------------------
+lexical unit: education:
+ - Synset annotation: education.n.01
+ - Best Synset: Synset('education.n.03')
+ - Wrong!
+------------------------------
+lexical unit: graduate:
+ - Synset annotation: alumnus.n.01
+ - Best Synset: Synset('alumnus.n.01')
+ - Correct!
+------------------------------
+lexical unit: tie:
+ - Synset annotation: tie.v.01
+ - Best Synset: Synset('link.n.02')
+ - Wrong!
+------------------------------
+lexical unit: lock:
+ - Synset annotation: lock.v.03
+ - Best Synset: Synset('lock.v.03')
+ - Correct!
+------------------------------
+lexical unit: handcuff:
+ - Synset annotation: manacle.v.01
+ - Best Synset: Synset('manacle.v.01')
+ - Correct!
+------------------------------
+lexical unit: shackle:
+ - Synset annotation: shackle.n.01
+ - Best Synset: Synset('shackle.n.01')
+ - Correct!
+------------------------------
+lexical unit: straitjacket:
+ - Synset annotation: straitjacket.n.02
+ - Best Synset: Synset('straitjacket.n.01')
+ - Wrong!
+------------------------------

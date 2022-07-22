@@ -1,0 +1,41 @@
+// <Lattice object of 6 atoms 9 concepts 6 coatoms at 0x247c331c970>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=carry labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel=acl]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=university labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel=nsubj]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=become labelangle=270]
+	c3 -> c3 [color=transparent labelangle=90 taillabel=ROOT]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=model labelangle=270]
+	c4 -> c4 [color=transparent labelangle=90 taillabel=attr]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel="new many" labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel=amod]
+	c5 -> c0
+	c6
+	c6 -> c6 [color=transparent headlabel="reform turin" labelangle=270]
+	c6 -> c6 [color=transparent labelangle=90 taillabel=pobj]
+	c6 -> c2
+	c7
+	c7 -> c7 [color=transparent headlabel="victor amadeus reference" labelangle=270]
+	c7 -> c7 [color=transparent labelangle=90 taillabel=compound]
+	c7 -> c0
+	c8
+	c8 -> c1
+	c8 -> c3
+	c8 -> c4
+	c8 -> c5
+	c8 -> c6
+	c8 -> c7
+}

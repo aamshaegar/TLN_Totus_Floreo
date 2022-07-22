@@ -1,0 +1,1005 @@
+corpus: preloaded/ententen20_tt31_1
+subcorpus: English Wikipedia
+size: 1082464
+query: Query:[lempos_lc="(create)-v"], GDEX:1000
+Reference,Sentence
+wikipedia.org | <s> It was created in 1954, combining four smaller districts. </s> 
+wikipedia.org | <s> Many straight new roads were created at the same time. </s> 
+wikipedia.org | <s> He specializes in magic creating fire, light and heat. </s> 
+wikipedia.org | <s> Together these create a strong and lightweight platform. </s> 
+wikipedia.org | <s> Players will also be permitted to create their own house rules. </s> 
+wikipedia.org | <s> A tribute page has been created . </s> 
+wikipedia.org | <s> The sculpture was created by Thomas Nicholls. </s> 
+wikipedia.org | <s> Modern marine aquariums try to create natural environments. </s> 
+wikipedia.org | <s> Several rock shelters or caves were created during this period. </s> 
+wikipedia.org | <s> The church was created on that one simple anti-Semitic principle. </s> 
+wikipedia.org | <s> The character was created by artist George Peed in 1976. </s> 
+wikipedia.org | <s> New loyalties are made and tested, alliances created and lost. </s> 
+wikipedia.org | <s> A musical instrument is a device created or adapted to make musical sounds. </s> 
+wikipedia.org | <s> Such projects created a ghettoized underclass in America. </s> 
+wikipedia.org | <s> Only programs running in kernel mode can create an SRB. </s> 
+wikipedia.org | <s> On 22 May 1611 he was created Baronet. </s> 
+wikipedia.org | <s> The force created by this expansion is what creates an engine's power. </s> 
+wikipedia.org | <s> He created many of the examples (Winter 1999:214). </s> 
+wikipedia.org | <s> Social software environments create spaces for communal authorship. </s> 
+wikipedia.org | <s> Such marketing practice may create advertising efficiencies through the reduced costs of brand development. </s> 
+wikipedia.org | <s> The seat was created under the Redistribution of Seats Act 1885. </s> 
+wikipedia.org | <s> The fifteen ordinary regions, created in 1970, elected their third assemblies. </s> 
+wikipedia.org | <s> Ben Holiday is a fictional character created by Terry Brooks. </s> 
+wikipedia.org | <s> First created on February 12, 1909 in Springfield, Illinois. </s> 
+wikipedia.org | <s> On 17 August 1611 he was created cardinal and recalled from Madrid. </s> 
+wikipedia.org | <s> Arayashiki is the federation that the Eastern spell casters created . </s> 
+wikipedia.org | <s> His father was subsequently created Marquess of Milford Haven. </s> 
+wikipedia.org | <s> In 2013, a Confederation of Angolans in France was created . </s> 
+wikipedia.org | <s> It was created on 17 July 1622 for Edmund Prideaux. </s> 
+wikipedia.org | <s> This creates a slight random phase jitter when the device is pulsed. </s> 
+wikipedia.org | <s> Charles Preston created Quote-Acrostics for The Washington Post. </s> 
+wikipedia.org | <s> The list was created and maintained by journalist and statistician Konstantin Yesenin. </s> 
+wikipedia.org | <s> President Theodore Roosevelt created the Siskiyou National Forest in 1906. </s> 
+wikipedia.org | <s> REDBLACKS create buzz with new uniforms". </s> 
+wikipedia.org | <s> The KV-13 was an experimental Soviet medium tank created during World War II. </s> 
+wikipedia.org | <s> By 1998, UNC Charlotte created an automotive and motorsports engineering program. </s> 
+wikipedia.org | <s> It was created in 1917 and comprises three separately accredited universities on 19 campuses. </s> 
+wikipedia.org | <s> Isamu Noguchi later redesigned the set and created a new mask. </s> 
+wikipedia.org | <s> This system was created for weather forecast and statistics and was used for 15 years. </s> 
+wikipedia.org | <s> She gained recognition for creating and directing the 2017 horror web series La Quinceañera. </s> 
+wikipedia.org | <s> The Pripyat nature reserve was created in 1969 and Palessya nature reserve in 1988. </s> 
+wikipedia.org | <s> Wodehouse makes use of various stylistic devices in his stories to create humour. </s> 
+wikipedia.org | <s> In total TSSG has created 15 start-ups since its inception and 12 since 2006. </s> 
+wikipedia.org | <s> Bloomberg supported the Iraq War and opposed creating a timeline for withdrawing troops. </s> 
+wikipedia.org | <s> The map is believed to be the first ever commissioned or created of Rensselaerswyck. </s> 
+wikipedia.org | <s> These centers created village level digital entrepreneurs, nearly 63,000 of those were women entrepreneurs. </s> 
+wikipedia.org | <s> Mezcal is bottled straight or combined with flavorings to create cream style liquors. </s> 
+wikipedia.org | <s> In response, the British created a nuclear weapons project officially named Tube Alloys. </s> 
+wikipedia.org | <s> The USDA has also created a language to describe various severities of food insecurity. </s> 
+wikipedia.org | <s> Tami prepares by creating a makeshift shelter. </s> 
+wikipedia.org | <s> He also created series of landscapes and interiors, flower pieces and skulls. </s> 
+wikipedia.org | <s> Jan Griffier and his children, Jan and Robert, created the landscape. </s> 
+wikipedia.org | <s> The Circle studio was created in the round and now seats a maximum of 100. </s> 
+wikipedia.org | <s> The additions to the house which created its present form probably occurred during this time. </s> 
+wikipedia.org | <s> However, Nozaki has trouble creating a new script after meeting Kashima in person. </s> 
+wikipedia.org | <s> The show was created by Jason and Leisa Barry-Smith and Narelle French. </s> 
+wikipedia.org | <s> Flake tools could be sharpened by retouch to create scrapers or burins. </s> 
+wikipedia.org | <s> In 2018, Toledo supported a bill that created a new class of charter schools. </s> 
+wikipedia.org | <s> In 2005 together with Stephane Cabrera Iskenderov has created an online magazine Fightmag. </s> 
+wikipedia.org | <s> Each watercolour in the collection was created by a different elected member of the Society. </s> 
+wikipedia.org | <s> These development-focused organizations focus on creating economic opportunities, women's empowerment and education and training. </s> 
+wikipedia.org | <s> This is a cushion of conidiophores created from a pseudoparenchymatous stroma in plant tissue. </s> 
+wikipedia.org | <s> Starting in 2008, TinyURL allowed users to create custom, more meaningful aliases. </s> 
+wikipedia.org | <s> They are given a budget of $300 and two days to create this look. </s> 
+wikipedia.org | <s> Buxa Tiger Reserve was created in 1983 as the 15th tiger reserve in India. </s> 
+wikipedia.org | <s> Even before it was built, the ''Cocoon House'' created a sensation. </s> 
+wikipedia.org | <s> A coat of arms in the European heraldic sense was created in the late 19th century. </s> 
+wikipedia.org | <s> In September 2007, attempts to create the first secular school in Britain were blocked. </s> 
+wikipedia.org | <s> The design of the building not only made it distinct, but created high energy-efficiency. </s> 
+wikipedia.org | <s> It was created at the French canton reorganisation which came into effect in March 2015. </s> 
+wikipedia.org | <s> These artist development programs give artists funds for creating , in addition to space for artworks. </s> 
+wikipedia.org | <s> He says comedy creates a positive feeling in prospective customers when used in business-to-business content marketing. </s> 
+wikipedia.org | <s> There are certain things placed throughout the painting that create a sense of wonder or confusion. </s> 
+wikipedia.org | <s> There is also some art and woodwork created by school students in the early 20th century. </s> 
+wikipedia.org | <s> Later Rachel Antonoff attributed this experience with influencing the way in which she creates . </s> 
+wikipedia.org | <s> Kevin Patterson is a character created and played by the British comedian Harry Enfield. </s> 
+wikipedia.org | <s> Created by Emilio Aguinaldo as division of military health on June 23, 1898. </s> 
+wikipedia.org | <s> They created a new SQL interface, while keeping the same API as mSQL. </s> 
+wikipedia.org | <s> An act creating the Université du Québec was passed by the provincial legislative assembly in 1968. </s> 
+wikipedia.org | <s> The effect created by the arrangement of the stripes is meant to represent Yukon's many mountains. </s> 
+wikipedia.org | <s> However, when formation of states were announced on 1.11.1956, Vidarbha was not created . </s> 
+wikipedia.org | <s> This association created considerable doubt about their ability to credibly portray themselves as parties of change. </s> 
+wikipedia.org | <s> This wait creates small, but potentially serious delays if repeated constantly during a file transfer. </s> 
+wikipedia.org | <s> Zikaras also created a great number of bas-reliefs and busts depicting various famous Lithuanians. </s> 
+wikipedia.org | <s> It was a new seat created as a result of the one vote one value reforms. </s> 
+wikipedia.org | <s> Many criminals in the city are created because of this, including his own Deputy mayor. </s> 
+wikipedia.org | <s> Musically, the group fuses worship, roots and dancehall to create their own signature sound. </s> 
+wikipedia.org | <s> Together they created the basic Swan movement motifs and Cooper also contributed to the choreography. </s> 
+wikipedia.org | <s> In 1992, Grassley authored EPACT 1992, which created the federal wind energy tax credit. </s> 
+wikipedia.org | <s> The United Kingdom has around 100 Yugos still in existence and an owners club has been created . </s> 
+wikipedia.org | <s> The members of the corporation elect governors, who in turn create the organization's policies. </s> 
+wikipedia.org | <s> The house was created circa 1600 by John Sedley, an architect to Henry VII. </s> 
+wikipedia.org | <s> Sheriff of Berkshire, 1619-1620, and created baronet, 20 May 1620. </s> 
+wikipedia.org | <s> By the end of the scheme, 245 out of the planned 250 Greens were created . </s> 
+wikipedia.org | <s> Creating a program to find a knight's tour is a common problem given to computer science students. </s> 
+wikipedia.org | <s> Melvyn Grant, a long-time contributor to the band's artwork, created the cover art. </s> 
+wikipedia.org | <s> It offers a wide range of web hosting solutions for online businesses and webmasters to create websites. </s> 
+wikipedia.org | <s> Fédon appears to have managed to create a fledgeling bureaucracy during this period of relative calm. </s> 
+wikipedia.org | <s> Platte County was created from, and reverted to, Weld County, Colorado. </s> 
+wikipedia.org | <s> The first national gastrointestinal society was created in Germany in 1920 by Ismar Isidor Boas. </s> 
+wikipedia.org | <s> It was created on 5 December 1868 for Francis Knox-Gore, Lord Lieutenant of Sligo. </s> 
+wikipedia.org | <s> In 2016, a large pedestrian bridge he helped create in Wernigerode was renamed in his honor. </s> 
+wikipedia.org | <s> Evans County, Georgia, created on November 3, 1914, is named after Evans. </s> 
+wikipedia.org | <s> May be used in conjunction with Triethylborane to create triethylaluminum-triethylborane, better known as TEA-TEB. </s> 
+wikipedia.org | <s> A testamentary trust is created by a will and arises after the death of the settlor. </s> 
+wikipedia.org | <s> Rather than allowing Hantz Farms to purchase the land, many opponents proposed creating a community trust. </s> 
+wikipedia.org | <s> Template system- New projects can be created from sample templates, to avoid repetitive data input. </s> 
+wikipedia.org | <s> The Cumberland Company dammed nearby Cumberland Creek to create a permanent water supply for the township. </s> 
+wikipedia.org | <s> For African American escaped slaves, the military occupation of Alexandria created opportunity on an unprecedented scale. </s> 
+wikipedia.org | <s> In oxygenic photosynthesis, the first electron donor is water, creating oxygen as a waste product. </s> 
+wikipedia.org | <s> Saint Michael's has 155 full-time faculty members; creating a 12:1 student to faculty ratio on campus. </s> 
+wikipedia.org | <s> In 1785, parts of Lincoln County were divided off to create Mercer and Madison Counties. </s> 
+wikipedia.org | <s> Part 1 of a 4-part recording of H.M.S. Pinafore created by Edison Records in 1911. </s> 
+wikipedia.org | <s> The series was created by Stéphane Giusti, Alain Robillard and Alain Tasma. </s> 
+wikipedia.org | <s> Teachers can encourage critical thinking in a group setting by creating plans that include the students participating collectively. </s> 
+wikipedia.org | <s> The greater part of the rest of the décor was newly created in 1986 by Josef Henger. </s> 
+wikipedia.org | <s> However, in 1870 the estate of Młodzieszyn was divided and a village of Trojanów was created . </s> 
+wikipedia.org | <s> Also created in 1908 was Route 15, which initially began in Hornell and ended in Caledonia. </s> 
+wikipedia.org | <s> He helped create the Ontario Educational Communications Authority serving as its first chairman from 1970 to 1979. </s> 
+wikipedia.org | <s> MacWrite's inclusion with early Macintosh computers discouraged developers from creating other word processing software for the computer. </s> 
+wikipedia.org | <s> Though the constitution created a Supreme Court, it vested it with no judges and little power. </s> 
+wikipedia.org | <s> The artwork was created by long-time collaborators Blacklake, which features a Rorschach test ink-blot design. </s> 
+wikipedia.org | <s> FA was originally created by Caspar Milan Nielsen, Christian Øelund, and Brian Fuller. </s> 
+wikipedia.org | <s> Bolo is a video game initially created for the BBC Micro computer by Stuart Cheshire in 1987. </s> 
+wikipedia.org | <s> The Golf Channel soon created a celebrity edition of the show, this one to benefit charities. </s> 
+wikipedia.org | <s> A spotlight is any lighting instrument used in theater to create a pool of light on the stage. </s> 
+wikipedia.org | <s> In the library, Zero has created a spinning Christmas tree of books, wrapped in garlands. </s> 
+wikipedia.org | <s> Oscar winners Michel Legrand with Alan and Marilyn Bergman created an original song for the feature. </s> 
+wikipedia.org | <s> Grow an inclusive Boy Scouts of America by increasing membership and creating new inclusive Scouting units. </s> 
+wikipedia.org | <s> Tat Kun Tao is created by Joe Go, one of Venancio Bacon's earliest students. </s> 
+wikipedia.org | <s> At the daughter Chapel Royal at Hampton Court Palace, a permanent chorus was created in 1868. </s> 
+wikipedia.org | <s> The OCC was created in May 1994 by Glenda Crawford assuming the position as founder and director. </s> 
+wikipedia.org | <s> Larger member states will generally contribute their own Battlegroups, while smaller members are expected to create common groups. </s> 
+wikipedia.org | <s> March 20, 2006 - Amagi, Asakura and Haki were merged to create Asakura City. </s> 
+wikipedia.org | <s> The Chulabhorn Dam creates an artificial lake on the Nam Phrom River, covering about 12 km2. </s> 
+wikipedia.org | <s> Volleyball was created in Holyoke, Massachusetts, a city directly north of Springfield, in 1895. </s> 
+wikipedia.org | <s> Tetris is a falling-blocks puzzle video game, created by Soviet game designer Alexey Pajitnov in 1984. </s> 
+wikipedia.org | <s> Hobrecht-Plan of Berlin, another large-scale urban planning approach conducted by James Hobrecht, created in 1853. </s> 
+wikipedia.org | <s> In 1980, Lafontaine started using video in her sculptures and has created installations and environments utilizing video. </s> 
+wikipedia.org | <s> West Papua was legally created as a province in 1999, but it was not inaugurated until 2003. </s> 
+wikipedia.org | <s> An administrator can create tiers of storage by grouping disks based on performance, locality or reliability characteristics. </s> 
+wikipedia.org | <s> Atmospheric gases scatter blue light more than other wavelengths, creating a blue halo when seen from space. </s> 
+wikipedia.org | <s> The highly toxic oil later washed up on nearby beaches, creating a slick 15–20 cm thick. </s> 
+wikipedia.org | <s> The discs spread apart to create friction against the inner drum surface through the action of standard wheel cylinders. </s> 
+wikipedia.org | <s> In 2011, Wahl created a 10,000 square-foot Mona Lisa in a desert near Los Angeles. </s> 
+wikipedia.org | <s> By adulthood he desired to create a cooperative in the United States that would incorporate socialist values. </s> 
+wikipedia.org | <s> The CCRTA was created under the provisions of Chapter 161B of the Massachusetts General Laws in 1976. </s> 
+wikipedia.org | <s> A FAQ was created in November for people questioning Jelly Bean on their HTC Device. </s> 
+wikipedia.org | <s> The smooth figures of the foreground contrast strongly with the roughly-hewn background, created with a subbia chisel. </s> 
+wikipedia.org | <s> Like many Archie characters, Reggie has a number of relatives who are created for one story only. </s> 
+wikipedia.org | <s> Like the Upper Rhine, the Lower Rhine used to meander until engineering created a solid river bed. </s> 
+wikipedia.org | <s> Nixon strove to create a soap opera that was topical and could illustrate social issues for the audience. </s> 
+wikipedia.org | <s> They nest near the base of emergent vegetation in areas with vegetation creating a canopy above the nest. </s> 
+wikipedia.org | <s> Partners can create their own maps in VDEX format and use these to help students search the repository. </s> 
+wikipedia.org | <s> The plurality elections also created a strong incentive for consolidation in two large parties rather than multiple small parties. </s> 
+wikipedia.org | <s> The technology created for that film is the direct precursor of the technology used worldwide in 3D filmmaking today. </s> 
+wikipedia.org | <s> Wilson was a pioneer in Las Vegas youth soccer and was responsible for creating Nevada's first girls soccer league. </s> 
+wikipedia.org | <s> Final images of the Voyager program acquired by Voyager 1 to create the Solar System Family Portrait. </s> 
+wikipedia.org | <s> Gervais (1853) assigned this species to its own genus, creating the new combination Pristichampsus rollianti. </s> 
+wikipedia.org | <s> It was created by Professor X and Magneto, and was later enhanced by Dr. Hank McCoy. </s> 
+wikipedia.org | <s> It was created by the Local Government Act 1894 based on the Cheadle and Gatley urban sanitary district. </s> 
+wikipedia.org | <s> To create nuanced characters, the team utilized motion capture so that actors could convey more-complicated emotions on-screen. </s> 
+wikipedia.org | <s> As was customary for retiring Lord Provost's, he was created a baronet by Queen Victoria in 1900. </s> 
+wikipedia.org | <s> The triple-gabled Jacobean gateway was created by Paul's son, Sir Richard Tracy, in 1630. </s> 
+wikipedia.org | <s> Finally, the acceptance of various nuclei was achieved to discuss the possibility of creating a new political organization. </s> 
+wikipedia.org | <s> Champeny was the author of the Bamboo Plan to create a police reserve or constabulary of 25,000 men. </s> 
+wikipedia.org | <s> The county was created in 1792 and named by John Graves Simcoe in honour of the English County. </s> 
+wikipedia.org | <s> He also led the National Assembly of Gjirokastër that took the decision to create an autonomous Albanian state. </s> 
+wikipedia.org | <s> The show puts well-known Swedish musicians up against each other to create new interpretations of the other artists songs. </s> 
+wikipedia.org | <s> The Svityaz LV is being created on the basis of units, aggregates and systems of Zenit LV. </s> 
+wikipedia.org | <s> The organization was created by Ammaletu the Akkadian after he witnessed the warrior Gilgamesh coming back to life. </s> 
+wikipedia.org | <s> On February 28, 2018, Deadline reported that The CW is creating a Skinny Dip television series. </s> 
+wikipedia.org | <s> Her death creates a strain in the relationship between Bridget, her father, and her twin brother Perry. </s> 
+wikipedia.org | <s> Chris Green's move to the management team at the newly created Network SouthEast in 1986 put paid to that. </s> 
+wikipedia.org | <s> This created a municipality with an area of 297 km2 and a total population of 36,113 (2005). </s> 
+wikipedia.org | <s> Through the Constitution, the Founders created an enduring framework of limited government based on the rule of law. </s> 
+wikipedia.org | <s> The sale was completed on September 25, 2018, creating a duopoly with existing Ion Television station WIPX-TV. </s> 
+wikipedia.org | <s> Their genuine excitement about what they do is evident in every frame and the sets they created are smashing. </s> 
+wikipedia.org | <s> The artwork consists of 54 separate bronze pieces and was created with a budget of US$30,000. </s> 
+wikipedia.org | <s> The language is theoretically regulated by the Kopapa Reo created in 2003, but this organisation is currently dormant. </s> 
+wikipedia.org | <s> Later volcanic activity created more volcanic centres in the caldera, including the Barujari cone, which remains active. </s> 
+wikipedia.org | <s> He went into partnership with Robert Allan Esq around 1770 creating the banking firm of Allan & Steuart. </s> 
+wikipedia.org | <s> The idea was scrapped, but not before programmer Larry Hodgson had already written software to create virtual golf courses. </s> 
+wikipedia.org | <s> Created in 1993 and aired in early 1994 in France, it was the first completely computer-animated TV series. </s> 
+wikipedia.org | <s> Picolo is the name of a character created by Paul Buissonneau for Canadian Broadcasting Corporation (CBC). </s> 
+wikipedia.org | <s> Jim Jinkins originally created Pinky Dinky Doo in 2000 as a bedtime story for his then four-year-old daughter. </s> 
+wikipedia.org | <s> The cover art for No Devolución is a paper art piece created by Mia Pearlman titled "Penumbra". </s> 
+wikipedia.org | <s> Dive tourism can be beneficial to coral reefs by creating funding for protection programs, including Marine Protected Areas. </s> 
+wikipedia.org | <s> Wilson created and provided financial support for the Eleanor D. Wilson museum at her alma mater, Hollins University. </s> 
+wikipedia.org | <s> In October 2020, the Government committed $471,100 to upgrade Rangatahi Marae, creating 15 jobs. </s> 
+wikipedia.org | <s> Men at War is a series of World War II novels created by W. E. B. Griffin in 1984. </s> 
+wikipedia.org | <s> Another sub-division, Egra has been created out of the erstwhile Contai sub-division during the partition of Medinipur. </s> 
+wikipedia.org | <s> Denby's work to create more affordable living for the working class eventually resulted in houses that appeared cheap and unrealistic. </s> 
+wikipedia.org | <s> The Group would also look at areas of overlap and duplication and aim to create synergies among the DCs. </s> 
+wikipedia.org | <s> Inmates at the Ontario Reformatory were also responsible for landscaping and creating ponds along the banks of the Eramosa. </s> 
+wikipedia.org | <s> He did make appearances at and create pieces for the American Dance Festival and Lee Theodore's American Dance Machine. </s> 
+wikipedia.org | <s> Plasma Bomber wears a neckerchief and has a lightning bolt attached to his helmet that can create electric currents. </s> 
+wikipedia.org | <s> Ancient Egypt also created irrigation systems from its local river, the Nile River, more complex than previous systems. </s> 
+wikipedia.org | <s> After being showcased on Man v. Food, the restaurant created a dish called "The Adam Bomb". </s> 
+wikipedia.org | <s> In 1952, he created the Youth Authority as a central point for the administration of services to delinquent children. </s> 
+wikipedia.org | <s> Konop created a secure website that required visitors to log in using their names and then by creating a password. </s> 
+wikipedia.org | <s> Possible uses could include painting a surface in order to decorate or protect it, or to create a design. </s> 
+wikipedia.org | <s> Its lack became pressing when New Zealand was created an ecclesiastical province with Wellington as the Metropolitan See in 1887. </s> 
+wikipedia.org | <s> Now Arizmendiarrieta was intent on creating a company catering to the positions required by the students graduating from the School. </s> 
+wikipedia.org | <s> If a cell's mitochondria or chloroplasts are removed, the cell does not have the means to create new ones. </s> 
+wikipedia.org | <s> From 1991 to 2004, he was director of the Kamakura Museum of Literature, which he had helped create . </s> 
+wikipedia.org | <s> Puck lights can create scallops, spots, or pools of lighting instead of even illumination across the counter top. </s> 
+wikipedia.org | <s> Wolfgang Sützl & Geoff Cox (eds.), Creating Insecurity. </s> 
+wikipedia.org | <s> The chaplain appealed to the population to ask the mayor of the commune of Ditrău to resolve the created situation. </s> 
+wikipedia.org | <s> The portrayal of Asians in American films and the images they created in the minds of the audience are discussed. </s> 
+wikipedia.org | <s> Their work on many films as well as television series including Tom Holland's Twisted Tales have created a lifelong following. </s> 
+wikipedia.org | <s> Contrasting this, the 2nd person dual or plural subjects attract the irrealis marker na to create a prohibitive clause. </s> 
+wikipedia.org | <s> Wu believed the fusion of these two qualities would be the guiding principle for organic growth in creating new forms. </s> 
+wikipedia.org | <s> Rumpus McFowl was created by William Van Horn and introduced as a lazy and greedy cousin of Scrooge McDuck. </s> 
+wikipedia.org | <s> Today, the site also has had solar panel boards installed and new fencing, car park and walking trails created . </s> 
+wikipedia.org | <s> As of April 2014, Paper has been downloaded over 10 million times and over 100 million pages have been created . </s> 
+wikipedia.org | <s> The ETL Mark III began development in 1954, and was completed in 1956, created by Japan's Electrotechnical Laboratory. </s> 
+wikipedia.org | <s> The marine reserve was created in 1993 and covers an area of 1,835 hectares (7.08 sq mi). </s> 
+wikipedia.org | <s> Walker reads this as an indication of Heywood's desire to persuade the King to avoid creating any sort of schism. </s> 
+wikipedia.org | <s> Starting in January 2002, he created the entrance facade of the MADI Museum and was named its Artistic Director. </s> 
+wikipedia.org | <s> On May 1, 1930 the Nova Scotia Liquor Commission was created through legislation passed as the Liquor Control Act. </s> 
+wikipedia.org | <s> NGD Systems was the first company to create in-situ processing storage and has produced two versions of the device since 2017. </s> 
+wikipedia.org | <s> Consolidated Pharmacy Services and Seton Pharmacies were created to provide prescription drugs and medical equipment to St. Vincent HealthCare clients. </s> 
+wikipedia.org | <s> This park was created in 2000, and was dedicated to Sam Wendland for his many years of serving as mayor. </s> 
+wikipedia.org | <s> Juice Rap News is an internet based satirical news show, created in Melbourne, Australia by The Juice Media. </s> 
+wikipedia.org | <s> Most commonly, three pigment images were first created separately by the so-called carbon process and then carefully combined in register. </s> 
+wikipedia.org | <s> For the Message Sticks Festival in 2001, Timbery was asked to create shellworked versions of the Sydney Opera House. </s> 
+wikipedia.org | <s> The user community has used this to create a number of mods for the game and even some third party utilities. </s> 
+wikipedia.org | <s> The recreations involve the use of precision model-making to create three-dimensional miniature dioramas of the scene in the original photograph. </s> 
+wikipedia.org | <s> This department was created when after 1966 Haryana was established as a new state within India after being separated from Punjab. </s> 
+wikipedia.org | <s> As the population grew, it also created pressure on the management of sanitation, waste disposal and other health issue. </s> 
+wikipedia.org | <s> Soon after he created his first own successful musical project: B-Tribe ("Barcelona Tribe of Soulsters"). </s> 
+wikipedia.org | <s> He was reportedly the first to use modern advertising techniques and campaigns to create laudable careers for the pugilists he managed. </s> 
+wikipedia.org | <s> The resulting outflow of reserves could create significant worldwide deflationary pressures and possibly lead to the collapse of the gold-based system. </s> 
+wikipedia.org | <s> The provision qualifies for inclusion in Tier 2 capital as long it is not created against a known deterioration in value. </s> 
+wikipedia.org | <s> The 140-metre-high Si Nakharin Dam was finished in 1980 and creates a 419 km2 impoundment of the Kwae Yai River. </s> 
+wikipedia.org | <s> Sky Trackers is a 26-part science-based Australian children's television adventure series created by Jeff Peck and Tony Morphett in 1994. </s> 
+wikipedia.org | <s> The Manchester division of 3DReid designed the building with a brief to create a green, landmark building for the city. </s> 
+wikipedia.org | <s> She does not kill animals for the purpose of creating art and she is noted as a trendsetter in this arena. </s> 
+wikipedia.org | <s> This creates the potential for acidic threat since hydron ions readily bond with any Lewis Structure to form an acidic bond. </s> 
+wikipedia.org | <s> Created in 1956, Samuel Ayer High School was the first high school in the City of Milpitas, California. </s> 
+wikipedia.org | <s> He also convinced the legislature to appropriate $15,000 to create an Oklahoma exhibit for the 1893 World's Fair. </s> 
+wikipedia.org | <s> It was created in Bahia specifically for Carnival and it is now used in similar events in other districts and countries. </s> 
+wikipedia.org | <s> Since the late 20th century, listed luxury apartments in the post town have been created there and at Duncroft Manor. </s> 
+wikipedia.org | <s> These Indonesian organizations usually celebrate Batik Day as well in order to create awareness of Indonesia's traditional fabric to other cultures. </s> 
+wikipedia.org | <s> In 1919 in Weimar the Weimarer Verfassung (Weimar Constitution) was created : the first democratic constitution of Germany. </s> 
+wikipedia.org | <s> The Sixth Doctor creates a cure for the Twilight Virus, so he and Evelyn track down Cassie in 2004. </s> 
+wikipedia.org | <s> They may have been created using hammer stones or grindstones from the LSA period, which have been found at Tsodilo. </s> 
+wikipedia.org | <s> A circular wall encloses the two peaks of the hill, creating a double acropolis with a shallow saddle in between. </s> 
+wikipedia.org | <s> Pixel craft was a small company in Long Island, NY, created by Kenneth Giordano, and Khouri Giordano. </s> 
+wikipedia.org | <s> The organization was created in May 2015 when it spun off from American Bridge 21st Century, another Democratic Super PAC. </s> 
+wikipedia.org | <s> The façade features an embedded bomb above the gate and a bas-relief of the founder created by the sculptor Otto Evens. </s> 
+wikipedia.org | <s> The stand of Poplars, Elm and Willow, amongst others, create a well renowned display of colour over autumn. </s> 
+wikipedia.org | <s> However, this disposition has created an evolutionary trap for the finches after the introduction of the MG disease in 1994. </s> 
+wikipedia.org | <s> The county agreed to take over operations, and in March, 1951, the Vanderburgh County Park Board was created . </s> 
+wikipedia.org | <s> She created a database of stars and galaxies which remains in use, and cataloging transient lunar phenemena (TLP). </s> 
+wikipedia.org | <s> While burdened with the temporal business of creating a city, Smith also elaborated on the cosmology of the new religion. </s> 
+wikipedia.org | <s> The concept behind We the Fallen created by frontman Nero Bellum was the idea of himself as a "heartworm". </s> 
+wikipedia.org | <s> An early attempt by the Soviets to create a centralized government in northern Korea was the Administrative Committee of Five Provinces. </s> 
+wikipedia.org | <s> With Gita Saraydarian (his daughter) Torkom helped create the TSG Foundation as the major publishing house for his works. </s> 
+wikipedia.org | <s> Responsible for most of the outfitting themselves, the actors not only bring their costumes but also create their own masks. </s> 
+wikipedia.org | <s> Prudence has created two collections for Balfour Hats and designed an exclusive collection for the store Le Bon Marché in Paris. </s> 
+wikipedia.org | <s> In 1941 Brearley created a charitable trust The Freshgate Trust Foundation, a grantmaking charity operating in Sheffield and South Yorkshire. </s> 
+wikipedia.org | <s> Creating international research partnerships The international community, its institutions and research organisations in high income countries were also given specific responsibilities. </s> 
+wikipedia.org | <s> This mail order stamp dealer, created in August 2002, is owned by Toulemonde and Timbres magazine's journalist Michel Melot. </s> 
+wikipedia.org | <s> Studio owner Charlie Conrad did additional engineering, and added additional instrumental solos to the original mixes to create extended dance versions. </s> 
+wikipedia.org | <s> The test site and proposed project has created ongoing discussion on the Island, with residents considering potential impacts to their community. </s> 
+wikipedia.org | <s> He found information about the Crown of All and with two other Others created the Final Watch to get to it. </s> 
+wikipedia.org | <s> In most recent works, Borges is continuously drawn to portraying images of water and tree branches creating a meditative quality paintings. </s> 
+wikipedia.org | <s> Created and written by Jim Purdy and Peter Such, the series centred on the Lowes, a family in Toronto. </s> 
+wikipedia.org | <s> Originally named Low Life, the show was created and head written by Dmitry Lipkin for Maverick Films and FX Networks. </s> 
+wikipedia.org | <s> They then turned their attention to creating music, spawning a string of hit singles that also generated massive sales and attention. </s> 
+wikipedia.org | <s> The resulting strong electric field near the cathode accelerates ions to a sufficient velocity to create free electrons from the cathode material. </s> 
+wikipedia.org | <s> It contains a fixed 5.6 aperture optic and uses selective focus to create a center of focus surrounded by gradually increasing blur. </s> 
+wikipedia.org | <s> After the phase of armed resistance, P.O.W.N. had to redefine its objectives since it was originally created as a military organization. </s> 
+wikipedia.org | <s> Naomi Wolf argued that the impression created by much of the media that the protestors did not have clear demands was false. </s> 
+wikipedia.org | <s> Prévost created the series to help children see how history could be fascinating, basing the central characters on his own children. </s> 
+wikipedia.org | <s> For example, the Safe-in-Sound Award was created to recognize organizations that can demonstrate results of successful noise control and other interventions. </s> 
+wikipedia.org | <s> February 16 – Kansas State Agricultural College is established, as the first land grant college created under the 1862 Morrill Act. </s> 
+wikipedia.org | <s> Comparative law wikis are wikis that allow users to create empirical cross-reference datasets for the analysis of the world's myriad legal systems. </s> 
+wikipedia.org | <s> Eight former GOOD magazine editors and writers raised funds on Kickstarter to create the one-shot magazine Tomorrow before going their separate ways. </s> 
+wikipedia.org | <s> B.F. Skinner created a video discussing the processes involved and the importance of reinforcement to increase the sense of "freedom". </s> 
+wikipedia.org | <s> In 2018, The Planet Mikey Podcast was created and is heard on iTunes, Stitcher, Spotify and Google Play. </s> 
+wikipedia.org | <s> Red Candle Games was founded in 2015 to create Detention, a psychological horror video game set in 1960s White Terror-era Taiwan. </s> 
+wikipedia.org | <s> Ultimately, when up and downstream pathways are established, this information will inform research attempting to create drugs to treat TC. </s> 
+wikipedia.org | <s> Vann created a ferry across the nearby Conasauga River, and built a tavern and store nearby to supply locals and travelers. </s> 
+wikipedia.org | <s> Using a miniature turntable, he was able to create sonic blasts that would make targets more susceptible to his hypnotic suggestions. </s> 
+wikipedia.org | <s> The first Act, the British North America Act, 1867, created the self-governing (internally) Dominion of Canada. </s> 
+wikipedia.org | <s> The parks was created in 1969 when the state of Tennessee purchased the town of Pickwick Village from the Tennessee Valley Authority. </s> 
+wikipedia.org | <s> After the Meiji Restoration the government, in emulation of the European nation states, sought to create a standard Japanese speech. </s> 
+wikipedia.org | <s> Furthermore, in 1698 Parliament created the Civil List, a financial arrangement that left the monarch reliant on Parliament for income. </s> 
+wikipedia.org | <s> The modern TDEC was created in 1991, with programs in the Department of Health and Environment shifted into the new department. </s> 
+wikipedia.org | <s> In some countries a statutory or government-granted monopoly was created to be controlled by legislation, for example Eskom in South Africa. </s> 
+wikipedia.org | <s> The TM movement's aspiration is to have global reconstruction to create east-facing entrances, at an estimated cost of $300 trillion. </s> 
+wikipedia.org | <s> In 1953 she returned to Broadway for the last time to create the role of Marsinah in the original cast of Kismet. </s> 
+wikipedia.org | <s> The Consortium engaged studio UPI-2M from Zagreb, specially for this project to create and produce a unique design for Arena Zagreb. </s> 
+wikipedia.org | <s> Boston Chicken created the Einstein Bros. Bagels chain of bakery cafés in 1995, after acquiring several smaller chains of bagel-centric bakeries. </s> 
+wikipedia.org | <s> In 1865, William Henry Harvey, who was a lumper, sunk Agataea in Aster, creating the combination Aster amoenus. </s> 
+wikipedia.org | <s> The Sigma Chi Foundation was created on November 9, 1939, when the Sigma Chi Endowment Foundation was incorporated in Colorado. </s> 
+wikipedia.org | <s> The U.S. Government had the idea of creating Unknown Soldier and Known Soldier in Arlington Cemetery to honor World War I soldiers. </s> 
+wikipedia.org | <s> The name Vierburgenland (Land of Four Castles) was created in 1919 by Odo Rötig, a Viennese resident in Sopron. </s> 
+wikipedia.org | <s> In 2010, Unitaid created and invested in the Medicines Patent Pool (MPP) to negotiate voluntary licenses for HIV medicines. </s> 
+wikipedia.org | <s> There was a comment that "It is best if fans don't write about their favourite bands" above - but let's face it, that is probably how most articles on pop groups get created ! </s> 
+wikipedia.org | <s> The .222 Remington Magnum was created by lengthening the case and shortening the neck of the highly accurate and very popular .222 Remington cartridge, which dominated varmint and benchrest shooting during the 1950s. </s> 
+wikipedia.org | <s> Mainly inspired by the music she would hear at warehouse parties during her stay in London, Lords teamed up with American singer Wonder with whom she created the lyrics to the song "Control". </s> 
+wikipedia.org | <s> On June 24, 2011, Studio 100 announced that the creative team of Daens was brought together to create a new spectacle about the first World War. </s> 
+wikipedia.org | <s> Before Wisconsin became a state, he was instrumental in creating Waukesha County from what had been the western half of Milwaukee County. </s> 
+wikipedia.org | <s> One primary example can be seen in Harper's New Monthly Magazine, a magazine that was aimed at women and attempted to create a patriotic attitude in the developing nation. </s> 
+wikipedia.org | <s> November 5 – Western Railway (India) created as a zone of Indian Railways by merger of the Bombay, Baroda, and Central India Railway with the Saurashtra, Rajputana and Jaipur railways; Central Railway created by merger of the Great Indian Peninsular Railway with local state railways. </s> 
+wikipedia.org | <s> Guy, who was very popular as governor throughout the state, and Young, who had a high approval rating as senator for the state, created the closest ever election for one of North Dakota's senate seats. </s> 
+wikipedia.org | <s> The strategic situation permitted the development of the Vance plan–a ceasefire supervised by United Nations peacekeepers designed to create conditions for the political settlement of the conflict in Croatia. </s> 
+wikipedia.org | <s> On July 13, 2012, President Obama sparked a controversy when he echoed her thoughts in a campaign speech saying, "Somebody helped to create this unbelievable American system that we have that allowed you to thrive. </s> 
+wikipedia.org | <s> Researchers at Eindhoven University of Technology create the world's smallest temperature sensor, powered by radio waves, which they say could be used in developing the Internet of Things. </s> 
+wikipedia.org | <s> On January 15, the team traded Sam Travis to the Texas Rangers in exchange for pitcher Jeffrey Springs; to create room on the 40-man roster, Bobby Poyner was designated for assignment. </s> 
+wikipedia.org | <s> The file manager has a toolbar with options to create an archive, extract an archive, test an archive to detect errors, copy, move, and delete files, and open a file properties menu exclusive to 7-Zip. </s> 
+wikipedia.org | <s> AFI Europe Romania will develop AFI Arad Retail Park will be 34,000 sqm GLA Retail Park to be developed in the city center of Arad, on a land plot of 80,000 sqm, creating an inner city retail park, including a hypermarket of approx. 10,000 sqm and additional retail boxes of approx. 1,000 – 2,000 sqm each including fashion, sport and electronics anchors. </s> 
+wikipedia.org | <s> In section three, he affirms that not only does he not think there are good reasons for believing that all material objects were created by God, but neither does common sense give reasons to think that God exists at all or that there is an afterlife. </s> 
+wikipedia.org | <s> Gold Circle Films created two feature-length movies based on cases featured in A Haunting: The Haunting in Connecticut which was released in 2009, and The Haunting in Connecticut 2: Ghosts of Georgia, released in 2013. </s> 
+wikipedia.org | <s> However the difference comes in the fact that the Keasling strain is able to synthesize its own ethanol, and process (by transesterification) the fatty acid further to create stable fatty acid ethyl esters (FAEEs). </s> 
+wikipedia.org | <s> N Vasu, have depicted Odia Vaishnavism as 'Buddhist-Vaishnavism', since it does not accept Ramanuja's Viśiṣṭādvaita philosophy (11th century), nor does it adhere to orthodox Gaudiya Vaishnavism created in the 16th century. </s> 
+wikipedia.org | <s> From 1685 he was a member of the Privy Council of Ireland and on 29 January 1686, King James II created him Baron of Rathfarnham and Viscount Lisburne in the Peerage of Ireland. </s> 
+wikipedia.org | <s> Advanced Chemistry's attitudes revolve around their attempts to create a distinct "Germanness" in hip hop, as opposed to imitating American hip hop as other groups had done. </s> 
+wikipedia.org | <s> The use of aeroponic is important for helping to propagate plants with low rate of success in vegetative propagation, plants that have important medicinal uses, plants that are in high demand, and to create new cultivars of certain plant species. </s> 
+wikipedia.org | <s> The African Basketball League (ABL) was a men's private professional basketball league in Africa established with the vision of creating opportunities in the sports industry by capturing the rich entertainment culture of Africans to promote sports tourism. </s> 
+wikipedia.org | <s> By viewing Reyes' body-cam, Fitz deduces that Morrow is drawing his power from the other dimension and has created a demon core that could destroy half the city if activated. </s> 
+wikipedia.org | <s> Government efforts to eradicate the rampant expansion of coca cultivation in Bolivia began in 1983, when Bolivia committed itself to a five-year program to reduce coca production and created the Coca Eradication Directorate (Dirección de la Reconversión de la Coca–Direco) under the Ministry of Agriculture, Campesino Affairs, and Livestock Affairs. </s> 
+wikipedia.org | <s> Consequently, Akoustolith was produced by binding well-sorted pumice particles with Portland cement to create an artificial stone, a process which offered consistency and allowed for a variety of shapes and color. </s> 
+wikipedia.org | <s> In other words, God does not have a choice whether or not to create the universe, but by virtue of His own existence, He causes it to be. </s> 
+wikipedia.org | <s> His health in decline and suffering from epilepsy, Brisbane pursued personal intellectual pursuits and tried his hand as an inventor, concentrating in particular on an effort to create an oven which cooked in a vacuum, thereby allowing the baking of bread and pastry without the use of yeast. </s> 
+wikipedia.org | <s> Fancher became known as the "Father of Allegany State Park" which was created in 1921, and was Chairman of the Allegany Park Commission until his death. </s> 
+wikipedia.org | <s> There are other works that are credited yet were left unfinished or destroyed by Stanchinsky due to his brash nature in his composition lessons, and his later desire to create his own musical voice. </s> 
+wikipedia.org | <s> After the seventh effort to plug the leak with slurry starting December 22 had created a 25-feet-deep crater around the wellhead, the danger of a blow out increased. </s> 
+wikipedia.org | <s> The game took place in empty space with no obstructions, but the holographic overlay created an extremely elaborate backdrop with whirling 3D asteroids. </s> 
+wikipedia.org | <s> Alpha Gamma Delta created an annual internal celebration called International Reunion Day in 1936, as many of its collegiate chapters could not celebrate the organization's Founder's Day on May 30 due to university vacation closures or final exams held on that day. </s> 
+wikipedia.org | <s> Alternative media tactics used by SNCC included establishing a dedicated Communication Section which included a photography arm, its own printing press (which published its newsletter the Student Voice), published publicity materials, and created an alternative wire press. </s> 
+wikipedia.org | <s> He became the epitome of the tragic artist, creating a posthumous legend almost as well known as that of Vincent van Gogh. </s> 
+wikipedia.org | <s> President Reagan opposed creating a results test because its impact would be uncertain.:1388–1389 Furthermore, some members of Congress, such as Senator Orrin Hatch (R-UT), raised concerns that a results test would fundamentally alter American democracy by requiring courts to impose proportional representation for protected minority groups as a remedy.:1392 To assuage this concern, Senator Robert Dole (R-KS) proposed legislative language explicitly disclaiming that a results test would require proportional representation. </s> 
+wikipedia.org | <s> The only team, which officially announced to work on the bounty, created a public Sourceforge source code repository, but only a few developers joined and not very much source code was committed. </s> 
+wikipedia.org | <s> The EP fueled nearly three years of extensive national touring (which landed the group a spot at France's 2004 Eurockéennes festival) and created a hugely devoted cult-like following throughout North America and Europe. </s> 
+wikipedia.org | <s> Modica is known for portrait photography and for her use of platinum printing, created using an 8"x10" large format camera. </s> 
+wikipedia.org | <s> While the instrumental portion of Scott's songs rely primarily on the acoustic guitar, Scott has drawn upon the talents of numerous musicians with a variety of sometimes unusual instruments (especially in relation to the genre of the song) to create a particular ambience through an innovative blend of instrumental sounds. </s> 
+wikipedia.org | <s> Stott analogised making his music as a scientist who creates compounds by figuring out formulas that use studio gadgets and parts of other music. </s> 
+wikipedia.org | <s> As member (appointed by the Governor) of the Pennsylvania Science and Engineering Foundation, he was one of the leading forces in creating and launching the Ben Franklin Partnership Program, now the Ben Franklin Technology Partners of Pennsylvania. </s> 
+wikipedia.org | <s> Pope Benedict XVI created him Cardinal in the consistory of 24 November 2007, assigned to the titular church of San Salvatore in Lauro with the rank of cardinal-deacon. </s> 
+wikipedia.org | <s> Classically trained in Bharat Natyam, she has also received formal training in Kathakali, Mohiniattam, and T'ai chi and Kalarippayattu, thus creating a dance style which she has coined "Neo Bharat Natyam". </s> 
+wikipedia.org | <s> She created prominent monuments for public sites, like the United States Capitol, of historical figures Samuel Adams, Charles Sumner, and Leif Erikson. </s> 
+wikipedia.org | <s> The increase of visitors and the many new houses being built around the temple created much noise, which made it difficult for the practice of Zazen to continue at the Kyoto location. </s> 
+wikipedia.org | <s> In April 2019 Antonia presented Shift for The Emerging Choreographers Program at the 92stY, New York, and most recently created Liberandum for Joaquín De Luz for Theatre Real Madrid and Skirball in June 2019. </s> 
+wikipedia.org | <s> Finally, 80,000 years ago, another arginine to cysteine substitution at amino acid 158 (Arg158Cys) of the APOE3 gene created the E2 allele. </s> 
+wikipedia.org | <s> The coating, created using an extremely hydrophobic and highly fluorinated ether (HFE), 1,1,2,2-Tetrafluoroethyl-2',2',2'-trifluoroethyl ether, expelled water molecules from the electrode surface. </s> 
+wikipedia.org | <s> The School Group Caravelas Marquis, former School of Arapongas Group, was founded in 1943, even before the city of Arapongas be created in the government of Mayor Miguel Blasi, of Londrina and the governor of the state Moysés Lupion. </s> 
+wikipedia.org | <s> In Southern Italy, from the 8th century BC, the Greek colonists who created what was known as Magna Graecia used to build their buildings in their own style. </s> 
+wikipedia.org | <s> The theatre runs one of East London's most extensive arts engagement programmes, creating over 5000 opportunities for the local community every year. </s> 
+wikipedia.org | <s> Together with the agreement's rights upon future offers ("RUFO") clause, this created a deadlock in which the 93% of renegotiated bondholders could not be paid without paying the 7% holdouts, but any payment to the holdouts would potentially (according to Argentina) trigger the 93% being due repayment at full value too; a sum of around $100 billion that Argentina could not afford. </s> 
+wikipedia.org | <s> Under him the Mechitarist community in Vienna prospered, its library was increased, a bookstore added to the printing press, and an abundant religious literature created , in Armenian and in German. </s> 
+wikipedia.org | <s> On the recommendations of the BC Roy Committee, remnants of the Indian Army Medical Corps units were amalgamated into one unit to create the Armed Forces Medical College. </s> 
+wikipedia.org | <s> The street entrances thus approached the carriage house through the garden creating a circular drive, with one side passing through the porte-cochere. </s> 
+wikipedia.org | <s> Having conceived of many various possible and artificial phonemes, created recordings of them, and grouped them into various categories and bins, Ligeti created a formula (and many tables) to determine the maximum length of each tape used (the louder the shorter), and then went through a process of grabbing randomly, without-looking, similar "phonemes" out of their bins, combining them into "texts", and then cutting these in half, down to "words". </s> 
+wikipedia.org | <s> Sue Corke and Hagen Betzweiser created an installation "Enter At Own Risk" in which a lone astronaut gardens a group of rocks, spraying them with their synthesised smell of the moon, a recipe based on reports from the Apollo crew. </s> 
+wikipedia.org | <s> The single-room hotels for rail workers to the northwest, and the growth of Little Tokyo to the west and Chinatown to the north, created a mix of working-class and cosmopolitan. </s> 
+wikipedia.org | <s> For the latter, the glory was not created by God, but emanated from God in a similar manner to the way that light emanates from the sun. </s> 
+wikipedia.org | <s> The section of Ashton-in-Makerfield within the Metropolitan Borough of Wigan creates the Bryn & Ashton Township, consisting of the six 'neighbourhoods' of Bryn, Ashton, Ashton Heath, Landgate, Stubshaw Cross and Town Green, and one of the ten areas into which Wigan Metropolitan Borough has been divided for consultation purposes. </s> 
+wikipedia.org | <s> Committee to Protect Journalists: "Through his journalism Hrant Dink sought to shed light on Turkey's troubled past and create a better future for Turks and Armenians. </s> 
+wikipedia.org | <s> With two bandoneons (Piazzolla and Leopoldo Federico), two violins (Enrique Mario Francini and Hugo Baralis), double bass (Juan Vasallo), cello (José Bragato), piano (Atilio Stampone), and an electric guitar (Horacio Malvicino), his Octeto effectively broke the mould of the traditional orquesta típica and created a new sound akin to chamber music, without a singer and with jazz-like improvisations. </s> 
+wikipedia.org | <s> Many commercially available DSLR cameras have the ability to take long time exposures combined with sequential (time-lapse) images allowing the photographer to create a motion picture of the night sky. </s> 
+wikipedia.org | <s> It is being supervised and managed by the Aurora Pacific Economic Zone and Freeport Authority into a self-sustaining industrial, commercial, financial, and recreational center, with a suitable residential area, in order to create employment opportunities around Casiguran, Aurora, and to effectively encourage and attract legitimate and productive local and foreign investments. </s> 
+wikipedia.org | <s> Vanuatu also has a unique tradition of sand drawing, by which images are created by a single continuous line drawn in the sand. </s> 
+wikipedia.org | <s> Later the other clubs that became part of SSC "Cherno more" – "Vladislav" and "Diana", created their basketball teams. </s> 
+wikipedia.org | <s> The khene (also spelled khaen, kaen and khen; Lao: ແຄນ, Thai: แคน) is a mouth organ of Lao origin whose pipes, which are usually made of bamboo, are connected with a small, hollowed-out hardwood reservoir into which air is blown, creating a sound similar to that of the cello. </s> 
+wikipedia.org | <s> Both illusion and device are always manifest cameras, studio lights, tripods are often all visible, as if you are not interested in creating a seamless image of constructed reality, or a constructed moment. </s> 
+wikipedia.org | <s> The difficult terrain enabled the German army to create a defensive frontier along the line of Windhuk and Keetmanshoop, and troops were also stationed adjacent to the two regional railroads. </s> 
+wikipedia.org | <s> Businesses along El Camino created the El Camino Real Association to protest the move and resulting loss of business, and by 1939 the main route had been moved back, with the Bayshore Highway becoming U.S. Route 101 Bypass. </s> 
+wikipedia.org | <s> Material builds up on the downdrift side, where littoral drift is predominantly in one direction, creating a wider and a more plentiful beach. </s> 
+wikipedia.org | <s> This solution entails beach nourishment ( creating recreational area by filling with sand), and further beach expansion and prevention of beach erosion caused by longshore drift and coastal development hazards. </s> 
+wikipedia.org | <s> The first clone of Parker suffers from clone degeneration and is dismissed, but successful clones of both Parker and Stacy with stable cell structures are later created . </s> 
+wikipedia.org | <s> The College's collections moved from various campus buildings to the former Pratt Gymnasium in the 1940s, creating the Pratt Museum of Natural History. </s> 
+wikipedia.org | <s> Some of the elastomers are adjustable by stacking different combinations of elastomer rings to create a specific profile and ramping up of the suspension. </s> 
+wikipedia.org | <s> Obama signed Executive Order 13522 in 2009, which created the 10 person National Council on Federal Labor-Management Relations to advise the president on labor-management relations in the executive branch. </s> 
+wikipedia.org | <s> He attended Harvard where he received his Bachelor of Arts degree in 1965, where he created the Ashoka Table, bringing in prominent government, union, and church leaders for off-the-record dinners at which students could ask "how things really worked". </s> 
+wikipedia.org | <s> This angered Beyoncé and she left the studio pledging to create a full-length film that will tell the real story with the help of actual Africans instead of using lions and animation, and show the regalness and beauty of Africans before colonialism and slavery erased their past. </s> 
+wikipedia.org | <s> Prefaced to the story are short essays produced by editor, Christian Dunn, about the nature of heroes and following the story is the ending original created by Dan Abnett. </s> 
+wikipedia.org | <s> Path of the Furon, you acquire a new upgrade for Crypto's gun later in the game called the Black Hole Gun, in which it creates one after charging the weapon and firing. </s> 
+wikipedia.org | <s> When global temperatures were low, as in much of the Ordovician, the large difference in temperature between equator and poles created different collections of fossils at different latitudes. </s> 
+wikipedia.org | <s> By 1983 they had created a monthly band topics video magazine called WINDS and the area of operations for recordings expanded to cover the entirety of Japan. </s> 
+wikipedia.org | <s> He chose to create a "decorative painting representing various Dominions and parts of the British Empire", and five finished panels were displayed in 1930. </s> 
+wikipedia.org | <s> Poor people, in desperation, turned to the Governor, who responded by creating a little relief work–stone-breaking for US$0.10 a day. </s> 
+wikipedia.org | <s> While working for WLUP, Wolf created a character named "Chet Chitchat", a blended caricature of Chicago sportscasters Chet Coppock and Chuck Swirsky, his predecessor at WLUP, which became a weekly feature on the station's morning program. </s> 
+wikipedia.org | <s> In 2007, online survey hosting company QuestionPro and Buddy TV created a new way for advertisers to learn about the viewers of television series which featured their ads. </s> 
+wikipedia.org | <s> He created the role of Erie Smith in the English-language premiere of Eugene O'Neill's Hughie at the Theater Royal in Bath, England in 1963. </s> 
+wikipedia.org | <s> In 1991, he was elected chairman of the Competitiveness Policy Council, created by the Congress, and led the council for several years with distinction. </s> 
+wikipedia.org | <s> Super headends also create a cost-effective environment for cable operators as the amount of equipment and faculties is greatly reduced and the signals can be replicated and transmitted to local hubs that feed a community or city. </s> 
+wikipedia.org | <s> The municipality contains part of the 230,296 hectares (569,070 acres) of the Caminhos Ecológicos da Boa Esperança Environmental Protection Area, created in 2003. </s> 
+wikipedia.org | <s> Pending the 2015 passage of Indiana's Religious Freedom Restoration Act (RFRA), Bill Levin created the First Church of Cannabis in Indiana. </s> 
+wikipedia.org | <s> Shortly after, the British inventor and merchant Peter Durand patented his own method, this time in a tin can, creating the modern-day process of canning foods. </s> 
+wikipedia.org | <s> The road would create cohesion between the British colonies of Africa, it was thought, and give Britain the most important and dominant political and economic influence over the continent, securing its position as a global colonial power. </s> 
+wikipedia.org | <s> These investments include the creation of over 9,000 units of affordable assisted living; more than 35,000 units of affordable housing; 3 million square feet of health center space providing more than 1 million patient visits annually; $500 million for developing charter schools creating more than 200,000 seats for children; and healthy food retail in over 60 locations. </s> 
+wikipedia.org | <s> These five clubs, all located within an hour-and-a-half drive of Winnipeg, cited the long travel distance to northern Manitoba, where the KJHL's other six teams are located, as the main reason for leaving to create the new league. </s> 
+wikipedia.org | <s> Aqua Trace relates to an installation by Arocha entitled Hide (1997) for the Museum of Contemporary Art, Chicago, and which featured leopard-print patterns created with mirrored Plexiglas. </s> 
+wikipedia.org | <s> Rather than creating this foundation for philanthropic causes, Mr. Bernstein created it simply as a way to keep the inheritance he received from his father safe until he could decide what to do with it. </s> 
+wikipedia.org | <s> The cave is composed of dolomite and limestone creating a karstic complex which dates back to the Mesozoic era, specifically during the Jurassic and Cretaceous periods, giving rise to three different areas. </s> 
+wikipedia.org | <s> Along with cell shape changes, cell rearrangements, apoptosis and growth, oriented cell division modifies the geometry and topology of live tissue in order to create new organs and shape the organisms. </s> 
+wikipedia.org | <s> Rogers did not feel able to create a matching italic, and asked the calligrapher Frederic Warde if he could pair Centaur with a design Warde had created based upon Ludovico Arrighi's 1520 chancery face, made in 1926 for the Officina Bodoni. </s> 
+wikipedia.org | <s> Created in 2008, Cevital MTP (Public Works Equipment) specializes in the renting of the equipment of public works, transportation and construction. </s> 
+wikipedia.org | <s> An alternative generic name for S. thailandicus was proposed by Jeremy E. Martin, Komsorn Lauprasert, Eric Buffetaut, Romain Liard and Varavudh Suteethorn in 2013 following the discovery of cranial elements associated with the mandibular remains, creating the combinatio nova Chalawan thailandicus. </s> 
+wikipedia.org | <s> Hence it was the period before it was discovered that by adding tin to copper one could create bronze, a metal alloy harder and stronger than either component. </s> 
+wikipedia.org | <s> In 2017 the FFF reorganised amateur football along the lines of the 2016 reorganisation of the Regions of France, creating Championnat National 2 and Championnat National 3 to replace CFA and CFA2. </s> 
+wikipedia.org | <s> After six months in Cleveland, Young left for New York where he created another female flapper strip, Beautiful Bab, which the Bell Syndicate began distributing on July 15, 1922. </s> 
+wikipedia.org | <s> What creates hell is therefore not our animal side but our human side–things like our ability to think, use language, build relationships, and create societies. </s> 
+wikipedia.org | <s> As a professor at KAIST, he created KAIST Satellite Technology Research Center and lead a collaboration with students from KAIST and University of Surrey to successfully engineer the first Korean satellite, KITSAT-1, also named "Our Star". </s> 
+wikipedia.org | <s> In May 2014, he created a trail guide for river voyagers after completing a journey down river from Spartanburg to the Atlantic coast. </s> 
+wikipedia.org | <s> Christ Church was the first church to be built in North Shields, originally a small fishing village created by Prior Germanus of Tynemouth Priory in the thirteenth century. </s> 
+wikipedia.org | <s> According to the report, Mr. Steele created another, previously unreleased memo in late November 2016, which said the Kremlin "intervened to block" Mr. Trump's choice of Mr. Romney for secretary of state. </s> 
+wikipedia.org | <s> Chrome River Technologies is an American software-as-a-service (SaaS) company that creates expense reporting and supplier invoice automation software for mid-size to large commercial and non profit organizations and higher education institutions worldwide. </s> 
+wikipedia.org | <s> The Society of Clinical Research Associates (SOCRA) has developed an International Certification Program in order to create an internationally accepted standard of knowledge, education, and experience by which CRPs will be recognized as Certified Clinical Research Professionals (CCRP®s) in the clinical research community. </s> 
+wikipedia.org | <s> During this time Callender also created and produced the British cult hit The Last Resort which changed the face of late night television in the UK and launched the career of British TV personality Jonathan Ross. </s> 
+wikipedia.org | <s> Vasari promulgated the idea that artistic skill was endowed upon chosen individuals by gods, which created an enduring and largely false popular misunderstanding of many artistic processes. </s> 
+wikipedia.org | <s> Technology has provided the internet, wireless connectivity and collaboration tools such as blogs and wikis, and has as such created the possibility of "mass collaboration". </s> 
+wikipedia.org | <s> Lakeland was created by Edwin Newman, who improved the original 238 acres (0.96 km2) located to the west of the railroad. </s> 
+wikipedia.org | <s> In August 1717, King Louis XV accepted the offer of Scottish financier John Law to create a joint stock company to manage colonial growth. </s> 
+wikipedia.org | <s> Those images are created from records of the amounts of red, green and blue light present at each point of the image formed by the camera lens. </s> 
+wikipedia.org | <s> Rugby union goalposts are 5.6 m (18.3 ft) apart and extend vertically from the ground being connected by a crossbar at 3 m (9.8 ft), creating an H-shape. </s> 
+wikipedia.org | <s> In a sense, Shearith Israel helped create three of the largest and most significant Jewish religious organizations in the United States: JTS, the OU, and USCJ. </s> 
+wikipedia.org | <s> He helped create the Colorado Clean Energy Development Authority, which issued bonds to finance projects that involve the production, transportation and storage of clean energy until it was repealed in 2012. </s> 
+wikipedia.org | <s> In May 2007, Reum launched his first company called VEEV Spirits with a vodka brand that was both the first liquor made with acai and the first to be created in a sustainable facility . The product, which was an açaí-infused wheat based grain alcohol liquor, initially sold in high end bars, nightclubs and high-profile celebrity events out of the back of his car before becoming a national success with a product portfolio that eventually including the first line of certified organic RTD cocktails called VitaFrute . VeeV Spirits products were available in major retail chains, specialty shops, bodegas and independent liquor and retail stores, as well as bars, nightclubs, public and private event spaces, hospitality suites and Virgin America airlines. </s> 
+wikipedia.org | <s> In November 2012, Cracker Barrel licensed its name to Smithfield Foods' John Morrell Division in a deal to create a line of meat products to be sold in supermarkets and through other retail channels. </s> 
+wikipedia.org | <s> In February 2018, British computer scientist Junade Ali created a communication protocol (using k-anonymity and cryptographic hashing) to anonymously verify if a password was leaked without fully disclosing the searched password. </s> 
+wikipedia.org | <s> The characters first appear in The Invaders #14 (March 1977) and were created by Roy Thomas, Jack Kirby, and Frank Robbins. </s> 
+wikipedia.org | <s> The successes of the cultural revolution include raising the literacy rate to 87.4% of the population (according to the census of 1939), creating an extensive system of secondary schools, and significant development of science and the arts. </s> 
+wikipedia.org | <s> Banco Nacional de Venezuela was created by act of Congress, May 17, 1841, with a capital of 2.5 million pesos. </s> 
+wikipedia.org | <s> He praised Parker for creating psychedelia by leaving the listener "simultaneously baffled and intrigued", rather than resorting to clichéd psychedelic music effects. </s> 
+wikipedia.org | <s> DEKA joined with Farmers Trading Company in 1992 to create Farmers Deka Limited. 1996 saw the launch of DEKA's new slogan "You Know Where" which was later changed to "Better value, every day". </s> 
+wikipedia.org | <s> In 1999, the university signed the Talloires Declaration, which committed Dalhousie and other higher education institutions to developing, creating , supporting, and maintaining sustainability. </s> 
+wikipedia.org | <s> In a 2001 Internet chat with fans, Jackson said "Heal the World" was the song he was most proud to have created . </s> 
+wikipedia.org | <s> The game also has an invention system with which players take photographs of various items and combine them to generate ideas for inventions, which can be created if players have the required materials. </s> 
+wikipedia.org | <s> As such, he had to rely on his imagination to create everything, with the exception of the buffet room, which he based on the actual room he had explored, and the caves under the hotel, which were partly inspired by the Dan yr Ogof caves in Wales. </s> 
+wikipedia.org | <s> As part of Darwin 2009, the education team at the Regenerative Medicine Partnership in Education created unique curriculum pieces for each institution. </s> 
+wikipedia.org | <s> Of the principal sources that Wagner used in creating the Ring cycle, the Scandinavian Eddas – the Poetic Edda and the Prose Edda – provided most of the material for Das Rheingold. </s> 
+wikipedia.org | <s> In some data grids it may be necessary to create a federated RMS architecture because of different administrative policies and a diversity of possibilities found within the data grid in place of using a single RMS. </s> 
+wikipedia.org | <s> Dean Hall created the concept while he was a soldier in the New Zealand Army, as a suggestion for training soldiers through exposure to situations provoking emotion and relevant thought processes. </s> 
+wikipedia.org | <s> This was the first film released by Signscope, which was a company started by Wechsberg and producer Gary Holstrom to create and distribute Deaf films. </s> 
+wikipedia.org | <s> Typically, electric guitars are heavily distorted and dark ambient aspects such as keyboards or synthesizers are often used to create a "dreamlike" atmosphere. </s> 
+wikipedia.org | <s> Spector had created hits such as "Be My Baby" and "You've Lost That Lovin' Feelin'" with his "wall of sound" production technique in the 1960s, and had some success in the early 1970s by producing albums by John Lennon and George Harrison; however, his behaviour became increasingly erratic. </s> 
+wikipedia.org | <s> Delivery is a 2005 animated short film by German digital and visual artist, graphic designer and filmmaker Till Nowak, created as his thesis film project. </s> 
+wikipedia.org | <s> In 2013, Silicon Knights was involved in a dispute with Ontario's Federal Economic Development Agency, after it received a 2010 loan of around US$4 million for the development of a new mainstream video game that would create more than 65 jobs. </s> 
+wikipedia.org | <s> In this regards, Torbjörn was the defining character for the game, as while he was not created first, his art style was originally created by Tsang to help bridge the gap between the Warcraft universe to Overwatch. </s> 
+wikipedia.org | <s> The institute opened with the building in 1983 and is a mini-retrospective touching on each of the major type of work he created with this medium. </s> 
+wikipedia.org | <s> He also created and hosted two Fox television specials in 2000 called Challenge of the Child Geniuses, the last game show he hosted. </s> 
+wikipedia.org | <s> A logic gate is generally created from one or more electrically controlled switches, usually transistors but thermionic valves have seen historic use. </s> 
+wikipedia.org | <s> On 2 March 2013, the diocesan synod voted in favour of proposals to abolish the diocese in order to create a larger Leeds diocese; the proposal was approved on 8 July 2013 by the General Synod and the scheme was enacted, dissolving Bradford diocese and creating Leeds diocese, on 20 April. </s> 
+wikipedia.org | <s> Out of this movement towards generalized punishment, a thousand "mini-theatres" of punishment would have been created wherein the convicts' bodies would have been put on display in a more ubiquitous, controlled, and effective spectacle. </s> 
+wikipedia.org | <s> When you visit a room in a MOO, you see its description as you enter and you can create virtual objects in a room that themselves can be described. </s> 
+wikipedia.org | <s> Donald McKayle (July 6, 1930 – April 6, 2018) was an American modern dancer, choreographer, teacher, director and writer best known for creating socially conscious concert works during the 1950s and '60s that focus on expressing the human condition and, more specifically, the black experience in America. </s> 
+wikipedia.org | <s> Meanwhile, the nanomachines that the Chief created planned to swarm the world and create a global catastrophe if they weren't stopped. </s> 
+wikipedia.org | <s> As his wife was created a life peer as Baroness Hogg in 1995, the Hailshams are among the few couples both of whom hold noble titles in their own right. </s> 
+wikipedia.org | <s> Often turbans were created as part of eveningwear; an example of a Biba evening coat and matching turban in rayon and Lurex knit is now part of the Victoria and Albert Museum archive. </s> 
+wikipedia.org | <s> Accompanying the single release is a music video that takes the space adventure theme, drawing on inspiration from classic 80s space adventure cartoons, such as Ulysses 31, to create a cosmic adventure complete with lost love and space monsters. </s> 
+wikipedia.org | <s> The title was created anew in 1707, again in the Peerage of Scotland, for James Graham, 4th Marquess of Montrose. </s> 
+wikipedia.org | <s> With Atsushi, together with Fuyu and Phekoo, he contributes in the band Red Diamond Dogs, which Atsushi had created for his solo career, after Exile's hiatus in 2016. </s> 
+wikipedia.org | <s> By 1902, a Division of Foreign Markets had been created , and the following year, that division was merged with the Division of Statistics to form the Bureau of Statistics. </s> 
+wikipedia.org | <s> The application of technology and the factory system created such levels of mass production and cost efficiency that enabled British manufacturers to export inexpensive cloth and other items worldwide. </s> 
+wikipedia.org | <s> Seilacher has suggested that the Ediacaran organisms represented a unique and extinct grouping of related forms descended from a common ancestor (clade) and created the kingdom Vendozoa, named after the now-obsolete Vendian era. </s> 
+wikipedia.org | <s> Later that year, the fourth World Conference of the Girl Guiding and Girl Scouting Movement (where World Thinking Day was created ) was held there. </s> 
+wikipedia.org | <s> Today at the Hawaiian Historical Society Library in Honolulu are reproductions of 237 rare glass-plate photographs that Arning created during his stay in Hawaii. </s> 
+wikipedia.org | <s> As Lord Cork's nominee, Harris sat in the Irish House of Commons in the Irish Parliament of 1613–15 as one of the two members for Clonakilty, a borough which had been newly created at Lord Cork's instigation as part of his plan to build a political empire in the south of Ireland. </s> 
+wikipedia.org | <s> The trio released their debut single"Jana Usiku" in November 2013 that became a great success, creating a pavement on their subsequent singles. </s> 
+wikipedia.org | <s> The book provides a forum for multiple responses and creates a dialogue between Elders, who apply their experience and knowledge to the following topics: Overcoming life's obstacles; parent-child relationships; sibling rivalry; self-discovery; lasting love; decision-making; career; aging; and loss. </s> 
+wikipedia.org | <s> Creating the boxes at the time was not a simple task for the developers; the boxes were shrink-wrapped by hand, with the help of a kitchen heat sealer and a sandwich toaster. </s> 
+wikipedia.org | <s> Electronic Chart Centre AS is Norwegian government enterprise created in 1999 to create and publish nautical charts for use by ships and boats. </s> 
+wikipedia.org | <s> They approved an agreement with the bondholders of loans from 1871–72,the autonomy to the National University was given; the Faculty of Physics and Mathematics was created ; treaties were signed Diaz-Leon Gutierrez, with Bolivia, and Ibarra-Mangabeira, with Brazil, supplementary to the treaty of 1872. </s> 
+wikipedia.org | <s> More recent self-report tools include The Empathy Quotient (EQ) created by Baron-Cohen and Wheelwright which comprises a self-report questionnaire consisting of 60 items. </s> 
+wikipedia.org | <s> Emperor Guangwu, then still an official under Gengshi Emperor, had married Yin in 23 and, after he became emperor in 25, had wanted to create her empress, but she declined because she had no sons at that point. </s> 
+wikipedia.org | <s> His mother Princess Guo, however, despite her having been Li Chun's wife, was not created empress, but only an imperial consort, albeit with the high rank of Guifei (貴妃). </s> 
+wikipedia.org | <s> Every race would dispatch a Rocket Ship with a pre-determined size, mass and equipment, stocked with materials, personnel and equipment to create a city analogous of modern Earth technology and infrastructure. </s> 
+wikipedia.org | <s> However, the same non-profit organization may also create another mobile app to spread awareness of the services to communities among the general public including those communities – and that mobile app would not come under definition of enterprise mobile application. </s> 
+wikipedia.org | <s> One is that they can create virtual replicas of themselves (known as "partials" or "ghosts") that contain functional parts of their full personality and are able to operate independently, on their behalf, and then reintegrate their experiences with their original later. </s> 
+wikipedia.org | <s> The association aims to create business contacts and supports German companies entering markets or expanding their activities to the region, with emphasis on the enhancement of mutual cultural understanding as a foundation for any long-term partnerships or engagements. </s> 
+wikipedia.org | <s> The European Fencing Confederation (EFC; French: Confédération européenne d'escrime, CEE) is an international body created in 1991, charged with the promotion and development of fencing in Europe. </s> 
+wikipedia.org | <s> A monetary union of these countries with current account surpluses would create the world's largest creditor bloc, bigger than China or Japan. </s> 
+wikipedia.org | <s> The limestone underneath the Big Cypress contains quartz, which creates sandy soil that hosts a variety of vegetation different from what is found in other areas of the Everglades. </s> 
+wikipedia.org | <s> The video was directed by Eilish, who stated; "My brother and I wrote this song about each other and I wanted to create a visual that emphasizes that no matter what, we'll be there for each other through everything. </s> 
+wikipedia.org | <s> Instead of building chat functionality into the BBS, Mahoney created a separate system, Exec-PC Chat, which ran alongside the Exec-PC BBS. </s> 
+wikipedia.org | <s> Instead, almost all current "artificial intelligence" research focuses on creating algorithms that "optimize", in an empirical way, the achievement of an arbitrary goal. </s> 
+wikipedia.org | <s> Cosmic dust contains complex organic compounds (amorphous organic solids with a mixed aromatic-aliphatic structure) that can be created naturally by stars and radiation. </s> 
+wikipedia.org | <s> Faris Scherwiz is a pirate captain who was created as a protagonist for Final Fantasy V by Hironobu Sakaguchi, who based the idea of her being a Princess disguised as a man on the manga Princess Knight. </s> 
+wikipedia.org | <s> Following the completion of his term as Prime Minister he was created a Tongan life peer by King George Tupou V with the noble title of Lord Sevele of Vailahi. </s> 
+wikipedia.org | <s> Eric Millikin and Casey Sorrow also created the holiday Monkey Day (celebrated December 14) as an opportunity to educate the public about monkeys, as a holiday that supports evolution rather than religious themes, and an excuse to throw monkey-themed costume parties. </s> 
+wikipedia.org | <s> Likewise, the dashboard used a padded, washable fabric supported by a simple tube, creating a long, flexible storage pocket – accompanied by rigid plastic door storage pockets. </s> 
+wikipedia.org | <s> Assuming that each user is the only member of its user private group, this scheme allows an umask of 002 to be used without allowing other users to write to newly created files in normal directories because such files are assigned to the creating user's private group. </s> 
+wikipedia.org | <s> Then, in March 1098, Baldwin became the new ruler, thus creating the County of Edessa, the first of the crusader states. </s> 
+wikipedia.org | <s> The canton of Aargau was created as an administrative division of the Helvetic Republic, and its flag is an original design by Samuel Ringier-Seelmatter of Zofingen (1767–1826), dating to 1803. </s> 
+wikipedia.org | <s> Many Adobe Flash animations are created by individual or amateur artists and many that are first distributed on the web became popular enough to be broadcast on television, particularly on such networks as MTV and G4. </s> 
+wikipedia.org | <s> One reason for this is "indigenismo" the ongoing struggles of a number of indigenous communities to resist outside influences into their cultures and Mexican government efforts to assimilate them to create a homogenous national identity. </s> 
+wikipedia.org | <s> Foxfire, also called fairy fire or chimpanzee fire, is the bioluminescence created by some species of fungi present in decaying wood. </s> 
+wikipedia.org | <s> Scanlan also created a renewal center on the campus, which organized retreats and seminars to further instruct students in the Roman Catholic faith. </s> 
+wikipedia.org | <s> Based on the premise that the only true education is self-education, the system created seminar courses for selected students that were more challenging than the regular curriculum. </s> 
+wikipedia.org | <s> French Connect was created in 2004 in response to the demand from French airports for a dedicated event that would put them in contact with low-cost carriers. </s> 
+wikipedia.org | <s> In Milan, the Cisalpine Republic was created , which was governed jointly by a Directory and Councils and by the French army. </s> 
+wikipedia.org | <s> The most recent initiative at Cubbon Park, Bangalore, brought to light various issues ranging from corruption to women's rights, and gained attention from the Bangalore Media for the powerful concept and impact that it created . </s> 
+wikipedia.org | <s> While superficially similar to brass rubbing and other forms of rubbing intended to reproduce an existing subject, and in fact sometimes being used as an alternative term for it, frottage implies using this rubbing technique to create an original image. </s> 
+wikipedia.org | <s> The Hong Kong Alliance in Support of Patriotic Democratic Movements (HKASPDM) was created on the 21 of May 1989, a day when "one million Hong Kong citizens participated in a parade which lasted for eight hours in support for the mainland students". </s> 
+wikipedia.org | <s> Agee was nominated on March 13, 2008 by President George W. Bush to fill a vacancy on the Fourth Circuit created by Judge J. Michael Luttig, who resigned on May 10, 2006. </s> 
+wikipedia.org | <s> These make up a relatively closed set, but although the average user is not expected to create their own fundamental types, the possibility does exist and has been exploited to create custom class hierarchies – i.e., class hierarchies not based on the class. </s> 
+wikipedia.org | <s> In 1934, Salvemini accepted to teach Italian civilization – a position created especially for him – at Harvard University, where he would remain until 1948. </s> 
+wikipedia.org | <s> In October 2011, he was presented by the Nuclear Threat Initiative, led by Sam Nunn and Ted Turner, the Amartya Sen Award 'for intrepid and creative leadership in creating momentum toward a world free of nuclear weapons'. </s> 
+wikipedia.org | <s> Schyman moved into video game composition with Voyeur, released in 1993, after being asked to by his friend Robert Weaver, an executive at Philips, which was creating and publishing the game for its CD-i system. </s> 
+wikipedia.org | <s> Profiles are often created in support for GML derived languages (see application schemas) created in support of particular application domains such as commercial aviation, nautical charting or resource exploitation. </s> 
+wikipedia.org | <s> More than 500 named creeks and rivers make up Oklahoma's waterways, and with 200 lakes created by dams, it holds the highest number of reservoirs in the nation. </s> 
+wikipedia.org | <s> Beginning 23 million years ago, the Adriatic Plate continued to approach the Eurasian Plate, resulting in crustal shortening and extended the orogenic eastward, creating the Styrian, Carpathian, Pannonian and Vienna basins. </s> 
+wikipedia.org | <s> Body lice have been found to be more likely to be host specific than wing lice, possibly due to their host ecology where terrestrial pigeons feeding on the ground may create an easier transfer of lice and therefore be more likely to carry host specific body lice than arboreal birds. </s> 
+wikipedia.org | <s> In the theatre, he created the role of Mickey Johnstone in Willy Russell's musical Blood Brothers, originally at the Liverpool Playhouse, and later at the Lyric Theatre, London. </s> 
+wikipedia.org | <s> On his return, Franju studied to become a set designer and later created backdrops for music halls including Casino de Paris and the Folies Bergère. </s> 
+wikipedia.org | <s> From 1986 to 1991, Columbia Pictures Television and DIC Entertainment produced an animated spin-off television series created by Harold Ramis and Dan Aykroyd, entitled The Real Ghostbusters. </s> 
+wikipedia.org | <s> Ten years later, in 1979, he took over the management of Neuchâtel Xamax, a club created by the merger between FC Cantonal Neuchâtel and FC Xamax. </s> 
+wikipedia.org | <s> The works of authors such as George and Bellamy became popular, and soon clubs were created across America to discuss their ideas, although these organizations rarely made any real social change. </s> 
+wikipedia.org | <s> For the 1800 anniversary of the martyrdom of St. Peter, he created a chalice with detail on the foot with the Sacrifice of Abraham. </s> 
+wikipedia.org | <s> Creating a 'Kings Party' of Catholics and Dissenters ignored the fact that neither group was significant in numbers; by 1680, Catholics formed 1.1 percent of the English population, Dissenters 4.4 percent. </s> 
+wikipedia.org | <s> This finding suggests that LGO is a valuable predictor of job performance and it may be in the best interest of organizations to create a climate in which learning is valued over performance. </s> 
+wikipedia.org | <s> A Batak creation myth told that in primordial times when the world was all ocean, the serpent stirred up sand from the ocean bed to create the first islands which create the islands of Indonesia. </s> 
+wikipedia.org | <s> Energizing: Enthusiastic customers are part of the groundswell, and companies can recognize and appreciate these customers by creating online communities and social platforms where they can connect with the brand and provide reviews. </s> 
+wikipedia.org | <s> His fundamental scientific work lies in the complex and controversial task of reducing the gap between the law and psychology, and in creating a bridge between these two areas of human investigation and behaviour. </s> 
+wikipedia.org | <s> Professor Peter Kershaw, noted palynologist at Monash University, as cited by Bruce Pascoe in his best-selling work Dark Emu, found evidence of a sudden change in vegetation consistent with an artificial ponding system, and initial radiocarbon dating of the soil samples suggests the ponds were created up to 8,000 years ago. </s> 
+wikipedia.org | <s> However, in later tests accuracy was very poor; the difference seems to have been due to a manufacturing flaw in later production runs which partially blocked one of the exhaust ports, creating asymmetrical thrust that caused the projectile to corkscrew through the air. </s> 
+wikipedia.org | <s> His combination of design flair and engineering brilliance led him to create the shape and style that was to become the signature look of American speedboats. </s> 
+wikipedia.org | <s> One particular painting cycle that Xhakli created is the Apocalypse, as it makes the viewer think that it's the end of the world, in fact, it is portrayed as the end of the dreadful side of the universe. </s> 
+wikipedia.org | <s> Their earliest missionaries to China included Reverend William Chalmers Burns whom arrived in Xiamen (known at the time as Amoy) and Reverend George Smith following 10 years later The mission field established by Burns soon became a prosperous one with chapels, schools and hospitals created by fellow workers. </s> 
+wikipedia.org | <s> The Halifax Fisheries Commission was a joint international tribunal created by the Governments of the United Kingdom and the United States in 1877 under Articles 22 and 23 of the Treaty of Washington (1871). </s> 
+wikipedia.org | <s> In addition to synthesized and orchestral components, the composer focused on the choir and piano as essential elements, feeling these were important in creating the "Halo sound". </s> 
+wikipedia.org | <s> To promote literacy among the common people, the fourth king of the Joseon dynasty, Sejong the Great, personally created and promulgated a new alphabet. </s> 
+wikipedia.org | <s> These two meetings created a level of trust between the two men that reduced their risk of exposure when trying to turn the Wehrmacht officer. </s> 
+wikipedia.org | <s> A company created as a front for SFIM, the Italian sales division of SFM, the munitions division of the French firm Gevelot. </s> 
+wikipedia.org | <s> On Jeju Island, the sudden appearance of thirty-six Europeans created no small stir among the Korean inhabitants.:17 On August 21, four days after the shipwreck, Hamel and his crew were taken to Jeju city, upon which the local prefect, Yi Wonjin, sent an announcement to the king in Seoul, describing the event of the shipwreck and requesting advice on how to deal with the Dutchmen. </s> 
+wikipedia.org | <s> In 1264 he was created a supposed baron by de Montfort, which title had no legal validity following the suppression of the revolt. </s> 
+wikipedia.org | <s> Zinzendorf's community influenced John Wesley in creating Methodism and it contributed to the rise of Evangelicalism, a broad interdenominational movement of more than 300 million people all over the globe. </s> 
+wikipedia.org | <s> She can also be seen in the hit CTV Series The Launch ( created by Scott Borchetta playing guitar in the show's house band. </s> 
+wikipedia.org | <s> The local IRA units, for the most part, did not accept the Anglo-Irish Treaty negotiated to end the war -ultimately repudiating the authority of the newly created Irish Free State. </s> 
+wikipedia.org | <s> Yahya moved with dispatch to settle two contentious issues by decree: the unpopular "One Unit" of West Pakistan, which was created as a condition for the 1956 constitution, was ended; and East Pakistan was awarded 162 seats out of the 300-member National Assembly. </s> 
+wikipedia.org | <s> They completed the extension of the Rue de Rivoli, begun by Napoleon I, and built a network of wide boulevards to connect the railway stations and neighborhoods of the city to improve traffic circulation and create open space around the city's monuments. </s> 
+wikipedia.org | <s> Initially four corps were created : 1st Corps (Sarajevo); 2nd Corps (Tuzla) in northern Bosnia; 3rd Corps (Zenica) and 4th Corps (Mostar) in Herzegovina; the Eastern Bosnian Operational Group in the eastern enclaves of Goražde. 5th Corps (Bihać) was established on 21 October 1992 from the Una-Sana Operational Group to defend the North-Western Bosnian enclave. </s> 
+wikipedia.org | <s> Polish government began actively helping the Zionist movement with its goal of creating the state of Israel, and armed and trained Polish Jews in paramilitary groups such as Haganah, Irgun and Lehi. </s> 
+wikipedia.org | <s> The Transgender Pride Flag, created by American transgender woman Monica Helms in 1999, and first shown at a pride parade in Phoenix, Arizona, United States in 2000. </s> 
+wikipedia.org | <s> A parish was created for it in 1839 by combining the tithings of Studley and Little Trowle, with boundaries defined largely by the River Biss and the Trowle Brook. </s> 
+wikipedia.org | <s> A member financial institution and a community-development organization hold each award jointly – partners that have successfully shared the challenge of creating local solutions for specific housing and development problems in their communities. </s> 
+wikipedia.org | <s> Later in life Kephart campaigned for the establishment of a national park in the Great Smoky Mountains with photographer and friend George Masa, and lived long enough to know that the park would be created . </s> 
+wikipedia.org | <s> The districts of both Horb and Hechingen were dissolved as part of Baden-Württemberg's 1973 local government reforms, and the majority of Horb's territory, including the city itself, was transferred to Freudenstadt, itself now part of the newly created Northern Black Forest Region in the recently expanded Regierungsbezirk of Karlsruhe. </s> 
+wikipedia.org | <s> In 2009, Host created the World Fair Trade Day website that on 8 May 2009 became the hub for 1000 events in 70 countries. </s> 
+wikipedia.org | <s> HRDC was dissolved in a December 2003 government reorganization which saw two departments, the Department of Social Development and the Department of Human Resources and Skills Development created in its place. </s> 
+wikipedia.org | <s> The United Nations Charter, a treaty, was created in order to define what roles, powers, and duties the United Nations is allowed to practice in dealing with international relations. </s> 
+wikipedia.org | <s> The Victims of Trafficking and Violence Protection Act was enacted by the United States in 2000 and was created to establish minimum standards to combat human trafficking applicable to countries that have significant trafficking problems. </s> 
+wikipedia.org | <s> During the Prohibition era, a small community called 'Hyder, BC' was created just across the Canadian border to serve as a legal speakeasy to the Hyder mining community, even housing its own Canadian Customs office. </s> 
+wikipedia.org | <s> Bumgardner originally created Iptscrae for Idaho, an in-house multi-media authoring system, similar to HyperCard, which he created while an employee at Warner New Media. </s> 
+wikipedia.org | <s> The slot corresponding to its uppercase form is occupied by the lowercase letter ß from the German language, which did not have an uppercase form at the time when the standard was created . </s> 
+wikipedia.org | <s> The drama of the music is how Boulez manipulates his musical textures to create moments of stasis and irresistible energy, and everything in between. </s> 
+wikipedia.org | <s> In addition to curating 500 photographs of the lives of Black Americans, Du Bois and his Atlanta University team of students and scholars created 60 handmade data visualizations to document the ways Black Americans were being denied access to education, housing, employment and household wealth. </s> 
+wikipedia.org | <s> The former king of the Inhumans called the Unspoken revealed that the Alpha Primitives are actually humans who have been exposed to gas created from Xerogen Crystals, a substance created by the Kree as a weapon for the Inhumans to use against their human enemies. </s> 
+wikipedia.org | <s> In 2017, ICU won two Achievement in Marketing Excellence (AIME) Awards, one of which was for creating the first mobile branch of any credit union in Canada. </s> 
+wikipedia.org | <s> This is followed by "at length truly corresponding to its title", a play on the grandiosity of the title and an indication that the new work better lives up to the expectation created by such a title. </s> 
+wikipedia.org | <s> The International Aid Transparency Initiative (IATI) is a global campaign to create transparency in the records of how aid money is spent. </s> 
+wikipedia.org | <s> The association was a loose coalition of Divine Science leaders and centers across the United States, and is credited as the first of several umbrella organizations created at the turn of the 20th century for the New Thought movement. </s> 
+wikipedia.org | <s> In June of that year, Peeper founded the IFOPA to facilitate fund raising for FOP research and generally create awareness of the disease. </s> 
+wikipedia.org | <s> Central to the concept of an iron triangle is the assumption that bureaucratic agencies, as political entities, seek to create and consolidate their own power base. </s> 
+wikipedia.org | <s> Three different versions of the clown's face were created , one of which resembled a hobo clown, another that was "a little meaner," and the final one seen in the series. </s> 
+wikipedia.org | <s> His scientific interests were designing new powerful completely mechanized steel works; creating advanced typical metallurgical aggregates; intensifying metallurgical processes, especially by means of oxygen; elaborating and introducing the basic oxygen process; and assimilation and multi-purpose utilization of new kinds of metallurgical raw materials. </s> 
+wikipedia.org | <s> He also produced and wrote albums for hard rock and glam metal bands Babylon A.D., Baton Rouge, Doro and for his own band Surgin', which he had created in 1985 at the insistence of his then managers. </s> 
+wikipedia.org | <s> Now there are many inhabitants of the area and it has created a great job opportunity for the people of Jaipur and Rajasthan. </s> 
+wikipedia.org | <s> It is also an art, culture and tourism center, created by local artist and architect, César Manrique, and managed by the government of Lanzarote. </s> 
+wikipedia.org | <s> During his political career, Thompson was assisted in projects for the expansion of Highway 59, improving local roads in Sugar Land, the creation of the Sugar Land Town Square, improving the Sugar Land Regional Airport; expanding the Sugar Land park system ( creating the Imperial, Oyster Creek, and Eldridge parks), and acquiring land for the Brazos River Corridor. </s> 
+wikipedia.org | <s> After a brilliant academic career, Dr. Gerdemann retired from the University in 1981, moved to Yachats and purchased about an acre of land next to the Siuslaw National Forest, where he created a botanical garden called The Gerdemann Botanical Garden. </s> 
+wikipedia.org | <s> In 1470–1472, Colombe created the miniatures of the Heures de Louis de Laval; around 1475, he illuminated the crusader chronicles, Les Passages d'oultre mer du noble Godefroy de Bouillon, du bon roy Saint Loys et de plusieurs vertueux princes, by Sébastien Mamerot. </s> 
+wikipedia.org | <s> In 1830 he became Cuvier's substitute as lecturer on human anatomy at the Jardin du Roi, and in 1832 was elected to the post of titular professor, which he vacated for the professorship of comparative anatomy created for him at the museum of the Jardin the same year. </s> 
+wikipedia.org | <s> He developed his skills after watching his mother sew and began making clothes for friends and family as a young teenager, also learning how to create his own patterns. </s> 
+wikipedia.org | <s> The ads, which were intended to create buzz for Windows in support of the subsequent "I'm a PC" advertisements, began airing in mid-September 2008. </s> 
+wikipedia.org | <s> From 2009 through 2010, he was the chef creating several dishes during the show Förkväll which was broadcast on TV4, and also appeared in Nyhetsmorgon. </s> 
+wikipedia.org | <s> Crosby noted that while many others believed Jesus' miracles, there is no record of these "signs" convincing John, who continued a separate baptismal ministry, creating disciples resulting in a community that still exists in parts of the Middle East. </s> 
+wikipedia.org | <s> Mr. Terrific had managed to create a one-time use machine which destroys all the Black Lanterns in New York city, Johnny included. </s> 
+wikipedia.org | <s> The Journal of Creating Value is a peer reviewed academic journal that focusses on creating value for customers and in turn creating value for the company and its stakeholders. </s> 
+wikipedia.org | <s> Also relocating to Dallas from Phoenix was Tom Duran as the Sales Manager and a major player in helping create The EDGE's promotion and concerts. </s> 
+wikipedia.org | <s> The sculpture and the coat of arms were created by Bronius Pundzius . The first floor windows are covered with grates more as a decoration than for security – without them the large windows looked more like display windows. </s> 
+wikipedia.org | <s> Priceless Secrets from The Soul of A Woman, in which Price created the role of Sheila alongside Tyler Perry who used the song titles and lyrical content of Price's hit recordings to develop the story. </s> 
+wikipedia.org | <s> The role began a short acting career for Ward; when Travolta was cast in the 1978 film Grease, Ward was cast as Putzie, a character created especially for the film. </s> 
+wikipedia.org | <s> Keokuk National Cemetery was created in a separate, donated plot of Oakland Cemetery during the American Civil War as a place to inter veterans who died in the five military hospitals in the area. </s> 
+wikipedia.org | <s> Francisco Guterres was succeeded by his sister Verónica I Guterres Kandala Kingwanga, whose long rule from 1681 to 1721 consolidated the control of the Guterres dynasty and created a lasting precedent for female rulers. </s> 
+wikipedia.org | <s> In late 1960 an adjoining land parcel of 14.8 perches (370 m2) to the east was acquired and an easement was created , granting a right to light and air that would protect the views to the beach from Kinkabool's units. </s> 
+wikipedia.org | <s> On the second and third rolls, the player may hold back dice from the previous rolls in order to create better scoring combinations. </s> 
+wikipedia.org | <s> Frehley created the now-iconic logo, making the "SS" look like lightning bolts, when he went to write the new band name over "Wicked Lester" on a poster outside the club where they were going to play. </s> 
+wikipedia.org | <s> After Snow White, Kreuk's agent sent an audition tape to screenwriters Alfred Gough and Miles Millar, who at the time were putting together the cast of a show they had created for the WB Network entitled Smallville. </s> 
+wikipedia.org | <s> In 1965, the Syrian government decided to create an Arab cordon (Hizam Arabi) in the Jazira region along the Turkish border. </s> 
+wikipedia.org | <s> However, as the ferry terminal at the Kyle of Lochalsh was 71 miles (114 km) from Stornoway, in 1970 Ross and Cromarty council voted to create a new £460,000 (equivalent to £7,167,700 in 2019) ferry terminal at Ullapool which was only 43 miles (69 km) from Stornoway. </s> 
+wikipedia.org | <s> Measurable emissions of gravitational waves are expected from binary systems (collisions and coalescences of neutron stars or black holes), supernova explosions of massive stars (which form neutron stars and black holes), accreting neutron stars, rotations of neutron stars with deformed crusts, and the remnants of gravitational radiation created by the birth of the universe. </s> 
+wikipedia.org | <s> On July 19, 2010, MGA Entertainment announced the launch of a line of doll toys, Bitty Buttons ( created by Amandine Consorti), featuring eight 13-inch original rag dolls. </s> 
+wikipedia.org | <s> Lano and Woodley created their own television show called The Adventures of Lano and Woodley which debuted on Australian TV on ABC in 1997 with the episode "The Girlfriend". </s> 
+wikipedia.org | <s> Another problem with the NIF lasers is that the flashtubes create a significant amount of heat, which warms the laser glass enough to cause it to deform. </s> 
+wikipedia.org | <s> She created some controversy when she notified the National Arts Centre on September 24, 2008 that she would not be able to fulfill her role as Honorary Gala chair on October 4. </s> 
+wikipedia.org | <s> For her, this process sets something undesirable aside, so that she can "investigate it, sculpt it, and create something outside of my body that is vividly physical, in subject and in form". </s> 
+wikipedia.org | <s> West is renowned for helping popularize the Gibson Les Paul Jr. guitar with P-90 pickups, along with the use of Sunn Amplifiers, to create a tone which became his trademark sound. </s> 
+wikipedia.org | <s> The Czechs of Bohemia joined newly established Czechoslovakia on 29 October 1918 whilst the Germans wanted to create independent German Austria on 12 November 1918, both citing Woodrow Wilson's Fourteen Points and the doctrine of self-determination. </s> 
+wikipedia.org | <s> He also suffered a horrific childhood of his family murdering each other for succession, so he forged a pact with his brother V.V. to create a world without lies. </s> 
+wikipedia.org | <s> He was aided by the chaos created by an Allied strike on the laboratory he was working in and managed to escape in the confusion. </s> 
+wikipedia.org | <s> Finding his target, Ryuga introduces himself before fighting Washizu as he forced to defend himself with ever slash made on him creating a golden shock wave that overwhelms his opponent. </s> 
+wikipedia.org | <s> Believing that humans and darkness are intertwined, Agō steals the severed arm of the Horror Degol from its resting place to achieve his goal to create a world without Horrors by wiping out all of humanity. </s> 
+wikipedia.org | <s> Lidagat has the ability to create, shape and manipulate water at will: can manipulate tide, create tsunamis, create downpours and command sea creatures according to her will. </s> 
+wikipedia.org | <s> Unable to leave the city as a result, Shinigami creates DWMA to train meisters and weapons to prevent more kishin from surfacing, and to create death scythes to help him maintain the peace. </s> 
+wikipedia.org | <s> This classification was made obsolete after the Air Transportation Office was replaced by the Civil Aviation Authority of the Philippines, the successor agency created by virtue of Republic Act No. 9497. </s> 
+wikipedia.org | <s> The people in this list are famous in other areas of activity, but are known to have played chess, or have declared an interest in the game, or created works of art and literature in which the game is prominently featured. </s> 
+wikipedia.org | <s> Created by J. H. Wyman, this series featured the partnership between human and android police officers in a future where technology had advanced human life, but also future stratified society. </s> 
+wikipedia.org | <s> After launching a pilot in Bogota in collaboration with Liter of Light Switzerland in February 2012, a local Bogota organization was created . </s> 
+wikipedia.org | <s> Liu was moved to create his "Hiding in the City" series after the destruction of the Beijing artists' village Suo Jia Cun in November 2005. </s> 
+wikipedia.org | <s> With the exception of crown prince Liu Che, who later ascended the throne as Emperor Wu, Emperor Jing created all his other sons kings with their own fiefdoms. </s> 
+wikipedia.org | <s> Once the string of coins changed hands, it created a new iconography for Liu's enlightenment by Zhongli Quan stacking up eggs and coins to represent the precariousness of human existence (Jing 1996: 216, Pas and Leung 1998: 211). </s> 
+wikipedia.org | <s> The circuit court agreed with LizardTech that claim 21 was in fact directed to creating a seamless DWT, but nevertheless decided that claim 21 was invalid. </s> 
+wikipedia.org | <s> In theory this would create a tremendous amount of downforce, so the chassis would have to be built to be more structurally rigid than that of the Lotus 79. </s> 
+wikipedia.org | <s> By creating an unprecedented tax-incentived mechanism wherein each investor received a specially personalised Lotus Turbo Esprit, the new American company, Lotus Performance Cars Inc. (LPCI), was able to provide fresh capital to the Group Lotus in the United Kingdom. </s> 
+wikipedia.org | <s> In 1990, he resigned from that institution and, with a group of colleagues, created the Institute of Contemporary Psychoanalysis (ICP) where he was the Founding President from 1990 to 1993. </s> 
+wikipedia.org | <s> The Indian gaming portal Zapak.com created a microsite for the movie with a game, "Luck by Chance - Lucky Break". </s> 
+wikipedia.org | <s> Having watched the Dungeons & Dragons games started by Mike Mornard, one of the original testers for D&D, when he moved to Minneapolis from Lake Geneva, Barker resolved to create his own ruleset based on his own created world and the game mechanics from D&D. After six weeks, this was self-published in August 1974 as Empire of the Petal Throne and play commenced forthwith, including such occasional members as Dave Arneson – who singled out Barker and Tekumel as being his favorite GM and roleplaying game, respectively – from early days. </s> 
+wikipedia.org | <s> He added that his god MC track got more people talking about the content of songs than they were doing before. god MC also talked about the state of Ghana's pop culture, with the rapper bemoaning our "move from Inspector Bediako to Kunkum Bagya," a reference to the country's departure from creating real authentic Ghanaian productions to dubbing foreign films into local languages. </s> 
+wikipedia.org | <s> In Summer 2015, MTV rebranded the channels identity focusing on MTVBump.com initiative and allowing more social friendly idents created by MTV viewers. </s> 
+wikipedia.org | <s> When his children grew up and his sons returned from army service during World War II, Cantor Malavsky decided to appear together with his family, creating a choir from his two sons - Avraham (Albert) and Morton - and his four daughters - Goldie (Gloria), Gittele (Trudie), Ruth and Menucha (Minnie); the latter became known as the Four Chazentes. </s> 
+wikipedia.org | <s> Manhattan Valley occupies a natural depression running east–west across Manhattan, declining rapidly from high rocky bluffs at the western border of modern Central Park, and following west the valley created by what was once a minor stream draining from roughly the area of the Harlem Meer into the Hudson River. </s> 
+wikipedia.org | <s> Maron, a television series created by and starring Maron for a 10-episode first season, premiered on IFC on May 3, 2013. </s> 
+wikipedia.org | <s> From 1999-2003, as a member of the Conservatory of Music at Brooklyn College Electroacoustic Ensemble, Oppedisano used the facility at the Brooklyn College Center for Computer Music (BC-CCM) to create his electroacoustic works focusing on sounds derived only from electric guitar and electric bass. </s> 
+wikipedia.org | <s> After receiving a residency in Japan in 1993, her work shifted toward an exploration of public space, creating installations and experimental interactive works. </s> 
+wikipedia.org | <s> Such exceptions can create conflicts between age of consent laws and the marriage age, with most statutory rape laws creating exceptions for minors engaged in a sexual relationship with their lawful spouse - although such minors would otherwise not be able to legally consent to sex. </s> 
+wikipedia.org | <s> Thus Vinzent thinks that from this, the basis was created for the establishment of the Pauline Epistles as canon, through the connection of the later four canonical gospels with origins of the wider New Testament, in which the Acts of the Apostles are found at the end. </s> 
+wikipedia.org | <s> In 2014, his production of Ball im Savoy opened at the Estonian National Opera; Sander directed, revised the text, made new orchestral arrangements and provided set and costume design, as well as created the role of Mustafa. </s> 
+wikipedia.org | <s> An art exhibit, titled Marvel: Creating the Cinematic Universe, was displayed exclusively at the Queensland Gallery of Modern Art (GOMA) from May to September 2017. </s> 
+wikipedia.org | <s> George Calvert, 1st Baron Baltimore (1580–1632), wished to create a haven for his fellow English Catholics in the New World. </s> 
+wikipedia.org | <s> After graduating Ladensack created his production company Humanity Pictures with friend Kiko Suura, a film company dedicated producing high-quality media entertainment that raises awareness socially, culturally and environmentally. </s> 
+wikipedia.org | <s> In life, Lewis had a very small house, at 10 ft × 12 ft (3.0 m × 3.7 m), and Walsh wished to be accurate in creating a replica, but the recreation of the house had to be enlarged to accommodate a film crew. </s> 
+wikipedia.org | <s> The windows were made in collaboration with the stained-glass artist Marguerite Huré; Denis designed the figurative art in the center of each window, while Marguerite Huré created the window and the abstract glass designs around it. </s> 
+wikipedia.org | <s> He was also involved in the destruction of the Munich cell of the Socialist Workers' Party of Germany and made contact with Catholic and monarchist resistance groups as part of the aim of the KPD to create a united peoples front, the Volksfront, to resist Hitler and the Nazis. </s> 
+wikipedia.org | <s> In addition to the main campaign sequence, players may create their own levels with an included level editor and share them using Steam workshop. </s> 
+wikipedia.org | <s> The latter two materials are combined to create the building's most distinctive feature, the proscenium-style arched window across the bottom two stories. </s> 
+wikipedia.org | <s> According to the AFL at the time, mergers would create super-clubs which would retain at least some of the traditions and history of its former teams; clearly preferable to having both teams eventually financially collapse. </s> 
+wikipedia.org | <s> For the partial sequences of the smaller and larger elements created in this way, the merge algorithm is again executed in parallel until the base case of the recursion is reached. </s> 
+wikipedia.org | <s> In North Carolina, a private endeavor is working to create a Metasequioa reserve on 50 acres of uplands in the Sauratown Mountains. </s> 
+wikipedia.org | <s> South Australia, due to a large German immigration in the 19th century (to, for example, the town of Hahndorf), mettwurst (sometimes spelled "metwurst") is common: it is created in the northern German style and served as a cold cut. </s> 
+wikipedia.org | <s> The popularity led to the creation of the first trios championship in Mexico when the Universal Wrestling Association (UWA) created the UWA World Trios Championship in 1984. </s> 
+wikipedia.org | <s> As a teenager he played with and created toy theatre productions and was inspired to become an animator through viewing Hermína Týrlová's Vzpoura hraček (The Revolt of Toys, 1946) and discovering a book on DIY stop motion animation. </s> 
+wikipedia.org | <s> From the Renaissance they began to be made in Italy, reaching the height of their popularity in the mid 19th century, when Rome was the centre of production; there was a Vatican Mosaic Studio from 1576, set up to create mosaic replicas of the altarpieces in St Peter's Basilica, which were being damaged by the humid conditions of the vast and crowded interior. </s> 
+wikipedia.org | <s> Once the average player was able to easily create their own map, however, most "new" maps ended up as unoriginal knock-offs of the six original maps and Ocean. </s> 
+wikipedia.org | <s> At present, there are no Microsoft released automated tools to assist in the creation of MAML - you need to create the XML files by hand. </s> 
+wikipedia.org | <s> Midnight Madness (Austin, Texas) – The Austin game is played biannually and was created by several Austin transplants including two veterans from the Hot Springs game. </s> 
+wikipedia.org | <s> Starting in 1869 with the project to blast the reefs and create a port on Sand Island, the environment of Midway atoll has experienced profound changes. </s> 
+wikipedia.org | <s> In September 1986, Bill Boston created the 'Military Counseling Project – Mutlangen' in West Germany, offering an independent source of information about GI rights and discharge possibilities for US servicemembers. </s> 
+wikipedia.org | <s> The album's artwork was created by frequent collaborator Steven R. Gilmore, who used an image he had snapped of a porn actress he saw writhing on TV. </s> 
+wikipedia.org | <s> The group merged the resources of Ming Pao New York and the New York Free Newspaper to create Ming Pao Daily Free News (New York) (Chinese: 明報(紐約)免費報), serving the Chinese community along the US East Coast. </s> 
+wikipedia.org | <s> In June 2011, Mini USA collaborated with rock band Kiss to create a quartet of one-off Countryman crossovers themed after the band. </s> 
+wikipedia.org | <s> Tracks can also be created with external image editing programs, and you use the in-game "Track Editor" to apply different land physics, like mud, sand, and of course, tarmac. </s> 
+wikipedia.org | <s> On 25 July, Chris Lowe himself created a new version of the track using the software and uploaded it onto the U-MYX website. </s> 
+wikipedia.org | <s> The Ministry aims to create a healthy work environment for higher production and productivity and to develop and coordinate vocational skill training and employment. </s> 
+wikipedia.org | <s> This technology was created by the Royal Canadian Mint, backed by the Government of Canada and denominated in a variety of fiat currencies. </s> 
+wikipedia.org | <s> Introduced as a part of a package of "lawful access" proposals, Modernization of Investigative Techniques Act (MITA) if passed, would have required telephone and internet service providers to design, create and maintain interception capabilities into existing networks and into new technologies as they are introduced into Canada. </s> 
+wikipedia.org | <s> It gave access to a gate zwinger created by a wall which included the gate tower, stretched westwards, turned south following a semicircular plan, and connected to the castle at the westernmost vaulted building. </s> 
+wikipedia.org | <s> During World War I, a military unit known as the "Welland Canal Force" (or, sometimes, the "Welland Canal Protection Force") was created to protect critical shipping links in Niagara, including this bridge. </s> 
+wikipedia.org | <s> The toy can be configured to create other animal sounds such as the mewing of a cat, the sound of a bird, or the bleat of a sheep. </s> 
+wikipedia.org | <s> Thus, Mormons deny ex nihilo creation and instead believe that God created or "organized" the universe out of pre-existing elements. </s> 
+wikipedia.org | <s> Since it is believed that whatever the gods touch would create fire, carpets became a symbolic necessity for the king to walk upon. </s> 
+wikipedia.org | <s> In July 2018, the South Korean government announced that it would create and regulate mukbang guidelines by launching the "National Obesity Management Comprehensive Measures". </s> 
+wikipedia.org | <s> Created in 1868 by philanthropists industrialists, led by Charles Thierry-Mieg son, he was successively the property of the Cercle mulhousien, of the Industrial Society of Mulhouse, and then of the City from 1893. </s> 
+wikipedia.org | <s> In an article for Motherboard, he revealed that GCHQ's Joint Threat Research Intelligence Group (JTRIG), had been involved with online sockpuppetry by creating a series of fake Twitter accounts and an URL shortener which was used as a honeypot for dissidents during the Arab spring, having been targeted by JTRIG himself. </s> 
+wikipedia.org | <s> In December 2007, Enterbrain published the first volume of the manga adaptation created by Rize Shinba in its B's LOG Comics imprint. </s> 
+wikipedia.org | <s> The amount of detail in the explanation provided in the story has created controversy among parents due to the accuracy with which Butler describes the act of sex. </s> 
+wikipedia.org | <s> When creating the character for the episode, they wanted to give the character a personality who had much in common with both Mulder and Scully. </s> 
+wikipedia.org | <s> He further expanded Operations Monti to create the Task Force Anti Illicit Immigration (TFAII) in 1963 to counter illegal immigration from South India. </s> 
+wikipedia.org | <s> In September 2010, NYSE Euronext announced plans to create NYSE Blue, a new global company that will focus on environmental and sustainable energy markets. </s> 
+wikipedia.org | <s> On 15 June 2010, the House of Commons voted to create a Backbench Business Committee, and one week later, Engel defeated Sir Alan Haselhurst 202 to 173 in a secret ballot of MPs to become its first chair. </s> 
+wikipedia.org | <s> In the early days of the Republic of El Salvador, the Civil Guard was created in 1867, which then gave way to the National Guard in 1912. </s> 
+wikipedia.org | <s> In response, National Police Gazette Enterprises, LLC, in partnership with the Bare Knuckle Boxing Hall of Fame of Belfast, NY, created the Police Gazette Boxing Corporation as the successor to the Police Gazette's original bare knuckle boxing sanctioning activities. </s> 
+wikipedia.org | <s> In 1968 the Marine Corps requested that the Seabees make a name change from MCB as the Marine Corps was using MCB for Marine Corps Base, so the Navy created the NMCBs. </s> 
+wikipedia.org | <s> Harbisson states that in the same way we can create optical illusions because we have eyes for the sense of sight, we should be able to create time illusions if we have an organ for the sense of time. </s> 
+wikipedia.org | <s> There is evidence that the earliest Western musical notation, in the form of neumes in campo aperto (without staff-lines), was created at Metz around 800, as a result of Charlemagne's desire for Frankish church musicians to retain the performance nuances used by the Roman singers. </s> 
+wikipedia.org | <s> While Owens wrote the constitution for the New Farmers of Virginia and helped lay the foundation for what would become a national organization, Sargent lobbied within the Department of Education to officially create an organization in segregated schools. </s> 
+wikipedia.org | <s> The management has been criticized: while interviews with administration regarding Newark's schools were always positive, highlighting only the good aspects of the huge monetary donation, new contracts were being created , money was being hemorrhaged, and the district was going broke. </s> 
+wikipedia.org | <s> The Newtown Precinct, a large township, was created in 1751, and Sussex County was created from Morris two years later on June 8, 1753. </s> 
+wikipedia.org | <s> His very rich artistic production, from the second half of the 1920s to the beginning of the 1980s, was created inside his study in via Margutta. </s> 
+wikipedia.org | <s> The Military Territory of Niger was subsequently created within the Upper Senegal and Niger colony (modern Burkina Faso, Mali and Niger) in December 1904 with its capital at Niamey, then little more than a large village. </s> 
+wikipedia.org | <s> In the years after Mussorgsky's death, his friends prepared his manuscripts for publication and created performing editions of his unfinished works to enable them to enter the repertoire. </s> 
+wikipedia.org | <s> This panorama was not discovered until the separate frames that compose it were studied by Tyrone Martinsson, who created this web version. </s> 
+wikipedia.org | <s> Dirnt explained that the recording was much more loosely structured than previous albums, and that creating songs was the focus as opposed to making a cohesive record. </s> 
+wikipedia.org | <s> French channel TF1 had been asking Luc Besson to create a TV show for them since 2005, but the filmmaker kept turning them down due to his unfamiliarity with television, which is also the reason he sold the rights for Transporter: The Series. </s> 
+wikipedia.org | <s> This was created by the Welsh artist Sir William Goscombe John in 1923 and unveiled by the Prince of Wales (later Edward VIII); it is on the grounds of the Civic Centre at Barras Bridge. </s> 
+wikipedia.org | <s> On November 8, the northward movement of a bomb cyclone associated with Typhoon Nuri's remnants shifted the jet stream far to the north, creating an omega block pattern, which allowed a fragment of the polar vortex to descend from Arctic region into lower Canada and the Eastern United States, affecting up to 200 million people with colder-than-normal temperatures and early snowstorms. </s> 
+wikipedia.org | <s> The driver and the entrepreneur created a structure based on recognized professionals and quickly started to secure first-class results, making it possible for the Portuguese Racing team to fight with the more advanced teams in the FIA accredited championship that is the main feeder series for Formula One. </s> 
+wikipedia.org | <s> In 1997, the Xiphophorus OggSquish was described as "an attempt both to create a flexible compressed audio format for modern audio applications as well as to provide the first audio format that is common on any and every modern computer platform". </s> 
+wikipedia.org | <s> Ohio County was created out of Dearborn County, authorized by legislative action effective January 4, 1844 to resolve a dispute of county seat between Rising Sun and Lawrenceburg. </s> 
+wikipedia.org | <s> Created in 1924, SR 216 originally consisted of the following current routes: SR 78 from Nelsonville north to Murray City, the entirety of today's SR 216 from Murray City northwest to New Straitsville, an overlap of SR 93 (formerly SR 75) from New Straitsville north to Shawnee, and SR 155 from Shawnee east to Corning. </s> 
+wikipedia.org | <s> In 1680 the area of the district became part of Brandenburg, and the Holzkreis roughly covering the area of the Ohrekreis was created . </s> 
+wikipedia.org | <s> The arpeggio at the beginning of the track was created by David Sancious during a pause from his work with Gabriel for The Last Temptation of Christ, while Pino Daniele contributed with his guitar and style. </s> 
+wikipedia.org | <s> A horse is properly placed, on the bit, by creating impulsion (pushing power) from the rider's driving aids, and then containing this forward energy in the hands, via the reins and bit. </s> 
+wikipedia.org | <s> She also specifically praised the crew, who she said "must be absolutely awesome" if they are able to create such an episode, while Hossington believed that the episode would not be completed to a greater standard if a different cast and crew created it. </s> 
+wikipedia.org | <s> The Brundtland Report claimed that poverty reduces sustainability and accelerates environmental pressures – creating a need for the balancing between economy and ecology. </s> 
+wikipedia.org | <s> Arianism – the belief that the Son of God did not always exist, but was created by–and is therefore distinct from–God the Father. </s> 
+wikipedia.org | <s> Kosovo's unilateral declaration of independence in 2008 and its subsequent recognition by EU countries created a crisis for the DSS–DS government. </s> 
+wikipedia.org | <s> This audio file was created from a revision of this article dated 18 June 2006 (2006-06-18), and does not reflect subsequent edits. </s> 
+wikipedia.org | <s> Before Segovia, guitarists from the Tarrega school, played the guitar by putting the hand right in the soundhole of the instrument, thus creating a mellow sound, but not capable to fill the whole space of a big concert hall. </s> 
+wikipedia.org | <s> The municipality was created in 1995, after the Bosnian War, out of the Republika Srpska-controlled portions of the pre-war municipality of Stolac (now in Federation of B&H). </s> 
+wikipedia.org | <s> The airport first came under management by Aeropuertos y Serviciois Auxiliares in 1965 after the corporation was first created to manage airport terminals in Mexico. </s> 
+wikipedia.org | <s> The Dodd–Frank Wall Street Reform and Consumer Protection Act is categorized into 16 titles and, by one law firm's count, it requires that regulators create 243 rules, conduct 67 studies, and issue 22 periodic reports. </s> 
+wikipedia.org | <s> That day locals gathered at the home of Candido Azcona, resolving to create the first politically administrative organization in the region, and signing the charter, Commission for the Promotion of El Bolson . The elected members were: President Pedro Pascual Ponce: an Argentine born in the Province of San Luis. </s> 
+wikipedia.org | <s> Realism, because it creates apparently subjective experiences that demonstrate the essential social realities that provoke them, is for Lukács the only defensible or valuable literary school of the early twentieth century. </s> 
+wikipedia.org | <s> The modern town of Honjō was created within Kodama District, Saitama with the establishment of the municipalities system on April 1, 1889. </s> 
+wikipedia.org | <s> The mascots are created by author Kari Werner and her husband illustrator Werner Grossmann from an idea of architect Javier Ramirez Campuzano, who had designed the corporate identity of the Mexico Pavilion for the 1994 Winter Olympic Games. </s> 
+wikipedia.org | <s> EMBRAER alone, which was created by ITA's undergraduate alumni, currently employs hundreds of engineers from ITA, generating a positive net export balance of $1.529 billion in 2005, over 150 times the yearly investment made in ITA by the Brazilian Government. </s> 
+wikipedia.org | <s> A new publishing house, Editura Ion Creangă, was created as a main publisher of children's literature, and its output included editions of Creangă's own works. </s> 
+wikipedia.org | <s> In the episode "Feast," she brings an old Sentimonster, that Master Fu once created , back to life so Hawk Moth can akumatize the monster into Feast so it can eat all of the miraculous. </s> 
+wikipedia.org | <s> For creating her pieces she uses found natural and industrial materials, such as feathers, shells, corrugated iron, and wire. </s> 
+wikipedia.org | <s> Nick's only known public work outside Germany can be found in the Dutch city of Enschede, not far from Münster: in 1912 he was commissioned to create a monument in memory of the fire that fifty years earlier had burned down the town. </s> 
+wikipedia.org | <s> The Malaysia–Thailand Joint Development Area is a 7,250 km square area in the Gulf of Thailand which was created as an interim measure to exploit the natural resources in the seabed or continental shelf claimed by the two countries and to share the proceeds equally. </s> 
+wikipedia.org | <s> While at Harry Winston, Inc. Rare Timepieces Büsser had developed concept-style watches for the Opus series, which motivated him to create his own brand and focus on creating three-dimensional kinetic art that he calls "Horological Machines". </s> 
+wikipedia.org | <s> In 1970, the Methodist Institute of Higher Education (Portuguese: Instituto Metodista de Ensino Superior–IMS) was created and in 1997, and the institution gained university status. </s> 
+wikipedia.org | <s> At the Opéra-Comique, she created the role of La Vougne in Alexandre Georges' Miarka, on November 7, 1905 and also sang in this opera's premiere in London. </s> 
+wikipedia.org | <s> The Montana District was formed in 1945 when the North Dakota and Montana District was divided, also creating the North Dakota District. </s> 
+wikipedia.org | <s> He revisited the theme of the rake in his Clarissa (1748), and sought to create a "male Pamela" in Sir Charles Grandison (1753). </s> 
+wikipedia.org | <s> In 1322 John XXII created the office of treasurer for the mint of Avignon, and its incumbent, little by little, made himself independent of the Camerlengo. </s> 
+wikipedia.org | <s> The Papua New Guinea Independence Medal was created in 1975 to commemorate the transition from self-government to the full independence of Papua New Guinea. </s> 
+wikipedia.org | <s> Most studios are not owned by engineers, but Brown purposefully wanted to create a studio that focused on this aspect of the recording process. </s> 
+wikipedia.org | <s> Houses in Academy Hill, Greensburg: The Academy Hill Historic District was created by the National Park Service, in part, to recognize the houses Bartholomew designed in this traditionally elite neighborhood. </s> 
+wikipedia.org | <s> During the 1920s, he created gardens in the area for the residences "Sylvan Mists", "Gabo", "La Vista" at Wentworth Falls, "Dean Park", and "Cheppen". </s> 
+wikipedia.org | <s> The show was created for two reasons, according to Paul; the first was simply because there were no credible motoring television shows in Malaysia, at that period in time. </s> 
+wikipedia.org | <s> On the March 30, 2008, the State Central Committee endorsed a plan to create a National Organizing Committee (NOC) and a national political party. </s> 
+wikipedia.org | <s> One possible explanation is that the London Underground Piccadilly line Aldwych spur used to pass very close to the sub-stage areas of the theatre and it is noise from the tunnels that created the sound. </s> 
+wikipedia.org | <s> Afonso V, because of influence of the Duke of Braganza, who became the political enemy of Peter's father, voided all laws created under Coimbra's regency. </s> 
+wikipedia.org | <s> The production crew tried different methods with the actor to create a younger Walter, such as changes to his hair, make-up, and wardrobe; they ultimately decided on using "tabs" to keep the wrinkles in his face back. </s> 
+wikipedia.org | <s> He worked to improve cultural tourism and create jobs in Humboldt County as an extension of his work with the Dell'Arte International school of theater arts. </s> 
+wikipedia.org | <s> In 2009, it was announced Meade "will be the founding president and CEO of a newly created institute named for Senator Edward M. Kennedy ... the non-profit Edward M. Kennedy Institute for the United States Senate". </s> 
+wikipedia.org | <s> The Teatro Dom Pedro, created in Art Deco style and inaugurated in 1933 by D'Angelo & Cia, is one of the largest in the state. </s> 
+wikipedia.org | <s> Quna reveals to the player that she is chasing a dragon named Haddred, her childhood friend who was created by ARKS' "Void" laboratory, to be used as a living weapon but escaped from captivity. </s> 
+wikipedia.org | <s> The softer palette created by the blend of the two fluegels with Myrick's tenor sax and Satterfield's trombone allowed the section to still play interesting countermelodies and staccato jabs (listen to the post-chorus instrumental breaks of Reasons for a prime example) without being obtrusive or overbearing. </s> 
+wikipedia.org | <s> A short story on this theme is "The Jungle Rot Kid on the Nod" (1968): "if William S. rather than Edgar Rice had written Tarzan," Farmer also wrote Lord Tyger (1970) about a ruthless millionaire who tries to create a real Tarzan by having a child kidnapped and then brought up subject to the same tragic events which shaped Tarzan in the original books. </s> 
+wikipedia.org | <s> Just then, the Phoenix Force which created the Burnt Place arrived and saved her from the giant buzzards while bonding to her. </s> 
+wikipedia.org | <s> Among its abilities, a Crab Queen is able to create a microbial mist which reveals to the aliens on the battlefield any soldiers who enter it and which can buff or revive aliens; this mist creates a literal fog of war which actively works to advantage aliens in battle and otherwise bolsters the horror themes of the game. </s> 
+wikipedia.org | <s> Martin explains that he found a pod while hunting in the woods and believes it to be part of a government conspiracy to create artificial, inanimate assassins. </s> 
+wikipedia.org | <s> During the Renaissance and the Enlightenment, several songs, both religious and secular, were written with the specific purpose of creating a new national anthem. </s> 
+wikipedia.org | <s> Smog is formed when smoke and fog combine, and when primary pollutants, usually emitted from vehicles, react with ultraviolet rays to create secondary pollutants. </s> 
+wikipedia.org | <s> This creates the conditions to start a true university reform, dreams until then unique to the great Cuban masters: Varela, Martí, Mella, Varona and of all those who for years had fought and even given their lives to establish a worthy University that was only achieved with Fidel. </s> 
+wikipedia.org | <s> Criticisms focused particularly on the passage about God's will with regard to the diversity of religions, claiming that the "pluralism and the diversity of religions, colour, sex, race and language are willed by God in His wisdom, through which He created human beings". </s> 
+wikipedia.org | <s> Community and monetary economist Thomas H. Greco, Jr. has argued that the mainstream global economy with its debt-based currency has built-in structural incentives that create poverty through keeping money scarce. </s> 
+wikipedia.org | <s> On 25 January 2002, they met with Prime Minister Meles Zenawi and outlined the concept of creating an international resource in service to poverty reduction in Ethiopia. </s> 
+wikipedia.org | <s> In 1937, the Primary and secondary system was created, renumbering State Road 6 to PSH 6 and creating two branch routes and two secondary routes, Secondary State Highway 6A (SSH 6A) and SSH 6B. </s> 
+wikipedia.org | <s> The involvement of different investors now ranges from the individual landlords owning Buy To Let properties and Houses of Multiple Occupation (HMO), through to various Housing Associations, which now provide properties for around 6 million tenants in the United Kingdom, and the Property Companies who operate large scale rentals, that have become the UK institutions which created the new investment market for Build To Rent (B2R) properties to extensively develop. </s> 
+wikipedia.org | <s> There is provision for compensation where a landowner is prevented from harvesting his timber when he intended to create a private timber reserve. </s> 
+wikipedia.org | <s> In March 2016 the Ministry of Justice of Ukraine started the reform of the State Penitentiary Service and created in its structure the central probation department and probation units at 6 interregional prison and probation departments. </s> 
+wikipedia.org | <s> Produce! have created games for arcades and for the Super Nintendo Entertainment System, Nintendo 64, PlayStation, and PC Engine systems. </s> 
+wikipedia.org | <s> At its initiation, the task of the project was to address by analysis, the problem of the development of technology to use for an effective air defence of the U.S. The goal of the project was to create a network of computers connected to a command centre in order to organise a response to a threat from within U.S. air-space. </s> 
+wikipedia.org | <s> Psi is a DC character created by Paul Kupperberg and Carmine Infantino for Daring New Adventures of Supergirl #1 (November 1982). </s> 
+wikipedia.org | <s> In 2009, Creative Commons released CC0, which was created for compatibility with jurisdictions where dedicating to public domain is problematic, such as continental Europe. </s> 
+wikipedia.org | <s> This process uses positive operator-valued measurements, maximally entangled states, and quantum teleportation to create identical copies, locally and in a remote location. </s> 
+wikipedia.org | <s> QuestBridge began offering individuals and organizations the chance to create personalized awards where students would complete some of their college application process at the same time as applying for an award, scholarship, or prize (e.g. a laptop computer). </s> 
+wikipedia.org | <s> Thus were created the slogans like La radio de Chile, El sonido de Chile or La primera en tu corazón, con toda razón. </s> 
+wikipedia.org | <s> The islands' first pro-statehood governor, Don Luis A. Ferré and President Richard M. Nixon, in 1970 created a joint United States-Puerto Rico Ad Hoc Committee to study the possibility of granting Puerto Ricans the right to vote for President as a means of building upon Puerto Rico's territorial relationship with the United States. </s> 
+wikipedia.org | <s> The danger this operation created was so serious that the German command had to give up any hope of relieving the 6th Army and instead turned its attention to fighting the advancing Red Army formations, while simultaneously trying to move as many units as possible to the west. </s> 
+wikipedia.org | <s> In this case, the raindrop impressions were created in the sediment, which was then followed by more sediment which filled the impressions, creating , what appear to be, raised bumps on the bottom of the upper layer. </s> 
+wikipedia.org | <s> Publishers Weekly praised the book, writing: "In lesser hands, this kind of hard-boiled style would fall into cliché or stereotype, but Dennis, with a sharp ear for dialogue, skilled plotting, and the ability to create fully developed characters, keeps the story fresh and the action believable. </s> 
+wikipedia.org | <s> In states where ballot access is more readily available by forming a new political party than by filing as an independent candidate, the Ralph Nader campaign chose to create the Populist Party. </s> 
+wikipedia.org | <s> He went on to create the triple-platinum selling Common Thread: The Songs of the Eagles, Stoned Immaculate: The Music of the Doors, and the Gold-certified Saturday Morning: Cartoons' Greatest Hits. </s> 
+wikipedia.org | <s> The whole squad was led by Lupo, but they failed to create the same kind of national unity that the First Squad achieved and disbanded. </s> 
+wikipedia.org | <s> A mysterious sphere found in cyberspace reveals that Austin's father, Adam, created the Guardian Code, sending Austin and Parker on a mission to look for more such spheres. </s> 
+wikipedia.org | <s> This prompted 501st members Tony Troxell, Richard Fairbrother, Ed O'Connell, Ken Ograyensek, and Doug Fesko to create a separate "Rebels only" costuming group, officially announced to the 501st Legion forums in December 2000. </s> 
+wikipedia.org | <s> He worked with Congress to create the Department of Justice and office of solicitor general, led by Attorney General Amos Akerman and the first Solicitor General Benjamin Bristow. </s> 
+wikipedia.org | <s> Red's Dream was the 2nd short film created by computer animation studio Pixar, following their 1986 film, Luxo Jr. For their next short film, which was to be presented at the 1987 SIGGRAPH convention, Ed Catmull wanted the Pixar staff to make a film that made use the Pixar Image Computer and the rendering software Chapreyes. </s> 
+wikipedia.org | <s> In 1994, Mathis met Brian Haas and a group of like-minded Tulsa musicians, who together created the Jacob Fred Jazz Odyssey (JFJO). </s> 
+wikipedia.org | <s> Players are able to move around the battlefield freely, but they have the option to create predefined paths for the character to follow. </s> 
+wikipedia.org | <s> Indie Vision Music's Jonathan Andre said that "Resuscitate is full of rock melody goodness as I hear for the bands universal appeal- still holding onto their roots of faith, while also branching out to create songs that can easily be played on mainstream radio. </s> 
+wikipedia.org | <s> These data included conserved RNA secondary structures often found in the untranslated regions (UTRs) of the relevant genes and the success of procedures to create artificial small molecule-binding RNAs called aptamers. </s> 
+wikipedia.org | <s> A tidal bore can create a powerful roar that combines the sounds caused by the turbulence in the bore front and whelps, entrained air bubbles in the bore roller, sediment erosion beneath the bore front and of the banks, scouring of shoals and bars, and impacts on obstacles. </s> 
+wikipedia.org | <s> In the end, Burks spent over a year planning, shooting, reshooting, and overseeing special effects on The Birds to create the masterpiece we know today. </s> 
+wikipedia.org | <s> Even after the reservation was to be created , in the spring of 1916, Frank Bird Linderman met with Chief Big Rock in northside, Great Falls, and other Chippewa tribesmen including Standing Rock, Pat Raspberry, Crazy Boy (Chief Rocky Boy's brother), and Charles Mosney. </s> 
+wikipedia.org | <s> So they developed a tactic that could cause a significant setback or even defeat for their enemy while only creating a limited risk for their own soldiers. </s> 
+wikipedia.org | <s> He has been able to enter Wolverine's mind and to manipulate his memories, even going so far as to be able to create false memories or to awaken memories that have been suppressed. </s> 
+wikipedia.org | <s> In 1976, the aerobatic team Rotores de Portugal was created by order of the Air Force Chief of Staff (CEMFA) to represent the Portuguese Air Force in several festivals all over the country. </s> 
+wikipedia.org | <s> Another Transport Corps, overseen by Waggon Master General Digby Hamilton, Lieutenant Colonel (later Colonel), was created to support this effort. </s> 
+wikipedia.org | <s> In "Self and Time" Singh makes two rather bold assertions: the first, that time does not exist; and the second, that it is the self that creates time. </s> 
+wikipedia.org | <s> In 1893, he created the role of the Proctor in J. M. Barrie, Arthur Conan Doyle, and Ernest Ford's Jane Annie, which was unsuccessful at the Savoy but ran more successfully on tour. </s> 
+wikipedia.org | <s> It was created by BAE Systems ADR for the US National Geospatial-Intelligence Agency (NGA) as a complementary product during editing of the digital elevation model database of the Shuttle Radar Topography Mission (SRTM). </s> 
+wikipedia.org | <s> For creating an element using HTML5, CSS, JavaScript the user needs to have more knowledge in front-end web development and need to write more lines of code, but in SWAF we can accomplish the same with very few lines of code. </s> 
+wikipedia.org | <s> Rab Butler (1902–1982), cabinet minister, was MP for Saffron Walden in 1929–65, before being created Baron Butler of Saffron Walden. </s> 
+wikipedia.org | <s> The rooms were created in the mid-19th century by king Louis-Philippe, and opened in 1843, at a time when France was seized with enthusiasm with its historical past, and especially the Crusades period. </s> 
+wikipedia.org | <s> Ervin was nominated by President Jimmy Carter on April 2, 1980, to the United States Court of Appeals for the Fourth Circuit, to a new seat created by 92 Stat. 1629. </s> 
+wikipedia.org | <s> Other barriers have been removed as well, often by creating notches in the middle to concentrate low flows or adding rock weirs to back up the water over an obstacle or provide a more gradual change in elevation. </s> 
+wikipedia.org | <s> The 180,373 hectares (445,710 acres) Fernão Dias Environmental Protection Area, created in 1997, also protects some of the headwaters. </s> 
+wikipedia.org | <s> Save The Climate (Sauvons le Climat) is a French association created in 2004 by Hervé Nifenecker, Roger Balian, Rémy Carle and Bernard Lerouge. </s> 
+wikipedia.org | <s> Scandroid can be described as encompassing the retro synth melodies of the 80s while still adapting to modern production, thus creating a new retro sound. </s> 
+wikipedia.org | <s> Created in the wake of the Henshin (transformation) boom begun by Shotaro Ishinomori's Kamen Rider in 1971, Gatchaman was conceived as a blending of ninja adventure with science fiction. </s> 
+wikipedia.org | <s> Despite the creation of a desalination plant, which NSW Premier Angela Boardman insists creates millions of litres of fresh water a day, the city is still under Level 8 water restrictions. </s> 
+wikipedia.org | <s> The fusing of various styles of American music with British folk created a distinctive form of fingerstyle guitar playing known as folk baroque, pioneered by figures including Davy Graham and Bert Jansch. </s> 
+wikipedia.org | <s> Their ability to create and enforce treaties makes it so that they can interact with the Native Americans and build a treaty that works for both parties and make reservations for the Native Americans to live on and make it so that the people that would live on the reservation not be interrupted by the outside world and be able to live their lives as they please. </s> 
+wikipedia.org | <s> Meeting in Brasília, Brazil's Chamber of Deputies voted 233-55 to amend that nation's constitution to create a parliamentary system of government, to provide for a Prime Minister of Brazil, and to weaken the powers of the President to no more than a figurehead. </s> 
+wikipedia.org | <s> Serbian princes were well known in the 15th century for supporting manuscripts employing scribes and artists to create manuscripts besides icons and frescoes. </s> 
+wikipedia.org | <s> The latter, however useful or necessary, created services that perished at the time of production and therefore did not contribute to wealth. </s> 
+wikipedia.org | <s> Included on Volume 1 is a half-hour promotional film from early 1969 hosted by Muppet creator Jim Henson's trademark characters Kermit the Frog and Rowlf the Dog that was created to sell the idea to potential sponsors. </s> 
+wikipedia.org | <s> The "Shadow Wolves" law enforcement unit was created in 1972 by an Act of Congress, after the U.S. federal government agreed to the Tohono O'odham Nation's demand that the officers have at least one fourth Native American ancestry. </s> 
+wikipedia.org | <s> ComicsOne approached noted comic book artist Andy Seto with the idea of creating a two volume manhua-style graphic novel adaptation of the feature film. </s> 
+wikipedia.org | <s> The process analyzes the business requirements at the outset, and creates a chain of traceability through the strategy and concept, design, implementation, and ongoing 'manage and measure' phases of the lifecycle to ensure that the business mandate is preserved. </s> 
+wikipedia.org | <s> Rather, he created his wife, Lady Xin, empress, and favored her son, Shi Chaoqing (史朝清), considering creating Shi Chaoqing crown prince. </s> 
+wikipedia.org | <s> In May 2013, Rao performed in an event focused to create awareness about the effects and influence of tobacco and to raise funds for cancer patients. </s> 
+wikipedia.org | <s> The group's dogma is derived from a myth: the deity set out to create paradise, but ran out of power during the process; she will someday be resurrected, thus becoming able to finally create paradise and save mankind. </s> 
+wikipedia.org | <s> The Abercromby baronets descend from Humphrey Abercromby of Pitmedden (died circa 1457) and the title was created in the Baronetage of Nova Scotia on 20 February 1636. </s> 
+wikipedia.org | <s> On March 31, 2011, Skaggs Island became part of the 13,000-acre (53 km2) San Pablo Bay National Wildlife Refuge, created in 1974 to protect migratory birds, wetland habitat and endangered species. </s> 
+wikipedia.org | <s> The exhibition also pays particular attention to art created during the GDR era through works by artists such as Wieland Förster, Werner Stötzer, and Helmut Heinze. </s> 
+wikipedia.org | <s> At first the Festival used local halls and churches but in 1967, Britten and Pears created a permanent home at Snape, 5 miles from Aldeburgh, by converting the Victorian maltings into an 832-seat venue. </s> 
+wikipedia.org | <s> SocialWorks raises money for social issues that affect Chicago's youth, such as education, homelessness, mental health support, as well as to create spaces and bring visibility to Chicago's artistic community. </s> 
+wikipedia.org | <s> SoloPower Systems Inc. technology is used to create ultra-lightweight, thin-film, flexible Solar Panels, based on CIGS (Copper indium gallium selenide). </s> 
+wikipedia.org | <s> In genetics and developmental biology, somatic cell nuclear transfer (SCNT) is a laboratory strategy for creating a viable embryo from a body cell and an egg cell. </s> 
+wikipedia.org | <s> In December 2004, SAB Ltd acquired 100% of Amalgamated Beverage Industries Limited (ABI), which became the soft drink division of SAB Ltd, and the largest beverage company in South Africa was created . </s> 
+wikipedia.org | <s> The Southern Maine Community College campus also has an established arboretum which was created and is maintained by the college, named the Shoreway Arboretum. </s> 
+wikipedia.org | <s> Eventually, changes in response to the law assisted in creating a landscape that resulted in the creation of several national Spanish disability sport organizations including this one, which was created in 1993. </s> 
+wikipedia.org | <s> Distinguished examples are El buscón, by Francisco de Quevedo, Guzmán de Alfarache by Mateo Alemán, Estebanillo González and the anonymously published Lazarillo de Tormes (1554), which created the genre. </s> 
+wikipedia.org | <s> When the unit was created , it had requested training with the US Navy SEALs, but had not been able to do so due to schedule problems. </s> 
+wikipedia.org | <s> These schools were specialized in particular sports: soccer, diving, gymnastics, etc. The first children sports school was created in 1934. </s> 
+wikipedia.org | <s> As the more complex sound signal is broken into the smaller sub-sounds, different levels are created , where at the top level we have complex sounds, which are made of simpler sounds on lower level, and going to lower levels even more, we create more basic and shorter and simpler sounds. </s> 
+wikipedia.org | <s> As a result, several projects dedicated to creating Linux speech recognition programs were begun, such as Mycroft, which is similar to Microsoft Cortana, but open source. </s> 
+wikipedia.org | <s> The directors all felt that the film would be one of the few that audiences actually "need" to watch in 3D, due to the immersive nature of the animated world created , and the way that the hand-drawn animation elements designed specifically for the film create a unique experience; Persichetti described the experience as a combination of the effects of an old-fashioned hand-drawn multiplane camera and a modern virtual reality environment. </s> 
+wikipedia.org | <s> Unfortunately, due to the aforementioned Rectory Fire in 1965, and the loss of many historic files, the details of as to who or what company or person was in charge of designing and creating the stained glass within both churches are unknown at this time. </s> 
+wikipedia.org | <s> The location remained unchanged until line extensions resumed: Line 7 was extended from Porte de la Villette to Fort d'Aubervilliers in 1979 and La Courneuve – 8 mai 1945 in 1987; a branch was created in the south in 1982 to Le Kremlin-Bicêtre and Villejuif – Louis Aragon in 1985. </s> 
+wikipedia.org | <s> Orci noted that when trying to create the "gigantic imagery" required by a summer blockbuster, Kurtzman suggested a scene where Enterprise rose from the ocean. </s> 
+wikipedia.org | <s> One cannot overstate the power of the tenant in the mid 13th Century, where the Black Death had, virtually overnight, reduced the population of the kingdom by between one-third and one-half, and created a changed economic reality, a seller's market, in which the enormous labour shortages rapidly brought about the destruction of the servitude of feudalism, and instituted the rise of a money-based economy to replace it, in which money payments displaced traditional feudal services. </s> 
+wikipedia.org | <s> A statutory corporation is defined in the government glossary as a "statutory body that is a body corporate, including an entity created under section 87 of the PGPA Act" (i.e. a statutory authority may be a statutory corporation). </s> 
+wikipedia.org | <s> The main difference between SMR and ATR is that SMR only uses air for combustion as a heat source to create steam, while ATR uses purified oxygen. </s> 
+wikipedia.org | <s> In January 1997, Luecke became mayor of South Bend, filling the vacancy created by the departure of Mayor Joe E. Kernan, who had become lieutenant governor. </s> 
+wikipedia.org | <s> The Linkage editor creates and replaces load modules in a partitioned data set from a combination of control cards, object modules other load modules. </s> 
+wikipedia.org | <s> Soon after their departure, the Missionaries of the Sacred Heart also known as the Dutch Fathers, succeeded them, created the parish of Surigao, and made the Escuela Catolica de San Nicolas a parochial school which later became San Nicolas College. </s> 
+wikipedia.org | <s> The Sutherland Trophy was created in 1958 by the British Film Institute as an annual award for "the maker of the most original and imaginative film introduced at the National Film Theatre during the year". </s> 
+wikipedia.org | <s> Sweat is an Australian drama television series created by John Rapsey and produced by Barron Entertainment in association with the Australian Broadcasting Corporation in Perth. </s> 
+wikipedia.org | <s> By creating a logo on a grid and using the theory of symmetry, designers can organize their work, create a symmetric or asymmetrical design, determine the space between letters, determine how much negative space is required in the design, and how to accentuate parts of the logo to make it stand out. </s> 
+wikipedia.org | <s> He has collaborated with artists such as Vik Muniz in the Colonies series, where he developed a photolithography based printing process to create intricate patterns out of both bacterial and cancer cells. </s> 
+wikipedia.org | <s> At one eighth of the Talbot length, the period and size of the images is halved again, and so forth creating a fractal pattern of sub images with ever-decreasing size, often referred to as a Talbot carpet. </s> 
+wikipedia.org | <s> She has also directed theater at The New Group, worked with teens creating a sex-education film for the nonprofit organization Scenarios, and directed a series of public service announcements for Amnesty International. </s> 
+wikipedia.org | <s> Iso created a composite system based on the techniques of the Yoshin-ryu, Shin no Shinto-ryu and his experience and founded his own tradition called the Tenjin Shin'yo ryu around 1800. </s> 
+wikipedia.org | <s> The original line-up consisted of Jenny Sparks, a British woman who could generate and turn into electricity; Jack Hawksmoor, who was psychically bonded to cities in order to communicate with them and receive powers from them; Swift, a Tibetan woman who possessed wings and sharp talons; Apollo, a bio-engineered Superman pastiche; Midnighter, a bio-engineered Batman pastiche who possessed the ability to foresee his opponents' moves in combat; The Engineer, a scientist who had replaced her blood with nine pints of nanotechnology and could create solid objects with it; and The Doctor, a Dutch drug addict and shaman who possessed the combined powers of the hundreds of shamans who came before him. </s> 
+wikipedia.org | <s> Larger plants also create a favourable environment for predatory fish such as pike, which eat planktivorous fish, continuing to control their numbers. </s> 
+wikipedia.org | <s> Her grandson, King George V, gave the same permission for the Royal Canadian Navy when it was created in 1911, as did his son, King Edward VII, for the Royal Canadian Air Force six years after it was established in 1918. </s> 
+wikipedia.org | <s> He has been planting devices around the school to create a time displacement vortex as to send the robot far into the future where it cannot harm anyone, and has an invisibility watch to help approach it. </s> 
+wikipedia.org | <s> On July 1, 2012, the Las Vegas and Las Vegas West Missions were realigned, and the Nevada Reno Mission was created . </s> 
+wikipedia.org | <s> She also wrote that throughout the song, Yuri "plays up her airy tone, vacillating between piano-backed croons and dramatic belts over whirring synths as she pulls back and lets loose, letting her vocals blend with pulsating, rumbling beats, and one-off quirks, like the popping sound of a champagne bottle being opened, to create a soundscape of a dreamy night out". </s> 
+wikipedia.org | <s> Seeking to exercise more direct control over the village, however, the Count split the village off and created a separate ambacht called Haagambacht, governed directly by the Counts of Holland. </s> 
+wikipedia.org | <s> According to the crew, Foley's character was originally named Bruno Puntz, but when the writers decided to change his last name to Jones, they wrote the word "Jones" in without deleting "Puntz", accidentally creating a compound name. </s> 
+wikipedia.org | <s> After a talk with Tarzan and Jane, he creates a novel (in comparison to the real version of it), and his boss says everyone will remember him by it. </s> 
+wikipedia.org | <s> The animated film was created almost entirely by MacFarlane alone, with the exception being the live action sequence, which was filmed by classmates Sean Leahy and Greg Scalzo. </s> 
+wikipedia.org | <s> Between the years of 1785 and 1788, Goya created works that depicted executives and their families from the Bank of San Carlos (el Banco Nacional de San Carlos) in Spain. </s> 
+wikipedia.org | <s> When the Slowsky fad reached its peak, the Slowskys Website created a fictional campaign in which the Slowsky couple traveled around their block in an old fashioned political circuit. </s> 
+wikipedia.org | <s> Most of the human population perishes, and its works are rendered unusable: cities, farms, etc. The few survivors witness the Moon interposing before the traveling star, creating a weak eclipse, as it is permanently removed from its steady orbit about the Earth into a new, more distant orbit. </s> 
+wikipedia.org | <s> The dinosaur scientists, however, later took recovered genetic material from Bill and Scooter, spliced it together, then doubled the X-chromosome to create a female. </s> 
+wikipedia.org | <s> After the lead artist created an overarching style guide later in development, he was able to articulate a more detailed and specific design by "select around 15 tracks from various artists that he felt were a good fit". </s> 
+wikipedia.org | <s> The band was established in London in 1966, when Riki Maiocchi of I Camaleonti fame decided to create a new band to explore the new opportunities brought about by the advent of psychedelic rock. </s> 
+wikipedia.org | <s> For effects like fire, equipment is brought in to create flames and smoke and is usually operated by a licensed special effects operator. </s> 
+wikipedia.org | <s> Together with his sponsor he created a team that was only focused on qualifying for the 2004 Summer Olympics. 2003 was also his first season as a full professional rider. </s> 
+wikipedia.org | <s> The document was created as a result of the threat by Ayatollah Khamenei of "hard revenge" loosed mayhem in the political corridors of Iran. </s> 
+wikipedia.org | <s> On May 1, 1909, Oregon Governor Frank W. Benson appointed McBride to the state supreme court to fill the vacancy created when justice Robert S. Bean resigned. </s> 
+wikipedia.org | <s> Following the Nationalists' loss in the 1930 election, Bavin continued to lead the party until 1932, when he joined the newly created United Australia Party. </s> 
+wikipedia.org | <s> Gerrit Smith, a wealthy abolitionist and land owner, gave away 120,000 acres of land to 3,000 black New Yorkers in 40 acre lots, creating the community of Timbuctoo. </s> 
+wikipedia.org | <s> Created in late 1917 by 171st Tunnelling Company after the Battle of Passchendaele, it was 14 metres (46 ft) below Flanders and functioned as a brigade HQ. </s> 
+wikipedia.org | <s> In the Marvel Comics Universe, Titan is home to a colony of Eternals, a godlike race of men and women created from primitive humans by the powerful 'space gods' the Celestials as part of an experiment, and also spawned the super villain Thanos, and the final resting place of Mar-vell. </s> 
+wikipedia.org | <s> Though the band made an effort to write material while they were together at festival dates in 2015, most of the album was created virtually. </s> 
+wikipedia.org | <s> He once possessed alien technology that he stole from the Stranger's world, and could utilize it to create synthezoid robots, among other uses. </s> 
+wikipedia.org | <s> This settlement included payments to states, restrictions on advertisements, and free access to internal industry research, although some have criticized the settlement for shielding the industry from future lawsuits, granting a monopoly to the largest tobacco companies, creating "client states" dependent on settlement payments, and shifting the cost of cigarettes to individual smokers rather than companies. </s> 
+wikipedia.org | <s> The innovative and interactive format it created changed children's programming, including its most important influence Sesame Street, which changed its format in 2002 to be more interactive. </s> 
+wikipedia.org | <s> He painted one of the vases found in the tomb, however he is not believed to have created the famous fresco paintings. </s> 
+wikipedia.org | <s> This creates further difficulties for Demane, as officers who dismissed the runt to his care now envy him his heavyweight dragon and attempt to suborn Kulingile from him. </s> 
+wikipedia.org | <s> So he created an entirely new conceptual stratagem for Yellow Movies whereby the physical aging and transformation of the emulsion itself would constitute a definitively slow-motion moving picture over such an extended period of time. </s> 
+wikipedia.org | <s> According to the Wikimedia Foundation, Wikipedia's parent company, the article "The Military history of Puerto Rico" created by Santiago, is ranked #4 among the featured articles in depth and high quality. </s> 
+wikipedia.org | <s> Veteran 20th Century Fox executive Darryl F. Zanuck, who had earlier produced The Longest Day (1962), wanted to create an epic that depicted what "really happened on December 7, 1941", with a "revisionist's approach". </s> 
+wikipedia.org | <s> Alongside the art created at "Bezalel", which was characterized by decorative motifs and the influence of ars nova, the young Land-of-Israel artists produced works of art that reflected a variety of modernist influences. </s> 
+wikipedia.org | <s> Guermonprez combined the painterly possibilities of silkscreen with the structural geometry implicit in warp and weft to create fiber wall hangings that are both texturally rich and delicately drawn. </s> 
+wikipedia.org | <s> Yuge wanted to create a scrolling shooter game where players would become increasingly better at the more they were able to remember specific stage designs and secrets, focusing on creating sections in levels that required a specific weapon to defeat certain enemies, while Uemura stated that the project was developed in conjunction with Hellfire. </s> 
+wikipedia.org | <s> Predecessor Komet Arsten was formed in 1896 out of the earlier sides Germania Arsten and Brema Arsten and joined Verein für Bewegungsspiele Arsten in 1919 to create VfB Komet Arsten. </s> 
+wikipedia.org | <s> Separately, new social media companies such as Parler were created to cater specifically to conservative and right-leaning voices that felt that Twitter and other social media companies were suppressing their voice. </s> 
+wikipedia.org | <s> The Toltec created the first sizable Mexican empire after the fall of Teotihuacan, and their capital was referred to by the same name as a reference to the earlier greatness of Teotihuacan. </s> 
+wikipedia.org | <s> He told BBC Radio 4's The Film Programme that he "did not feel good" about suggesting that Americans, rather than the British, had captured the naval Enigma cipher: "It was a distortion...a mercenary decision...to create this parallel history in order to drive the film for an American audience. </s> 
+wikipedia.org | <s> The work falls into two large parts (b. 1–134 and 134–382), suggesting a binary form (especially with the repeat of the entire section A) but the form is created cumulatively from a succession of fifteen thematically based smaller sections (four in the first part and eleven in the second) in a non-functional harmonic context (Volpe 2001, 316–18). </s> 
+wikipedia.org | <s> In August 1994, three years after the Soviet Union collapsed, he decided to serve in the newly created Armed Forces of Belarus. </s> 
+wikipedia.org | <s> Many small-scale deployments of rooftop photovoltaic panels tend to multiply the effect of the intermittency of solar generation – creating a problem for grid operators. </s> 
+wikipedia.org | <s> In the 1960s groups of Muslim university students created student associations and cultural centers, evolving into the "Muslim Students Union of Spain". </s> 
+wikipedia.org | <s> The UAC was created on 20 February 2006 by Russian President Vladimir Putin in Presidential Decree No. 140 by merging shares from Ilyushin, Irkut, Mikoyan, Sukhoi, Tupolev, and Yakovlev as a new joint-stock company named the OJSC United Aircraft Corporation in order to optimize production and minimize losses. </s> 
+wikipedia.org | <s> Even before the attack, the Council of National Defense was reactivated by President Roosevelt and created the Division of State and Local Cooperation to further assist the Council's efforts. </s> 
+wikipedia.org | <s> Mass Effect 2: In 2184, President Christopher Huerta of the United North American States ( created by the merger of the United States, Canada, and Mexico) suffers a severe stroke that renders him legally dead for 90 minutes; his mental functions were transferred to a computer system to keep them viable while his body is saved, then subsequently returned. </s> 
+wikipedia.org | <s> The US-Mexico Border Program was also created by the agreement and placed under the management of EPA (through its Region 6 and 9 offices) to correct the oversights of previous institutions and give guidance to cross-border environmental policy. </s> 
+wikipedia.org | <s> In July 1998, Gainax released a CD-ROM entitled Aoki Uru Frozen Designs Collection containing the visual and script content created during the 1992–93 project, with a new commentary added as a QuickTime file. </s> 
+wikipedia.org | <s> According to the model described, vWorker was not a freelance marketplace in a traditional sense where workers created works on their own initiative, and then try to market and sell them while keeping the copyright to their work. </s> 
+wikipedia.org | <s> I think what happened maybe is the size sort of is creating that, Canada is so big that bands have to try harder to get noticed...no one's going to hear your music if you don't travel far enough. </s> 
+wikipedia.org | <s> On October 20, 1936, the Commonwealth Act No. 58 creating the City of Cebu was approved and subsequently signed into law by President Manuel Quezon. </s> 
+wikipedia.org | <s> Landcare was created in 1986 and grew from groups of Victorian farmers coming together to tackle natural resource management issues on a district and regional basis. </s> 
+wikipedia.org | <s> While most World War II films were created for training purposes, films such as Victory Through Air Power were created to catch the attention of government officials and to build public morale among the U.S. and Allied powers. </s> 
+wikipedia.org | <s> As with geometric patterning in this phase, the visual thrust of the Borre Style results from the filling of available space: ribbon animal plaits are tightly interlaced and animal bodies are arranged to create tight, closed compositions. </s> 
+wikipedia.org | <s> Creating a cloud with his breath he observed a sudden and heretofore unseen bluish haze that suddenly turned into millions of microscopic ice crystals that dazzled him in the strobe lit chamber. </s> 
+wikipedia.org | <s> Rachel generally oversees it which tends to entail her creating many, many versions of an image, each one almost imperceivably different to the next. </s> 
+wikipedia.org | <s> But exhibitors knew their audience, and could see that digital projection was only a replacement technology, creating new financial liabilities, and not new revenue. </s> 
+wikipedia.org | <s> It was created in 1717 for Alan Brodrick, 1st Baron Brodrick, the Lord Chancellor of Ireland and former Speaker of the Irish House of Commons. </s> 
+wikipedia.org | <s> Results showed that objects with high semantic relevance, such as artefacts, created an increase in activation compared to objects with low semantic relevance, such as natural objects. </s> 
+wikipedia.org | <s> Meanwhile, the force finds out who the Drule agent is and must battle a giant robeast that was created from the stage using "Tech Ninja Voltron", Pidge's green-center form of Voltron with "Boomerang Shield". </s> 
+wikipedia.org | <s> The 12 ft x 21 ft carved replica frame was created using this photo by Eli Wilner & Company in New York City. </s> 
+wikipedia.org | <s> Tambon Wat Bot was separated from the Phrom Phiram District and created as a minor district (king amphoe) on 1 January 1948. </s> 
+wikipedia.org | <s> Meanwhile, Chu, himself by now developing a reputation for offering adverse advice, was pointing out that Emperor Taizong's favors for Li Tai were creating uncertainties for officials, and Emperor Taizong, trying to stem the rumors that Li Tai would displace Li Chengqian, appointed Wei as a senior advisor to Li Chengqian. </s> 
+wikipedia.org | <s> The Kirk party created the Western Association in 1648, modelling it on the English Parliament associations (such as the Eastern Association). </s> 
+wikipedia.org | <s> New York City-based photographer Paul Barbera, whose background is shooting interiors for such magazines as Elle Decor and Vogue's Living, created the book to give readers an insight into the sometimes chaotic studios of creative professionals. </s> 
+wikipedia.org | <s> These programs were chosen due to their community outreach programs, as the school plans to create a community atmosphere between students, faculty, and the general community. </s> 
+wikipedia.org | <s> During his term, state senator William Goebel proposed an election law that created a state Board of Elections which was empowered to appoint all election officers in every county and certify all election results. </s> 
+wikipedia.org | <s> Designed and created by Thomas Lyte, the trophies are made from sterling silver and feature engraving detail with the logos of the competing countries. </s> 
+wikipedia.org | <s> It would be interesting to think about an HIV patent pool being created in South Africa, for example, to permit access into the market for products that treat HIV, or to create a US R&D patent pool that all recipients of US NIH funds could be required to join. </s> 
+wikipedia.org | <s> He had the urge to create these works out of a feeling that many of his daily habits result from certain mass obsessions. </s> 
+wikipedia.org | <s> As the two duelists face off on the castle roof, Kaiba hatches a plan to fuse all three of his Blue-Eyes White Dragons and create the Blue-Eyes Ultimate Dragon. </s> 
+wikipedia.org | <s> He also worked as a conservator-restorer on the Vorontsov Palace in Crimea and planned to create a Museum of Naval Glory there with a panoramic view, although this never happened. </s> 
+wikipedia.org | <s> Shortly after the 1917 October Revolution the newly forming Soviet Union would outlaw Hebrew and create the conditions for Hebrew literary endeavors becoming an illegal and dangerous activity. </s> 
+wikipedia.org | <s> But when he finds undead monsters created by Pago, Gerapen is horrified and at first refuse to believe Pago is responsible, but when he sees Pago's disturbing acts for himself, Gerapen realize Pago tricked him all along and assists Koinzell to end his "brother's" life. </s> 
+wikipedia.org | <s> He created history by holding three different designations in the same university as, </s> 
+wikipedia.org | <s> "Son of Wake Forest legend looks to create his own legacy". </s> 
+wikipedia.org | <s> Brentford and Isleworth (newly created seat) (to form eastern part of) </s> 
+wikipedia.org | <s> ^ "St. Louis strives to create an air freight hub to China". </s> 
+wikipedia.org | <s> etree.org was created because collectors and curators of live music recordings historically faced four related problems: </s> 
+wikipedia.org | <s> ^ "Maria Shriver creates first coloring book for people with Alzheimer's". </s> 
+wikipedia.org | <s> ^ "Senators, fan team up to create a new vintage look". </s> 
+wikipedia.org | <s> The following is a list of raster graphic applications capable of creating and editing icons: </s> 
+wikipedia.org | <s> Hertz' plot of standing waves created when radio waves are reflected from a sheet of metal </s> 
+wikipedia.org | <s> 45 - Cortana Express ( created in fall 2009; eliminated on March 30, 2014) </s> 
+wikipedia.org | <s> JFTC (Joint Force Training Centre NATO in Bydgoszcz) – created in 2004, </s> 
+wikipedia.org | <s> The artist/reformer was also proficient at creating linocuts and woodcuts with obvious propagandistic intent. </s> 
+wikipedia.org | <s> "Nippon Shokken to create more than 100 jobs in West Sac". dailydemocrat.com. </s> 
+wikipedia.org | <s> Pius V created 21 cardinals in three consistories including Felice Piergentile who would become Pope Sixtus V. </s> 
+wikipedia.org | <s> She collaborated with Steve McQueen to create clothes that made McQueen "the king of cool." </s> 
+wikipedia.org | <s> "Audi creates green 'e-diesel fuel of the future' using just carbon dioxide and water". </s> 
+wikipedia.org | <s> "Looking beyond 'Transformers,' Hasbro wants to create its own Marvel-sized movie universe". </s> 
+wikipedia.org | <s> Chain of 22 convenience shops created by Haldanes after purchasing shops from Netto; went into administration in 2012 </s> 
+wikipedia.org | <s> 0300 UTC - The JMA upgrades 15W to Tropical Storm Talas as it creates a large eye. </s> 
+wikipedia.org | <s> " Create an Account - Great Grandmaster Villari". villari.com. </s> 
+wikipedia.org | <s> ^ a b c d e "Bermuda 2 revisions create 12 new US gateways and agreement on Gatwick". </s> 
+wikipedia.org | <s> Triangle of auscultation (shown in pink) of the Visible Human Male, created in the VH Dissector </s> 
+wikipedia.org | <s> include links that refer to their own parent folders, such as creating hard link which points to either or , or </s> 
+wikipedia.org | <s> Poetry is meant to focus on different questions and contribute a new narrative to how knowledge is perceived and created ." </s> 
+wikipedia.org | <s> The original architect is not known, but the designs were created in the 1830s/1840s for the family Steengracht. </s> 
+wikipedia.org | <s> In response the label created a Twitter bot (@NapalmDeathBot) which sends an hourly tweet with the price of bitcoin. </s> 
+wikipedia.org | <s> "The Bee in the City statues are creating a stir in Manchester - here's some of your pictures". </s> 
+wikipedia.org | <s> ^ "FRANKENSTEIN CREATED BIKERS NOMINATED FOR FIVE AWARDS AT GENRE BLAST 2016". </s> 
+wikipedia.org | <s> ^ "Tourism Opens New Doors, Creates New Challenges, for Traditional Healers in Peru". </s> 
+wikipedia.org | <s> He was also deeply involved with the argument over copyright infringement and piracy, both creating and fighting "Irish editions." </s> 
+wikipedia.org | <s> "Telegram's New Platform Lets Developers Create Smart Message Bots With Multiple Uses". </s> 
+wikipedia.org | <s> ^ The 'Pinking' of Viagra Culture: Drug Industry Efforts to Create and Repackage Sex Drugs for Women </s> 
+wikipedia.org | <s> ^ I. Balenovich, A. Seletkovich, et al. Comparison of Classical Terrestrial and Photogrammetric Method in Creating Management Division. </s> 
+wikipedia.org | <s> World Channel on 10.2, Create on 10.3, PBS Kids on 10.4, SDPB Radio on 10.5, SDPB Classical on 10.6 </s> 
+wikipedia.org | <s> Moxi Junction - Creating A 'Life' For Special Needs Young Adults on YouTube, from Hatteberg's People on KAKE TV news </s> 
+wikipedia.org | <s> By the end of the 1980s, Fischli/Weiss had expanded their repertoire to embrace an iconography of the incidental, creating deadpan photographs of kitsch tourist attractions and airports around the world. </s> 
+wikipedia.org | <s> 2003, Associated Church Press (ACP): An Award of Excellence, the highest award in the Humor Graphic category, presented to the Adventist Review for "The Tightrope," created by Ralph Butler, for the January 2002 issue </s> 
+wikipedia.org | <s> In May 2016, Al-Rumaihi was put in charge of a new internal division of QIA called Qatar Investments, created "to bring greater oversight by having a single person in charge." </s> 
+wikipedia.org | <s> Although the af2 played its tenth season in 2009, a conference call in December 2008 resulted in enough votes from owners and cooperation from the AFLPA for the AFL to suspend the entire 2009 season in order to create "a long-term plan to improve its economic model." </s> 
+wikipedia.org | <s> However, in the beginning of 2009, Mitsubishi Chemical Holdings was reported to be developing its own artificial photosynthesis research by using sunlight, water and carbon dioxide to " create the carbon building blocks from which resins, plastics and fibers can be synthesized." </s> 
+wikipedia.org | <s> "We stayed true to the locale of the festival, and created a crazy all Vegas show for a Vegas festival." </s> 
+wikipedia.org | <s> Sarotte, Mary Elise (2014) . The Struggle to Create Post-Cold War Europe (Second Edition) Princeton: Princeton University Press, </s> 
+wikipedia.org | <s> Savelyev's 2006 report, devoting 280 pages to determining responsibility for the initial blast, concludes that the authorities decided to storm the school building, but wanted to create the impression they were acting in response to actions taken by the terrorists. </s> 
+wikipedia.org | <s> English astronomer Fred Hoyle is credited with coining the term "Big Bang" during a talk for a March 1949 BBC Radio broadcast, saying: "These theories were based on the hypothesis that all the matter in the universe was created in one big bang at a particular time in the remote past." </s> 
+wikipedia.org | <s> On the right, meanwhile, rallied those who staunchly supported the institutions that created prosperity but who shrank from the social dynamism they were unleashing." </s> 
+wikipedia.org | <s> The designation BWV, an abbreviation of Bach-Werke-Verzeichnis, which Schmieder created , is more usual for Bach's works, but S numbers are found in some older references; subsequent 2nd and 3rd editions are mostly reprints </s> 
+wikipedia.org | <s> The Mathematics of the Models of Reference– created by iLabs founder Gabriele Rossi and developed with Francesco Berto and Jacopo Tagliabue–features an original 2D/3D universe based on a new "rhombic dodecahedron-based" lattice and a unique rule. </s> 
+wikipedia.org | <s> Martin Scorsese identified Nolan as a filmmaker creating "beautifully made films on a big scale", and Luca Guadagnino called him "one of the ultimate auteurs." </s> 
+wikipedia.org | <s> "Smoky-voiced Buika brings 'a little bit of everything' to the time event was created as an interactive experiment, investigating strategies for creating a full length opera celebrating the life and death of the artist Julia Pastrana. </s> 
+wikipedia.org | <s> (As Emperor Wuzong later would allege, he believed that Li Rong flattered Consort Yang in order to receive her favor.) When Emperor Wenzong asked for the chancellors' opinions, however, Li Jue opposed this, so Emperor Wenzong instead created Li Chengmei the Prince of Chen, the son of his older brother Emperor Jingzong, as Crown Prince. </s> 
+wikipedia.org | <s> The most important term by which to select the next node for contraction is therefore the net number of edges added when contracting a node x {\displaystyle x} . This is defined as A ( x ) − | { ( u , x ) : ( u , x ) ∈ E } | {\displaystyle A(x)-|\{(u,x):(u,x)\in E\}|} where A ( x ) {\displaystyle A(x)} is the number of shortcuts that would be created if x {\displaystyle x} were to be contracted and | { ( u , x ) : ( u , x ) ∈ E } | {\displaystyle |\{(u,x):(u,x)\in E\}|} is the number of edges incident to x {\displaystyle x} . Using this criteria alone a linear path would result in a linear hierarchy (many levels) and no created shortcuts. </s> 
+wikipedia.org | <s> ^ "Decree 827/1960, of May 4, which creates the Directorate-General for Civil Protection" (PDF). www.boe.es. 9 May 1960. </s> 
+wikipedia.org | <s> "Splitting the thaum" revealed that it was in fact composed of numerous sub-particles, called resons ("thingies") which in turn are created from a combination of up to five "flavours": up, down, sideways, sex appeal, and peppermint (parodying the real-world quarks). </s> 
+wikipedia.org | <s> Since then, Riggs has contributed much less to the band's artwork, creating part of one studio album, one single and two compilation covers, while the band have employed a number of different artists: </s> 
+wikipedia.org | <s> Nevis characterized it as a "hands-on goal is to create tools that will enrich our participants' lives with greater self awareness, interpersonal and professional skills." </s> 
+wikipedia.org | <s> With its progressive economic program ( creating an alternative to capitalism, "redeeming" the proletariat), it was in open conflict with the Catholic high clergy who accused it of disrespecting the Church's leadership and siding with communists. </s> 
+wikipedia.org | <s> The general field ψ ( x ) {\displaystyle \psi (x)} is now seen to be a weighted (by the energy factor) summation over all possible spins and momenta for creating fermions and antifermions. </s> 
+wikipedia.org | <s> Film4 gave the film 3.5/5, saying that the wartime neutrality of Sweden theme and anxieties about migration (Becket dishonestly sneaking into Sweden and creating a master race) made the reviewer uncomfortable and it took away some of the fun. </s> 
+wikipedia.org | <s> In order to create a folk genome tank of Uttarakhand where one can find each genre and occasions in the form of folk music, and to bring the melodious folk from the heart of Himalaya to the global screen, the very first Internet radio of Kumaon/Garhwal/Jaunsar was launched in 2008 by a group of non-resident Uttarakhandi from New York, which has been gaining significant popularity among inhabitants and migrants since its beta version was launched in 2010. </s> 
+wikipedia.org | <s> Standard features include air conditioning with tri-zone climate controls, tilt leather-wrapped steering wheel with radio controls, cruise control, leather upholstery, heated front and rear seats, 8-way power front seats, dual memory system, BOSE premium sound system, single-CD/cassette player and later in 2004, a 6-disc CD changer, then in 2008,a single CD-player with MP3 capability, an auxiliary input jack and DVD player, outside-temperature indicator, compass, rear radio controls, independent front torsion bar suspension, rear 5-link coil spring suspension specially created for the H2, oversized tires with HUMMER wheels, universal garage door opener and remote engine start (2008–2009). </s> 
+wikipedia.org | <s> With William Turner and Urvashi Vaid, Creating Change: Sexuality, Public Policy and Civil Rights (New York: St. Martin's Press, 2000) </s> 
+wikipedia.org | <s> ^ Miklukho-Maklay, N. D. Shiism and its social face in Iran at the turn of the XV-XVI centuries "These tribes, which later became known as the Qizilbash tribes... created the states of Kara Koyunlu and Ak Koyunlu, which in the 15th century successively ruled Azerbaijan and most of Iran." </s> 
+wikipedia.org | <s> He was signed the same year to Def Jam Recordings, on the Teen Island label that was part of the music industry's response to "seize on the opportunities created by a phenomenon" of Justin Bieber; rather than focus on making a hit single, his manager was working to "developing him into a long-term artist." </s> 
+wikipedia.org | <s> He furls his brow, as he does countless times each day . . . ("Furl" means to wrap or roll around a pole, as to store a sail, flag, or umbrella; "furrow" means to create rows or wrinkles, as on the forehead.) </s> 
+wikipedia.org | <s> The status of an honorary autonomous province was presented to ethnic Albanian communists who helped the Yugoslav partisans in their struggles during World War II, carved out from the section of the former Ottoman province within the Socialist Republic of Serbia (i.e. whilst one chunk of the former province was given to Albania in 1912, the other sections of it were awarded to Yugoslavia's newly created republics: Montenegro and Macedonia). </s> 
+wikipedia.org | <s> Constructed by Ladies Home Journal editor Edward W. Bok on the highest hill in the area to create "a spot of beauty second to none in the country" </s> 
+wikipedia.org | <s> It is located at around 6°16'0''S 14°15'0''E / 6.26667°S 14.25000°E / -6.26667; 14.25000 and sits on top of an impressive flat-topped mountain, sometimes called Mongo a Kaila (mountain of division) because recent legends recall that the king created the clans of the kingdom and sent them out from there. </s> 
+wikipedia.org | <s> The house was extensively restored and rebuilt between 1866-1888 by Philip Charles Hardwick for the 5th and 6th earls, creating the current "Victorian fantasy." </s> 
+wikipedia.org | <s> When Internet domains were first created in 1983, Horton championed their use, publishing the classic paper "What is a domain?" </s> 
+wikipedia.org | <s> His project Future So Bright maps and catalogs abandoned spaces in the American West, while American Nutria "examines the plight of an imported species while chastising capitalism's tendency to create its own disasters." </s> 
+wikipedia.org | <s> However, Stirner went beyond both Hegel and Bauer's criticism by asserting that "Art" rather created an object for "Religion" and could thus by no means be related to what Stirner considered–in opposition with Hegel and Bauer–to be "Philosophy", stating: </s> 
+wikipedia.org | <s> ^ The long-barreled Mauser MK214 50mm cannon was developed in an effort to create the ultimate bomber-killers, capable of attacking from a long distance, protected from the defensive fire of the bombers. </s> 
+wikipedia.org | <s> According to musicologist Jeremy Yudkin, Miles Smiles falls under the post-bop subgenre, which he defines as "an approach that is abstract and intense in the extreme, with space created for rhythmic and coloristic independence of the drummer–an approach that incorporated modal and chordal harmonies, flexible form, structured choruses, melodic variation, and free improvisation." </s> 
+wikipedia.org | <s> I combine the science that I do with the religion's question about God in the sense that all the laws of physics that created the Universe and the enormous amount of beauty in the Universe represent the connection to God." </s> 
+wikipedia.org | <s> Social movement – as a collective group environmentalists seek to create social environmental change and protect environmental liberties through both radical and non radical ecological groups </s> 
+wikipedia.org | <s> Jan Kregel agrees that "multifunction" banks are a source for financial crises, but he argues the "basic principles" of Glass–Steagall "were eviscerated even before" the GLBA.:67 Kregel describes Glass–Steagall as creating a "monopoly that was doomed to fail" because after World War II nonbanks were permitted to use "capital market activities" to duplicate more cheaply the deposit and commercial loan products for which Glass–Steagall had sought to provide a bank monopoly.:8–9 </s> 
+wikipedia.org | <s> SNCC Digital Gateway: Eliabeth (Betita Martinez) Sutherland, Documentary website created by the SNCC Legacy Project and Duke University, telling the story of the Student Nonviolent Coordinating Committee & grassroots organizing from the inside-out </s> 
+wikipedia.org | <s> "The Union of Leiria is a complicated club at senior management level, especially the president, who sees things where they do not exist and it creates instability in the squad," said Mendes who "leaves great friends in Leiria". </s> 
+wikipedia.org | <s> Also, Gwardia Ludowa (GL) partisans, created by the communist PPR in January 1942 (with whom Parczew partisans aligned themselves) were engaged in terror aimed at local domination. </s> 
+wikipedia.org | <s> Party (Chinese: 独唱团, literally means "the solo choir/chorus") is a literary magazine created and edited by Han Han. </s> 
+wikipedia.org | <s> "MDS and Barrier analysis have identified a significant affinity between Pashtun, Tajik, North Indian, and Western Indian populations, creating an Afghan-Indian population structure that excludes the Hazaras, Uzbeks, and the South Indian Dravidian speakers. </s> 
+wikipedia.org | <s> The mission of the company is to "expand what is possible in performance by creating unusual and exuberant ensemble-devised works; by training the next generation of daring, innovative theatre artists; and by consistently asking the hardest questions, both in our art and in its relation to the world around us." </s> 
+wikipedia.org | <s> the open source software movement creates software on their own, prime example is the successful operating system Linux which now dominates the server domain </s> 
+wikipedia.org | <s> His translation is characteristically both poetic and swift to read, and oriented to the oral/musical tradition in which the work was originally created . </s> 
+wikipedia.org | <s> Erdős wrote of Turán, "In 1940–1941 he created the area of extremal problems in graph theory which is now one of the fastest-growing subjects in combinatorics." </s> 
+wikipedia.org | <s> The only calls to QTJ are the calls to and , which create a QuickTime movie from the specified file, and the calls to create an AWT component from the . This example puts the movie into the frame and immediately starts playing it; if a control bar (aka a "scrubber") were desired, you would create a from the and then create a component from the controller, rather than from the movie. </s> 
+wikipedia.org | <s> In September 2016, Palmer Luckey, the founder of Oculus VR, introduced a 501(c)(4) organization on r/The_Donald called "Nimble America" with the stated purpose of creating and spreading pro-Trump Internet memes through "Facebook ads, billboards, and 'website ops.' </s> 
+wikipedia.org | <s> eaningful application of the reverse doctrine of equivalents will assure that subsequent inventors/users who utilize after-developed technologies to create something entirely different and distinct from what is claimed in a patent–something 'so far changed principle' that it does not truly reflect or embody a protected invention–will not be encumbered by unnecessary and/or inappropriate licensing obligations or damages awards." </s> 
+wikipedia.org | <s> Creating /presenting the project schedule from different angles, either by using a Gantt chart, a network diagram or a bar-network diagram. </s> 
+wikipedia.org | <s> ^ "THE CHANGING NATURE OF THE ECONOMY: THE CRITICAL ROLES OF EDUCATION AND INNOVATION IN CREATING JOBS & OPPORTUNITY IN A KNOWLEDGE ECONOMY" (PDF). </s> 
+wikipedia.org | <s> " was created at a time when I felt so stagnant & alone, but I just couldn't pick up the phone and admit to even my closest friends how hopeless I felt," she wrote in a tweet. </s> 
+wikipedia.org | <s> c. 2002-4: Newington House: renovation works to create new toilet facilities for staff - new concrete floor, partitioning and fittings </s> 
+wikipedia.org | <s> "I do not believe in a possibility of creating a Malorussian common literary language, except for purely popular works of art, and I do not see any possibility of that, and I do not want and I cannot want any artificial attempts to destroy the wholeness of common Russian development, the attempts to lead the Malorussian artists away from writing in the Russian language. </s> 
+wikipedia.org | <s> The Adventures of Jet Jungle (1973–1985) – "most amazing man of our time"; created by Brian O'Shaughnessy and sponsored for many years by the Tiger Oats Company makers of Jungle Oats and Black Cat Peanut Butter </s> 
+wikipedia.org | <s> Andrzej Poniatowski (16 July 1734/5 – Vienna, 3/5 March 1773), Austrian General-Lieutenant in 1760, Austrian Fieldmarshall in 1771 and starost prenski, who was created a Prince on 10 December 1765, and married on 3 May 1761 Maria Teresa, Countess Kinsky von Wchinitz und Tettau (14 February 1740 – 25 September 1806), and had issue </s> 
+wikipedia.org | <s> She also writes, "in creating this original and exquisite book, affirms the power of one individual to change our ideas about the universe we live in." </s> 
+wikipedia.org | <s> The ABCs are designed to operate in the developing markets of Russia and the Newly Independent States to stimulate economic growth and create jobs in the U.S. </s> 

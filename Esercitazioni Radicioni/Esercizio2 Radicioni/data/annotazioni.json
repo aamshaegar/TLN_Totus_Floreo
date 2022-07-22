@@ -1,0 +1,273 @@
+{
+    "Colombino": [{
+            "frame_name": ["Piracy", "Piracy"],
+            "wordnet_synset": "piracy.n.01",
+            "frame_elements": {
+                "Perpetrator": "perpetrator.n.01",
+                "Vehicle": "vehicle.n.01",
+                "Victim": "victim.n.01",
+                "Degree": "degree.n.01",
+                "Event": "event.n.01",
+                "Manner": "manner.n.01",
+                "Duration": "duration.n.01",
+                "Place": "topographic_point.n.01",
+                "Goal": "goal.n.01",
+                "Purpose": "purpose.n.01",
+                "Explanation": "explanation.n.02",
+                "Instrument": "instrument.n.02",
+                "Frequency": "frequency.n.01"
+            },
+            "lexical_units": {
+                "hijack.v": "hijack.v.02",
+                "hijacking.n": "highjacking.n.01",
+                "hijacker.n": "highjacker.n.01",
+                "carjacking.n": "carjacking.n.01",
+                "piracy.n": "piracy.n.01",
+                "carjack.v": "carjack.v.01"
+            }
+        },
+
+        {
+            "frame_name": ["Emotions", "Emotions"],
+            "wordnet_synset": "emotion.n.01",
+            "frame_elements": {
+                "Topic": "subject.n.01",
+                "Stimulus": "stimulation.n.02",
+                "Degree": "degree.n.01",
+                "Explanation": "explanation.n.01",
+                "Circumstances": "circumstance.n.01",
+                "Event": "event.n.01",
+                "Parameter": "'parameter.n.02",
+                "Manner": "manner.n.01"
+            },
+            "lexical_units": {}
+        },
+
+        {
+            "frame_name": ["Departing", "Departing"],
+            "wordnet_synset": "go.v.03",
+            "frame_elements": {
+                "Theme": "subject.n.01",
+                "Path": "path.n.04",
+                "Goal": "finish.n.04",
+                "Manner": "manner.n.02",
+                "Means": "means.n.01",
+                "Speed": "rush.v.01",
+                "Distance": "distance.n.03",
+                "Frequency": "frequency.n.01",
+                "Journey": "journey.n.01",
+                "Place": "topographic_point.n.01",
+                "Depictive": "delineative.s.01",
+                "Explanation": "explanation.n.01",
+                "Purpose": "purpose.n.01",
+                "Iterations": "iteration.n.03",
+                "Circumstances": "circumstance.n.01",
+                "Mode_of_transportation": ["mode", "manner.n.01"],
+                "Duration_of_final_state": ["duration", "duration.n.01"],
+                "Containing_event": ["event", "event.n.01"]
+            },
+
+            "lexical_units": {
+                "decamp.v": "decamp.v.03",
+                "depart.v": "depart.v.03",
+                "departure.n": "departure.n.01",
+                "disappear.v": "vanish.v.02",
+                "disappearance.n": "disappearance.n.01",
+                "escape.n": "escape.n.01",
+                "escape.v": "escape.v.01",
+                "vamoose.v": "decamp.v.03",
+                "vanish.v": "vanish.v.02",
+                "skedaddle.v": "skedaddle.v.01",
+                "exit.v": "exit.v.01",
+                "leave.v": "leave.v.01",
+                "emerge.v": "emerge.v.03",
+                "exit.n": "exit.n.03",
+                "exodus.n": "exodus.n.01"
+            }
+        },
+
+        {
+            "frame_name": ["Usefulness", "Usefulness"],
+            "wordnet_synset": "utility.n.02",
+            "frame_elements": {
+                "Entity": "entity.n.01",
+                "Purpose": "function.n.02",
+                "Degree": "degree.n.01",
+                "Domain": "knowledge_domain.n.01",
+                "Time": "time.n.02"
+            },
+
+            "lexical_units": {
+                "good.a": "good.a.01",
+                "effective.a": "effective.a.01",
+                "excellent.a": "excellent.s.01",
+                "outstanding.a": "outstanding.s.02",
+                "superb.a": "superb.s.02",
+                "wonderful.a": "fantastic.s.02",
+                "fantastic.a": "fantastic.s.02",
+                "fine.a": "fine.s.04",
+                "tremendous.a": "fantastic.s.02",
+                "terrific.a": "fantastic.s.02",
+                "marvellous.a": "fantastic.s.02",
+                "great.a": "bang-up.s.01",
+                "super.a": "ace.s.01",
+                "splendid.a": "excellent.s.01",
+                "useful.a": "utilitarian.s.01",
+                "utility.n": "utility.n.02",
+                "value.n": "value.n.02",
+                "valuable.a": "valuable.n.01",
+                "perfect.a": "perfect.a.01",
+                "ideal.a": "ideal.n.01",
+                "ineffective.a": "ineffective.a.01",
+                "work.v": "function.v.01"
+            }
+        },
+
+        {
+            "frame_name": ["Degree", "Degree"],
+            "wordnet_synset": "degree.n.01",
+            "frame_elements": {},
+            "lexical_units": {
+                "a little.adv": ["little", "little.a.02"],
+                "a little bit.adv": ["little", "little.a.02"],
+                "so.adv": "so.r.01",
+                "very.adv": "very.r.01",
+                "totally.adv": "wholly.r.01",
+                "fully.adv": "fully.r.01",
+                "heavily.adv": "heavily.r.01",
+                "far.adv": "far.r.01",
+                "somewhat.adv": "slightly.r.01",
+                "great.a": "great.s.03",
+                "way.adv": "way.r.01",
+                "particular.a": "especial.s.01"
+            }
+        }
+    ],
+
+    "Akhlaghinia": [
+
+        {
+            "frame_name": ["Existence", "Existence"],
+            "wordnet_synset": "being.n.01",
+            "frame_elements": {
+                "Entity": "entity.n.01",
+                "Time": "time.n.01",
+                "Duration": "duration.n.01",
+                "Inherent_purpose": ["purpose", "purpose.n.01"],
+                "State": "state.n.02",
+                "Explanation": "explanation.n.01",
+                "Place": "topographic_point.n.01",
+                "Circumstances": "circumstance.n.01",
+                "Viewpoint": "point_of_view.n.01",
+                "Concessive": "concessive.a.01"
+
+            },
+            "lexical_units": {
+                "exist.v": "exist.v.01",
+                "existence.n": "being.n.01",
+                "real.a": "real.a.01",
+                "there be.v": ["be", "be.v.01"]
+            }
+        },
+
+        {
+            "frame_name": ["Mental_activity", "activity"],
+            "wordnet_synset": "being.n.01",
+            "frame_elements": {
+                "Content": "content.n.01",
+                "Evidence": "evidence.n.01",
+                "Topic": "subject.n.01",
+                "Degree": "degree.n.01",
+                "Manner": "manner.n.02",
+                "Role": "function.n.03",
+                "Paradigm": "paradigm.n.04",
+                "Time": "time.n.01"
+            },
+
+            "lexical_units": {}
+        },
+
+        {
+            "frame_name": ["Education_teaching", "teaching"],
+            "wordnet_synset": "education.n.01",
+            "frame_elements": {
+                "Teacher": "teacher.n.01",
+                "Student": "student.n.01",
+                "Institution": "institution.n.02",
+                "Subject": "discipline.n.01",
+                "Qualification": "qualification.n.01",
+                "Degree": "degree.n.01",
+                "Depictive": "delineative.s.01",
+                "Manner": "manner.n.01",
+                "Means": "means.n.01",
+                "Result": "consequence.n.01",
+                "Time": "time.n.01",
+                "Place": "topographic_point.n.01",
+                "Duration": "duration.n.01",
+                "Skill": "skill.n.01",
+                "Precept": "principle.n.05",
+                "Fact": "fact.n.01",
+                "Material": "material.n.04",
+                "Role": "function.n.03",
+                "Course": "course.n.01",
+                "Purpose": "purpose.n.01"
+            },
+            "lexical_units": {
+                "student.n": "scholar.n.01",
+                "teacher.n": "teacher.n.01",
+                "professor.n": "professor.n.01",
+                "lecturer.n": "lecturer.n.02",
+                "schoolmaster.n": "schoolmaster.n.02",
+                "study.v": "study.v.05",
+                "tutor.v": "tutor.v.02",
+                "coach.v": "coach.v.01",
+                "learn.v": "learn.v.01",
+                "train.v": "teach.v.01",
+                "training.n": "train.v.02",
+                "teach.v": "teach.v.01",
+                "instruction.n": "education.n.01",
+                "education.n": "education.n.01",
+                "graduate.n": "alumnus.n.01"
+            }
+        },
+
+        {
+            "frame_name": ["Immobilization", "Immobilization"],
+            "wordnet_synset": "immobilization.n.02",
+            "frame_elements": {
+                "Agent": "agentive_role.n.01",
+                "Instrument": "instrument.n.02",
+                "Patient": "affected_role.n.01",
+                "Means": "means.n.01",
+                "Purpose": "purpose.n.01",
+                "Time": "time.n.01",
+                "Place": "topographic_point.n.01",
+                "Anchor": "anchor.v.01",
+                "Degree": "degree.n.01",
+                "Manner": "manner.n.01"
+            },
+            "lexical_units": {
+                "tie up.v": ["tie", "tie.v.01"],
+                "lock up.v": ["lock", "lock.v.03"],
+                "handcuff.v": "manacle.v.01",
+                "shackle.v": "shackle.n.01",
+                "straitjacket.v": "straitjacket.n.02"
+            }
+        },
+        {
+            "frame_name": ["Response_scenario", "scenario"],
+            "wordnet_synset": "scenario.n.03",
+            "frame_elements": {
+                "Responding_entity": ["entity", "entity.n.01"],
+                "Trigger": "trigger.n.03",
+                "Response": "reception.n.01",
+                "Agent": "agentive_role.n.01",
+                "Manner": "manner.n.01",
+                "Place": "topographic_point.n.01",
+                "Purpose": "purpose.n.01",
+                "Time": "time.n.01"
+            },
+            "lexical_units": {}
+        }
+    ]
+}

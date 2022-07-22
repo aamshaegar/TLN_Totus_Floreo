@@ -1,0 +1,523 @@
+***************** Disambiguate frames *****************
+frame: Piracy:
+ - Synset annotation: piracy.n.01
+ - Best Synset: Synset('piracy.n.01')
+ - Correct!
+------------------------------
+frame: Emotions:
+ - Synset annotation: emotion.n.01
+ - Best Synset: Synset('emotion.n.01')
+ - Correct!
+------------------------------
+frame: Departing:
+ - Synset annotation: go.v.03
+ - Best Synset: Synset('depart.v.03')
+ - Wrong!
+------------------------------
+frame: Usefulness:
+ - Synset annotation: utility.n.02
+ - Best Synset: Synset('utility.n.02')
+ - Correct!
+------------------------------
+frame: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.01')
+ - Correct!
+------------------------------
+***************** Disambiguate frame elements *****************
+frame element: Perpetrator:
+ - Synset annotation: perpetrator.n.01
+ - Best Synset: Synset('perpetrator.n.01')
+ - Correct!
+------------------------------
+frame element: Vehicle:
+ - Synset annotation: vehicle.n.01
+ - Best Synset: Synset('vehicle.n.01')
+ - Correct!
+------------------------------
+frame element: Victim:
+ - Synset annotation: victim.n.01
+ - Best Synset: Synset('victim.n.01')
+ - Correct!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.01')
+ - Correct!
+------------------------------
+frame element: Event:
+ - Synset annotation: event.n.01
+ - Best Synset: Synset('event.n.01')
+ - Correct!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('manner.n.01')
+ - Correct!
+------------------------------
+frame element: Duration:
+ - Synset annotation: duration.n.01
+ - Best Synset: Synset('duration.n.01')
+ - Correct!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('place.v.06')
+ - Wrong!
+------------------------------
+frame element: Goal:
+ - Synset annotation: goal.n.01
+ - Best Synset: Synset('finish.n.04')
+ - Wrong!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: Explanation:
+ - Synset annotation: explanation.n.02
+ - Best Synset: Synset('explanation.n.01')
+ - Wrong!
+------------------------------
+frame element: Instrument:
+ - Synset annotation: instrument.n.02
+ - Best Synset: Synset('instrument.n.01')
+ - Wrong!
+------------------------------
+frame element: Frequency:
+ - Synset annotation: frequency.n.01
+ - Best Synset: Synset('frequency.n.01')
+ - Correct!
+------------------------------
+frame element: Topic:
+ - Synset annotation: subject.n.01
+ - Best Synset: Synset('topic.n.02')
+ - Wrong!
+------------------------------
+frame element: Stimulus:
+ - Synset annotation: stimulation.n.02
+ - Best Synset: Synset('stimulation.n.02')
+ - Correct!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.02')
+ - Wrong!
+------------------------------
+frame element: Explanation:
+ - Synset annotation: explanation.n.01
+ - Best Synset: Synset('explanation.n.01')
+ - Correct!
+------------------------------
+frame element: Circumstances:
+ - Synset annotation: circumstance.n.01
+ - Best Synset: Synset('circumstance.n.01')
+ - Correct!
+------------------------------
+frame element: Event:
+ - Synset annotation: event.n.01
+ - Best Synset: Synset('consequence.n.01')
+ - Wrong!
+------------------------------
+frame element: Parameter:
+ - Synset annotation: 'parameter.n.02
+ - Best Synset: Synset('parameter.n.01')
+ - Wrong!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('manner.n.01')
+ - Correct!
+------------------------------
+frame element: Theme:
+ - Synset annotation: subject.n.01
+ - Best Synset: Synset('subject.n.01')
+ - Correct!
+------------------------------
+frame element: Path:
+ - Synset annotation: path.n.04
+ - Best Synset: Synset('path.n.04')
+ - Correct!
+------------------------------
+frame element: Goal:
+ - Synset annotation: finish.n.04
+ - Best Synset: Synset('goal.n.04')
+ - Wrong!
+------------------------------
+frame element: Manner:
+ - Synset annotation: manner.n.02
+ - Best Synset: Synset('manner.n.01')
+ - Wrong!
+------------------------------
+frame element: Means:
+ - Synset annotation: means.n.01
+ - Best Synset: Synset('means.n.01')
+ - Correct!
+------------------------------
+frame element: Speed:
+ - Synset annotation: rush.v.01
+ - Best Synset: Synset('speed.n.03')
+ - Wrong!
+------------------------------
+frame element: Distance:
+ - Synset annotation: distance.n.03
+ - Best Synset: Synset('distance.n.03')
+ - Correct!
+------------------------------
+frame element: Frequency:
+ - Synset annotation: frequency.n.01
+ - Best Synset: Synset('frequency.n.01')
+ - Correct!
+------------------------------
+frame element: Journey:
+ - Synset annotation: journey.n.01
+ - Best Synset: Synset('travel.v.02')
+ - Wrong!
+------------------------------
+frame element: Place:
+ - Synset annotation: topographic_point.n.01
+ - Best Synset: Synset('topographic_point.n.01')
+ - Correct!
+------------------------------
+frame element: Depictive:
+ - Synset annotation: delineative.s.01
+ - Best Synset: Synset('delineative.s.01')
+ - Correct!
+------------------------------
+frame element: Explanation:
+ - Synset annotation: explanation.n.01
+ - Best Synset: Synset('explanation.n.01')
+ - Correct!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: purpose.n.01
+ - Best Synset: Synset('purpose.n.01')
+ - Correct!
+------------------------------
+frame element: Iterations:
+ - Synset annotation: iteration.n.03
+ - Best Synset: Synset('iteration.n.02')
+ - Wrong!
+------------------------------
+frame element: Circumstances:
+ - Synset annotation: circumstance.n.01
+ - Best Synset: Synset('circumstance.n.01')
+ - Correct!
+------------------------------
+frame element: mode:
+ - Synset annotation: manner.n.01
+ - Best Synset: Synset('mood.n.03')
+ - Wrong!
+------------------------------
+frame element: duration:
+ - Synset annotation: duration.n.01
+ - Best Synset: Synset('duration.n.03')
+ - Wrong!
+------------------------------
+frame element: event:
+ - Synset annotation: event.n.01
+ - Best Synset: Synset('event.n.01')
+ - Correct!
+------------------------------
+frame element: Entity:
+ - Synset annotation: entity.n.01
+ - Best Synset: Synset('entity.n.01')
+ - Correct!
+------------------------------
+frame element: Purpose:
+ - Synset annotation: function.n.02
+ - Best Synset: Synset('function.n.02')
+ - Correct!
+------------------------------
+frame element: Degree:
+ - Synset annotation: degree.n.01
+ - Best Synset: Synset('degree.n.01')
+ - Correct!
+------------------------------
+frame element: Domain:
+ - Synset annotation: knowledge_domain.n.01
+ - Best Synset: Synset('sphere.n.01')
+ - Wrong!
+------------------------------
+frame element: Time:
+ - Synset annotation: time.n.02
+ - Best Synset: Synset('time.n.05')
+ - Wrong!
+------------------------------
+***************** Disambiguate lexical units *****************
+lexical unit: hijack:
+ - Synset annotation: hijack.v.02
+ - Best Synset: Synset('hijack.n.01')
+ - Wrong!
+------------------------------
+lexical unit: hijacking:
+ - Synset annotation: highjacking.n.01
+ - Best Synset: Synset('highjacking.n.01')
+ - Correct!
+------------------------------
+lexical unit: hijacker:
+ - Synset annotation: highjacker.n.01
+ - Best Synset: Synset('highjacker.n.02')
+ - Wrong!
+------------------------------
+lexical unit: carjacking:
+ - Synset annotation: carjacking.n.01
+ - Best Synset: Synset('carjack.v.01')
+ - Wrong!
+------------------------------
+lexical unit: piracy:
+ - Synset annotation: piracy.n.01
+ - Best Synset: Synset('piracy.n.01')
+ - Correct!
+------------------------------
+lexical unit: carjack:
+ - Synset annotation: carjack.v.01
+ - Best Synset: Synset('carjack.v.01')
+ - Correct!
+------------------------------
+lexical unit: decamp:
+ - Synset annotation: decamp.v.03
+ - Best Synset: Synset('decamp.v.03')
+ - Correct!
+------------------------------
+lexical unit: depart:
+ - Synset annotation: depart.v.03
+ - Best Synset: Synset('go.v.03')
+ - Wrong!
+------------------------------
+lexical unit: departure:
+ - Synset annotation: departure.n.01
+ - Best Synset: Synset('departure.n.01')
+ - Correct!
+------------------------------
+lexical unit: disappear:
+ - Synset annotation: vanish.v.02
+ - Best Synset: Synset('vanish.v.04')
+ - Wrong!
+------------------------------
+lexical unit: disappearance:
+ - Synset annotation: disappearance.n.01
+ - Best Synset: Synset('fade.n.02')
+ - Wrong!
+------------------------------
+lexical unit: escape:
+ - Synset annotation: escape.n.01
+ - Best Synset: Synset('escape.n.01')
+ - Correct!
+------------------------------
+lexical unit: escape:
+ - Synset annotation: escape.v.01
+ - Best Synset: Synset('scat.v.01')
+ - Wrong!
+------------------------------
+lexical unit: vamoose:
+ - Synset annotation: decamp.v.03
+ - Best Synset: Synset('decamp.v.03')
+ - Correct!
+------------------------------
+lexical unit: vanish:
+ - Synset annotation: vanish.v.02
+ - Best Synset: Synset('vanish.v.02')
+ - Correct!
+------------------------------
+lexical unit: skedaddle:
+ - Synset annotation: skedaddle.v.01
+ - Best Synset: Synset('skedaddle.n.01')
+ - Wrong!
+------------------------------
+lexical unit: exit:
+ - Synset annotation: exit.v.01
+ - Best Synset: Synset('exit.v.01')
+ - Correct!
+------------------------------
+lexical unit: leave:
+ - Synset annotation: leave.v.01
+ - Best Synset: Synset('leave.v.01')
+ - Correct!
+------------------------------
+lexical unit: emerge:
+ - Synset annotation: emerge.v.03
+ - Best Synset: Synset('emerge.v.01')
+ - Wrong!
+------------------------------
+lexical unit: exit:
+ - Synset annotation: exit.n.03
+ - Best Synset: Synset('exit.n.03')
+ - Correct!
+------------------------------
+lexical unit: exodus:
+ - Synset annotation: exodus.n.01
+ - Best Synset: Synset('exodus.n.02')
+ - Wrong!
+------------------------------
+lexical unit: good:
+ - Synset annotation: good.a.01
+ - Best Synset: Synset('good.n.01')
+ - Wrong!
+------------------------------
+lexical unit: effective:
+ - Synset annotation: effective.a.01
+ - Best Synset: Synset('effective.a.01')
+ - Correct!
+------------------------------
+lexical unit: excellent:
+ - Synset annotation: excellent.s.01
+ - Best Synset: Synset('excellent.s.01')
+ - Correct!
+------------------------------
+lexical unit: outstanding:
+ - Synset annotation: outstanding.s.02
+ - Best Synset: Synset('outstanding.s.02')
+ - Correct!
+------------------------------
+lexical unit: superb:
+ - Synset annotation: superb.s.02
+ - Best Synset: Synset('brilliant.s.01')
+ - Wrong!
+------------------------------
+lexical unit: wonderful:
+ - Synset annotation: fantastic.s.02
+ - Best Synset: Synset('fantastic.s.02')
+ - Correct!
+------------------------------
+lexical unit: fantastic:
+ - Synset annotation: fantastic.s.02
+ - Best Synset: Synset('fantastic.s.02')
+ - Correct!
+------------------------------
+lexical unit: fine:
+ - Synset annotation: fine.s.04
+ - Best Synset: Synset('fine.s.06')
+ - Wrong!
+------------------------------
+lexical unit: tremendous:
+ - Synset annotation: fantastic.s.02
+ - Best Synset: Synset('fantastic.s.02')
+ - Correct!
+------------------------------
+lexical unit: terrific:
+ - Synset annotation: fantastic.s.02
+ - Best Synset: Synset('fantastic.s.02')
+ - Correct!
+------------------------------
+lexical unit: marvellous:
+ - Synset annotation: fantastic.s.02
+ - Best Synset: Synset('fantastic.s.02')
+ - Correct!
+------------------------------
+lexical unit: great:
+ - Synset annotation: bang-up.s.01
+ - Best Synset: Synset('great.n.01')
+ - Wrong!
+------------------------------
+lexical unit: super:
+ - Synset annotation: ace.s.01
+ - Best Synset: Synset('superintendent.n.02')
+ - Wrong!
+------------------------------
+lexical unit: splendid:
+ - Synset annotation: excellent.s.01
+ - Best Synset: Synset('excellent.s.01')
+ - Correct!
+------------------------------
+lexical unit: useful:
+ - Synset annotation: utilitarian.s.01
+ - Best Synset: Synset('useful.a.01')
+ - Wrong!
+------------------------------
+lexical unit: utility:
+ - Synset annotation: utility.n.02
+ - Best Synset: Synset('utility.n.02')
+ - Correct!
+------------------------------
+lexical unit: value:
+ - Synset annotation: value.n.02
+ - Best Synset: Synset('respect.v.01')
+ - Wrong!
+------------------------------
+lexical unit: valuable:
+ - Synset annotation: valuable.n.01
+ - Best Synset: Synset('valuable.n.01')
+ - Correct!
+------------------------------
+lexical unit: perfect:
+ - Synset annotation: perfect.a.01
+ - Best Synset: Synset('perfective.n.01')
+ - Wrong!
+------------------------------
+lexical unit: ideal:
+ - Synset annotation: ideal.n.01
+ - Best Synset: Synset('ideal.n.01')
+ - Correct!
+------------------------------
+lexical unit: ineffective:
+ - Synset annotation: ineffective.a.01
+ - Best Synset: Synset('ineffective.a.01')
+ - Correct!
+------------------------------
+lexical unit: work:
+ - Synset annotation: function.v.01
+ - Best Synset: Synset('employment.n.02')
+ - Wrong!
+------------------------------
+lexical unit: little:
+ - Synset annotation: little.a.02
+ - Best Synset: Synset('little.a.02')
+ - Correct!
+------------------------------
+lexical unit: little:
+ - Synset annotation: little.a.02
+ - Best Synset: Synset('little.a.02')
+ - Correct!
+------------------------------
+lexical unit: so:
+ - Synset annotation: so.r.01
+ - Best Synset: Synset('so.r.01')
+ - Correct!
+------------------------------
+lexical unit: very:
+ - Synset annotation: very.r.01
+ - Best Synset: Synset('very.s.01')
+ - Wrong!
+------------------------------
+lexical unit: totally:
+ - Synset annotation: wholly.r.01
+ - Best Synset: Synset('wholly.r.01')
+ - Correct!
+------------------------------
+lexical unit: fully:
+ - Synset annotation: fully.r.01
+ - Best Synset: Synset('fully.r.01')
+ - Correct!
+------------------------------
+lexical unit: heavily:
+ - Synset annotation: heavily.r.01
+ - Best Synset: Synset('heavily.r.01')
+ - Correct!
+------------------------------
+lexical unit: far:
+ - Synset annotation: far.r.01
+ - Best Synset: Synset('far.r.01')
+ - Correct!
+------------------------------
+lexical unit: somewhat:
+ - Synset annotation: slightly.r.01
+ - Best Synset: Synset('slightly.r.01')
+ - Correct!
+------------------------------
+lexical unit: great:
+ - Synset annotation: great.s.03
+ - Best Synset: Synset('great.n.01')
+ - Wrong!
+------------------------------
+lexical unit: way:
+ - Synset annotation: way.r.01
+ - Best Synset: Synset('way.n.04')
+ - Wrong!
+------------------------------
+lexical unit: particular:
+ - Synset annotation: especial.s.01
+ - Best Synset: Synset('especial.s.01')
+ - Correct!
+------------------------------
